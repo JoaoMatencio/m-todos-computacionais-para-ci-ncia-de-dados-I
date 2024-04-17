@@ -18,9 +18,11 @@ start_time_for <- Sys.time()
 factorial_result_loop <- calculate_factorial(n)
 end_time_for <- Sys.time()
 
+
 start_time_factorial <- Sys.time()
 factorial_result_builtin <- factorial(n)  # Using R's built-in factorial function for comparison.
 end_time_factorial <- Sys.time()
+
 
 time_for <- end_time_for - start_time_for
 time_factorial <- end_time_factorial - start_time_factorial
@@ -101,6 +103,7 @@ sum_with_repeat <- function(vector) {
   return(sum)
 }
 
+
 vector_1_1000 <- 1:1000
 
 
@@ -134,9 +137,11 @@ print(paste("Repeat loop is", diff_time_repeat, "times slower than built-in sum(
 
 # Question 4:) Measures of Central Tendency
 
+
 # Load necessary package for geometric mean if not already installed
 if (!require(psych)) install.packages("psych", dependencies=TRUE)
 if (!require(DescTools)) install.packages("DescTools", dependencies=TRUE)
+
 
 # Function to calculate measures of central tendency
 calculate_measure <- function(vector, measure) {
@@ -148,8 +153,8 @@ calculate_measure <- function(vector, measure) {
     # Using psych::geometric.mean for geometric mean
     result <- psych::geometric.mean(vector)
   } else if (measure == "harmonic_mean") {
-    # Using DescTools::HarmonicMean for harmonic mean
-    result <- DescTools::HarmonicMean(vector)
+    # Corrected usage: Using DescTools::Hmean for harmonic mean
+    result <- DescTools::Hmean(vector)
   } else if (measure == "trimmed_mean") {
     # Calculating trimmed mean with 10% trimmed from both ends
     result <- mean(vector, trim = 0.1)
@@ -159,6 +164,7 @@ calculate_measure <- function(vector, measure) {
   }
   return(result)
 }
+
 
 # Example usage of the function
 vector <- c(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
@@ -174,18 +180,20 @@ print(result)
 if (!require(psych)) install.packages("psych", dependencies=TRUE)
 if (!require(DescTools)) install.packages("DescTools", dependencies=TRUE)
 
+
 # Function to calculate central tendency measures using switch
 calculate_measure_switch <- function(vector, measure) {
   result <- switch(measure,
                    "mean" = mean(vector),
                    "median" = median(vector),
                    "geometric_mean" = psych::geometric.mean(vector),
-                   "harmonic_mean" = DescTools::HarmonicMean(vector),
+                   "harmonic_mean" = DescTools::Hmean(vector),
                    "trimmed_mean" = mean(vector, trim = 0.1),
                    stop("Chosen measure is invalid.")
   )
   return(result)
 }
+
 
 # Example usage of the function
 vector <- c(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
@@ -195,6 +203,7 @@ print(result)
 
 
 # Question 6:) Triangular Density Function
+
 
 triangular_density <- function(x, a, b, c) {
   if (x < a || x > c) {
@@ -212,14 +221,17 @@ triangular_density <- function(x, a, b, c) {
   }
 }
 
+
 # Example usage:
 # Define the parameters for the triangular distribution
 a <- 1
 b <- 3
 c <- 5
 
+
 # Define the point at which to calculate the density
 x <- 2.5
+
 
 # Calculate the density
 density <- triangular_density(x, a, b, c)
@@ -236,16 +248,21 @@ Peter
 Anna
 Luis")
 
+
 # Using readLines to read from the text connection and store the names in a vector
 names <- readLines(names_connection)
+
 
 # Closing the text connection
 close(names_connection)
 
+
 # Displaying the names vector
 print(names)
 
+
 # Question 8) Writing and Reading Data
+
 
 # Install and load the necessary packages if not installed already
 if (!requireNamespace("nycflights13", quietly = TRUE)) {
@@ -261,26 +278,31 @@ if (!requireNamespace("writexl", quietly = TRUE)) {
   install.packages("writexl")
 }
 
+
 # Load libraries
 library(nycflights13)
 library(gapminder)
 library(MASS)
 library(writexl)
 
+
 # Choose datasets
 data1 <- as.data.frame(faithful)  # Sample dataset 1 from MASS package
 data2 <- nycflights13::flights     # Sample dataset 2 from nycflights13 package
 data3 <- gapminder::gapminder     # Sample dataset 3 from gapminder package
+
 
 # Write data to text file (.txt)
 write.table(data1, "data1.txt", sep = "\t", row.names = FALSE)
 write.csv(data2, "data2.csv", row.names = FALSE)
 write_xlsx(data3, "data3.xlsx")
 
+
 # Import data back into R
 data1 <- read.table("data1.txt", header = TRUE)
 data2 <- read.csv("data2.csv", header = TRUE)
 data3 <- readxl::read_xlsx("data3.xlsx")
+
 
 # Displaying data
 print(head(data1))
@@ -290,10 +312,12 @@ print(head(data3))
 
 # Question 9) Custom Function for Incrementing a Variable
 
+
 `+=` <- function(variable, value) {
   variable <- variable + value
   return(variable)
 }
+
 
 # Example usage:
 x <- 5
@@ -330,6 +354,48 @@ if (run_tests) {
   # Test for sum calculation correctness using repeat loop
   if (sum_vector_with_repeat != sum_vector_with_sum) {
     failed_tests <- c(failed_tests, "Sum calculation with repeat loop")
+  }
+
+
+  # Tests for measures of central tendency
+  test_vector <- c(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+  expected_results <- list(
+    mean = mean(test_vector),
+    median = median(test_vector),
+    geometric_mean = psych::geometric.mean(test_vector),
+    harmonic_mean = DescTools::Hmean(test_vector),
+    trimmed_mean = mean(test_vector, trim = 0.1)
+  )
+  
+
+  for (measure in names(expected_results)) {
+    calculated_result <- calculate_measure(test_vector, measure)
+    if (!is.na(calculated_result) && calculated_result != expected_results[[measure]]) {
+      failed_tests <- c(failed_tests, paste("Central Tendency -", measure))
+    }
+  }
+
+
+  # Test for triangular density function correctness
+  test_density <- triangular_density(2.5, 1, 3, 5)
+  expected_density <- (2 * (2.5 - 1)) / ((3 - 1) * (5 - 1)) # Manually calculated expected value
+  if (test_density != expected_density) {
+    failed_tests <- c(failed_tests, "Triangular density function")
+  }
+
+
+  # Test for reading names from a text connection
+  expected_names <- c("John", "Maria", "Peter", "Anna", "Luis")
+  if (!all(names == expected_names)) {
+    failed_tests <- c(failed_tests, "Reading names from text connection")
+  }
+
+
+  # Test for incrementing variable function correctness
+  x <- 5
+  x <- `+=`(x, 3)
+  if (x != 8) {
+    failed_tests <- c(failed_tests, "Incrementing variable")
   }
 
 
