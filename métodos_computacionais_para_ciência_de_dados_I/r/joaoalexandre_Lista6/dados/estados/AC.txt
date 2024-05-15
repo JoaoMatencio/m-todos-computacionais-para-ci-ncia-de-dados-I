@@ -1,0 +1,1121 @@
+"COD_UF";"NO_UF";"COD_MUN";"NO_MUN";"SEXO";"ETNIA";"LE_ESCREVE";"SIT_DOM";"POP"
+12;"AC";1200013;"Acrelândia";"Feminino";"Amarela";"Sim";"Rural";27.9717688568335
+12;"AC";1200013;"Acrelândia";"Feminino";"Branca";"Não";"Rural";111.795517241498
+12;"AC";1200013;"Acrelândia";"Feminino";"Branca";"Sim";"Rural";570.058534153324
+12;"AC";1200013;"Acrelândia";"Feminino";"Branca";NA;"Rural";136.626238522657
+12;"AC";1200013;"Acrelândia";"Feminino";"Parda";"Não";"Rural";405.074611209471
+12;"AC";1200013;"Acrelândia";"Feminino";"Parda";"Sim";"Rural";1424.26978033718
+12;"AC";1200013;"Acrelândia";"Feminino";"Parda";NA;"Rural";181.053560573974
+12;"AC";1200013;"Acrelândia";"Feminino";"Preta";"Não";"Rural";32.7944811096932
+12;"AC";1200013;"Acrelândia";"Feminino";"Preta";"Sim";"Rural";80.6174092993094
+12;"AC";1200013;"Acrelândia";"Feminino";"Preta";NA;"Rural";5.7380986960643
+12;"AC";1200013;"Acrelândia";"Masculino";"Amarela";"Não";"Rural";14.3055860936476
+12;"AC";1200013;"Acrelândia";"Masculino";"Amarela";"Sim";"Rural";10.3841211865652
+12;"AC";1200013;"Acrelândia";"Masculino";"Branca";"Não";"Rural";97.7655104296604
+12;"AC";1200013;"Acrelândia";"Masculino";"Branca";"Sim";"Rural";615.626898829088
+12;"AC";1200013;"Acrelândia";"Masculino";"Branca";NA;"Rural";94.3369889304347
+12;"AC";1200013;"Acrelândia";"Masculino";"Parda";"Não";"Rural";567.42978617158
+12;"AC";1200013;"Acrelândia";"Masculino";"Parda";"Sim";"Rural";1819.73522809082
+12;"AC";1200013;"Acrelândia";"Masculino";"Parda";NA;"Rural";171.414826878924
+12;"AC";1200013;"Acrelândia";"Masculino";"Preta";"Não";"Rural";75.5072220139148
+12;"AC";1200013;"Acrelândia";"Masculino";"Preta";"Sim";"Rural";151.360687515047
+12;"AC";1200013;"Acrelândia";"Masculino";"Preta";NA;"Rural";28.1331438603172
+12;"AC";1200013;"Acrelândia";"Feminino";"Amarela";"Sim";"Urbana";17.928051326168
+12;"AC";1200013;"Acrelândia";"Feminino";"Amarela";NA;"Urbana";11.5338803870521
+12;"AC";1200013;"Acrelândia";"Feminino";"Branca";"Não";"Urbana";109.394543273467
+12;"AC";1200013;"Acrelândia";"Feminino";"Branca";"Sim";"Urbana";623.765338499477
+12;"AC";1200013;"Acrelândia";"Feminino";"Branca";NA;"Urbana";108.841115083973
+12;"AC";1200013;"Acrelândia";"Feminino";"Parda";"Não";"Urbana";257.896127662279
+12;"AC";1200013;"Acrelândia";"Feminino";"Parda";"Sim";"Urbana";1572.01747786698
+12;"AC";1200013;"Acrelândia";"Feminino";"Parda";NA;"Urbana";196.265190923544
+12;"AC";1200013;"Acrelândia";"Feminino";"Preta";"Não";"Urbana";5.2562637945052
+12;"AC";1200013;"Acrelândia";"Feminino";"Preta";"Sim";"Urbana";67.1020111825527
+12;"AC";1200013;"Acrelândia";"Masculino";"Amarela";"Não";"Urbana";10.1935216159028
+12;"AC";1200013;"Acrelândia";"Masculino";"Amarela";"Sim";"Urbana";35.329762658252
+12;"AC";1200013;"Acrelândia";"Masculino";"Amarela";NA;"Urbana";4.6907463627948
+12;"AC";1200013;"Acrelândia";"Masculino";"Branca";"Não";"Urbana";100.378101128674
+12;"AC";1200013;"Acrelândia";"Masculino";"Branca";"Sim";"Urbana";676.804753424105
+12;"AC";1200013;"Acrelândia";"Masculino";"Branca";NA;"Urbana";138.879048712227
+12;"AC";1200013;"Acrelândia";"Masculino";"Parda";"Não";"Urbana";217.780102483778
+12;"AC";1200013;"Acrelândia";"Masculino";"Parda";"Sim";"Urbana";1449.78453013971
+12;"AC";1200013;"Acrelândia";"Masculino";"Parda";NA;"Urbana";205.030221753921
+12;"AC";1200013;"Acrelândia";"Masculino";"Preta";"Não";"Urbana";25.5793588498492
+12;"AC";1200013;"Acrelândia";"Masculino";"Preta";"Sim";"Urbana";81.5498528707878
+12;"AC";1200054;"Assis Brasil";"Feminino";"Amarela";"Sim";"Rural";6.8976031717898
+12;"AC";1200054;"Assis Brasil";"Feminino";"Branca";"Não";"Rural";72.08132335823
+12;"AC";1200054;"Assis Brasil";"Feminino";"Branca";"Sim";"Rural";236.329174989081
+12;"AC";1200054;"Assis Brasil";"Feminino";"Branca";NA;"Rural";42.1790261791519
+12;"AC";1200054;"Assis Brasil";"Feminino";"Indígena";"Não";"Rural";149.746053313441
+12;"AC";1200054;"Assis Brasil";"Feminino";"Indígena";"Sim";"Rural";40.0793068764613
+12;"AC";1200054;"Assis Brasil";"Feminino";"Indígena";NA;"Rural";61.6125600375905
+12;"AC";1200054;"Assis Brasil";"Feminino";"Parda";"Não";"Rural";102.742967338186
+12;"AC";1200054;"Assis Brasil";"Feminino";"Parda";"Sim";"Rural";305.584862855143
+12;"AC";1200054;"Assis Brasil";"Feminino";"Parda";NA;"Rural";66.0549091007191
+12;"AC";1200054;"Assis Brasil";"Feminino";"Preta";"Não";"Rural";12.660790575895
+12;"AC";1200054;"Assis Brasil";"Feminino";"Preta";"Sim";"Rural";15.0314222043053
+12;"AC";1200054;"Assis Brasil";"Masculino";"Amarela";"Não";"Rural";2.1286919032421
+12;"AC";1200054;"Assis Brasil";"Masculino";"Branca";"Não";"Rural";81.7482188972495
+12;"AC";1200054;"Assis Brasil";"Masculino";"Branca";"Sim";"Rural";252.306825319229
+12;"AC";1200054;"Assis Brasil";"Masculino";"Branca";NA;"Rural";45.4517179750036
+12;"AC";1200054;"Assis Brasil";"Masculino";"Indígena";"Não";"Rural";130.935718353978
+12;"AC";1200054;"Assis Brasil";"Masculino";"Indígena";"Sim";"Rural";49.1799185681496
+12;"AC";1200054;"Assis Brasil";"Masculino";"Indígena";NA;"Rural";35.0127772923964
+12;"AC";1200054;"Assis Brasil";"Masculino";"Parda";"Não";"Rural";194.131228596508
+12;"AC";1200054;"Assis Brasil";"Masculino";"Parda";"Sim";"Rural";357.826733403995
+12;"AC";1200054;"Assis Brasil";"Masculino";"Parda";NA;"Rural";78.6644686647255
+12;"AC";1200054;"Assis Brasil";"Masculino";"Preta";"Não";"Rural";14.3345051630791
+12;"AC";1200054;"Assis Brasil";"Masculino";"Preta";"Sim";"Rural";19.2791958624409
+12;"AC";1200054;"Assis Brasil";"Feminino";"Amarela";"Não";"Urbana";9.6162031234337
+12;"AC";1200054;"Assis Brasil";"Feminino";"Amarela";"Sim";"Urbana";63.8115955213785
+12;"AC";1200054;"Assis Brasil";"Feminino";"Branca";"Não";"Urbana";68.7903589642852
+12;"AC";1200054;"Assis Brasil";"Feminino";"Branca";"Sim";"Urbana";351.78648312496
+12;"AC";1200054;"Assis Brasil";"Feminino";"Branca";NA;"Urbana";64.548023846668
+12;"AC";1200054;"Assis Brasil";"Feminino";"Indígena";"Não";"Urbana";15.7799034374731
+12;"AC";1200054;"Assis Brasil";"Feminino";"Indígena";"Sim";"Urbana";7.5952910438429
+12;"AC";1200054;"Assis Brasil";"Feminino";"Indígena";NA;"Urbana";2.601142786203
+12;"AC";1200054;"Assis Brasil";"Feminino";"Parda";"Não";"Urbana";111.145281858014
+12;"AC";1200054;"Assis Brasil";"Feminino";"Parda";"Sim";"Urbana";960.583766318044
+12;"AC";1200054;"Assis Brasil";"Feminino";"Parda";NA;"Urbana";125.135351180717
+12;"AC";1200054;"Assis Brasil";"Feminino";"Preta";"Não";"Urbana";20.5586595232372
+12;"AC";1200054;"Assis Brasil";"Feminino";"Preta";"Sim";"Urbana";68.0479392717351
+12;"AC";1200054;"Assis Brasil";"Masculino";"Amarela";"Não";"Urbana";17.693005337228
+12;"AC";1200054;"Assis Brasil";"Masculino";"Amarela";"Sim";"Urbana";29.1133719475676
+12;"AC";1200054;"Assis Brasil";"Masculino";"Amarela";NA;"Urbana";10.5106729038362
+12;"AC";1200054;"Assis Brasil";"Masculino";"Branca";"Não";"Urbana";68.6715239298263
+12;"AC";1200054;"Assis Brasil";"Masculino";"Branca";"Sim";"Urbana";308.876196202513
+12;"AC";1200054;"Assis Brasil";"Masculino";"Branca";NA;"Urbana";45.2765397823339
+12;"AC";1200054;"Assis Brasil";"Masculino";"Indígena";"Não";"Urbana";13.0177659004356
+12;"AC";1200054;"Assis Brasil";"Masculino";"Indígena";"Sim";"Urbana";14.6284210982695
+12;"AC";1200054;"Assis Brasil";"Masculino";"Indígena";NA;"Urbana";10.7905531567349
+12;"AC";1200054;"Assis Brasil";"Masculino";"Parda";"Não";"Urbana";143.524388299234
+12;"AC";1200054;"Assis Brasil";"Masculino";"Parda";"Sim";"Urbana";881.439469033606
+12;"AC";1200054;"Assis Brasil";"Masculino";"Parda";NA;"Urbana";159.016120767724
+12;"AC";1200054;"Assis Brasil";"Masculino";"Preta";"Não";"Urbana";16.9905901036934
+12;"AC";1200054;"Assis Brasil";"Masculino";"Preta";"Sim";"Urbana";107.886729918005
+12;"AC";1200054;"Assis Brasil";"Masculino";"Preta";NA;"Urbana";2.5646516189811
+12;"AC";1200104;"Brasiléia";"Feminino";"Amarela";"Não";"Rural";8.6830542514465
+12;"AC";1200104;"Brasiléia";"Feminino";"Amarela";"Sim";"Rural";33.6692180359986
+12;"AC";1200104;"Brasiléia";"Feminino";"Amarela";NA;"Rural";19.3008492891456
+12;"AC";1200104;"Brasiléia";"Feminino";"Branca";"Não";"Rural";149.878700565332
+12;"AC";1200104;"Brasiléia";"Feminino";"Branca";"Sim";"Rural";491.969729186203
+12;"AC";1200104;"Brasiléia";"Feminino";"Branca";NA;"Rural";101.634808414707
+12;"AC";1200104;"Brasiléia";"Feminino";"Parda";"Não";"Rural";553.876383753731
+12;"AC";1200104;"Brasiléia";"Feminino";"Parda";"Sim";"Rural";1466.68872851137
+12;"AC";1200104;"Brasiléia";"Feminino";"Parda";NA;"Rural";191.539373307235
+12;"AC";1200104;"Brasiléia";"Feminino";"Preta";"Não";"Rural";35.8673337224391
+12;"AC";1200104;"Brasiléia";"Feminino";"Preta";"Sim";"Rural";91.4376412217522
+12;"AC";1200104;"Brasiléia";"Feminino";"Preta";NA;"Rural";23.4541797406383
+12;"AC";1200104;"Brasiléia";"Masculino";"Amarela";"Não";"Rural";37.5249775213077
+12;"AC";1200104;"Brasiléia";"Masculino";"Amarela";"Sim";"Rural";73.7000580634134
+12;"AC";1200104;"Brasiléia";"Masculino";"Amarela";NA;"Rural";8.6830542514465
+12;"AC";1200104;"Brasiléia";"Masculino";"Branca";"Não";"Rural";203.337882817
+12;"AC";1200104;"Brasiléia";"Masculino";"Branca";"Sim";"Rural";537.054510157127
+12;"AC";1200104;"Brasiléia";"Masculino";"Branca";NA;"Rural";79.113607849218
+12;"AC";1200104;"Brasiléia";"Masculino";"Parda";"Não";"Rural";758.930337866339
+12;"AC";1200104;"Brasiléia";"Masculino";"Parda";"Sim";"Rural";1913.90879904863
+12;"AC";1200104;"Brasiléia";"Masculino";"Parda";NA;"Rural";232.79953727207
+12;"AC";1200104;"Brasiléia";"Masculino";"Preta";"Não";"Rural";34.9373020486262
+12;"AC";1200104;"Brasiléia";"Masculino";"Preta";"Sim";"Rural";82.108451647714
+12;"AC";1200104;"Brasiléia";"Masculino";"Preta";NA;"Rural";10.9014814571117
+12;"AC";1200104;"Brasiléia";"Feminino";"Amarela";"Não";"Urbana";20.7069073994531
+12;"AC";1200104;"Brasiléia";"Feminino";"Amarela";"Sim";"Urbana";113.272101569343
+12;"AC";1200104;"Brasiléia";"Feminino";"Amarela";NA;"Urbana";9.9250962115458
+12;"AC";1200104;"Brasiléia";"Feminino";"Branca";"Não";"Urbana";174.865866323585
+12;"AC";1200104;"Brasiléia";"Feminino";"Branca";"Sim";"Urbana";1418.99233700828
+12;"AC";1200104;"Brasiléia";"Feminino";"Branca";NA;"Urbana";223.65861866782
+12;"AC";1200104;"Brasiléia";"Feminino";"Indígena";"Não";"Urbana";50.0856158316736
+12;"AC";1200104;"Brasiléia";"Feminino";"Indígena";NA;"Urbana";12.5214039579184
+12;"AC";1200104;"Brasiléia";"Feminino";"Parda";"Não";"Urbana";660.114544980563
+12;"AC";1200104;"Brasiléia";"Feminino";"Parda";"Sim";"Urbana";3572.13000687926
+12;"AC";1200104;"Brasiléia";"Feminino";"Parda";NA;"Urbana";321.255371607486
+12;"AC";1200104;"Brasiléia";"Feminino";"Preta";"Não";"Urbana";130.826670634151
+12;"AC";1200104;"Brasiléia";"Feminino";"Preta";"Sim";"Urbana";441.552565587148
+12;"AC";1200104;"Brasiléia";"Feminino";"Preta";NA;"Urbana";43.0928933417754
+12;"AC";1200104;"Brasiléia";"Masculino";"Amarela";"Não";"Urbana";9.9022453186642
+12;"AC";1200104;"Brasiléia";"Masculino";"Amarela";"Sim";"Urbana";89.6792792550496
+12;"AC";1200104;"Brasiléia";"Masculino";"Branca";"Não";"Urbana";170.627194776168
+12;"AC";1200104;"Brasiléia";"Masculino";"Branca";"Sim";"Urbana";1178.98211596282
+12;"AC";1200104;"Brasiléia";"Masculino";"Branca";NA;"Urbana";264.380794755006
+12;"AC";1200104;"Brasiléia";"Masculino";"Indígena";"Não";"Urbana";37.5642118737552
+12;"AC";1200104;"Brasiléia";"Masculino";"Indígena";"Sim";"Urbana";12.5214039579184
+12;"AC";1200104;"Brasiléia";"Masculino";"Indígena";NA;"Urbana";12.5214039579184
+12;"AC";1200104;"Brasiléia";"Masculino";"Parda";"Não";"Urbana";701.189976226893
+12;"AC";1200104;"Brasiléia";"Masculino";"Parda";"Sim";"Urbana";3428.18670316943
+12;"AC";1200104;"Brasiléia";"Masculino";"Parda";NA;"Urbana";456.614637666742
+12;"AC";1200104;"Brasiléia";"Masculino";"Preta";"Não";"Urbana";79.1714958861746
+12;"AC";1200104;"Brasiléia";"Masculino";"Preta";"Sim";"Urbana";574.711820808778
+12;"AC";1200104;"Brasiléia";"Masculino";"Preta";NA;"Urbana";47.9467163846902
+12;"AC";1200138;"Bujari";"Feminino";"Amarela";"Não";"Rural";12.5744079486664
+12;"AC";1200138;"Bujari";"Feminino";"Amarela";"Sim";"Rural";30.3791568073542
+12;"AC";1200138;"Bujari";"Feminino";"Amarela";NA;"Rural";3.8826501410988
+12;"AC";1200138;"Bujari";"Feminino";"Branca";"Não";"Rural";91.3252059316457
+12;"AC";1200138;"Bujari";"Feminino";"Branca";"Sim";"Rural";226.274637401064
+12;"AC";1200138;"Bujari";"Feminino";"Branca";NA;"Rural";61.1135903787234
+12;"AC";1200138;"Bujari";"Feminino";"Parda";"Não";"Rural";436.764837928417
+12;"AC";1200138;"Bujari";"Feminino";"Parda";"Sim";"Rural";979.073272689005
+12;"AC";1200138;"Bujari";"Feminino";"Parda";NA;"Rural";167.156940026724
+12;"AC";1200138;"Bujari";"Feminino";"Preta";"Não";"Rural";34.9722731000136
+12;"AC";1200138;"Bujari";"Feminino";"Preta";"Sim";"Rural";35.3037361387674
+12;"AC";1200138;"Bujari";"Feminino";"Preta";NA;"Rural";7.1792915085417
+12;"AC";1200138;"Bujari";"Masculino";"Amarela";"Não";"Rural";37.0757014936776
+12;"AC";1200138;"Bujari";"Masculino";"Amarela";"Sim";"Rural";44.8921277313111
+12;"AC";1200138;"Bujari";"Masculino";"Amarela";NA;"Rural";16.6354475317491
+12;"AC";1200138;"Bujari";"Masculino";"Branca";"Não";"Rural";164.535536120592
+12;"AC";1200138;"Bujari";"Masculino";"Branca";"Sim";"Rural";306.759373792639
+12;"AC";1200138;"Bujari";"Masculino";"Branca";NA;"Rural";63.0713856592142
+12;"AC";1200138;"Bujari";"Masculino";"Indígena";"Sim";"Rural";2.3465381567739
+12;"AC";1200138;"Bujari";"Masculino";"Parda";"Não";"Rural";591.227840096908
+12;"AC";1200138;"Bujari";"Masculino";"Parda";"Sim";"Rural";1150.90944312476
+12;"AC";1200138;"Bujari";"Masculino";"Parda";NA;"Rural";163.910829030238
+12;"AC";1200138;"Bujari";"Masculino";"Preta";"Não";"Rural";62.103395371575
+12;"AC";1200138;"Bujari";"Masculino";"Preta";"Sim";"Rural";80.5293272787803
+12;"AC";1200138;"Bujari";"Masculino";"Preta";NA;"Rural";8.003054611805
+12;"AC";1200138;"Bujari";"Feminino";"Amarela";"Não";"Urbana";21.8107162952537
+12;"AC";1200138;"Bujari";"Feminino";"Amarela";"Sim";"Urbana";50.0906647267339
+12;"AC";1200138;"Bujari";"Feminino";"Amarela";NA;"Urbana";2.1484722362152
+12;"AC";1200138;"Bujari";"Feminino";"Branca";"Não";"Urbana";51.7509239123197
+12;"AC";1200138;"Bujari";"Feminino";"Branca";"Sim";"Urbana";344.17582122901
+12;"AC";1200138;"Bujari";"Feminino";"Branca";NA;"Urbana";50.6391461822647
+12;"AC";1200138;"Bujari";"Feminino";"Indígena";"Sim";"Urbana";2.9852336770766
+12;"AC";1200138;"Bujari";"Feminino";"Parda";"Não";"Urbana";136.123753402901
+12;"AC";1200138;"Bujari";"Feminino";"Parda";"Sim";"Urbana";905.348636187284
+12;"AC";1200138;"Bujari";"Feminino";"Parda";NA;"Urbana";102.877910253733
+12;"AC";1200138;"Bujari";"Feminino";"Preta";"Não";"Urbana";37.0376962911159
+12;"AC";1200138;"Bujari";"Feminino";"Preta";"Sim";"Urbana";104.288380702904
+12;"AC";1200138;"Bujari";"Feminino";"Preta";NA;"Urbana";6.7226449032036
+12;"AC";1200138;"Bujari";"Masculino";"Amarela";"Não";"Urbana";23.7278147822462
+12;"AC";1200138;"Bujari";"Masculino";"Amarela";"Sim";"Urbana";27.8995942576734
+12;"AC";1200138;"Bujari";"Masculino";"Amarela";NA;"Urbana";10.7940298612672
+12;"AC";1200138;"Bujari";"Masculino";"Branca";"Não";"Urbana";46.2558771415825
+12;"AC";1200138;"Bujari";"Masculino";"Branca";"Sim";"Urbana";302.739368152325
+12;"AC";1200138;"Bujari";"Masculino";"Branca";NA;"Urbana";65.5476998696988
+12;"AC";1200138;"Bujari";"Masculino";"Indígena";"Não";"Urbana";5.4952511653847
+12;"AC";1200138;"Bujari";"Masculino";"Parda";"Não";"Urbana";157.422207884551
+12;"AC";1200138;"Bujari";"Masculino";"Parda";"Sim";"Urbana";949.876399275196
+12;"AC";1200138;"Bujari";"Masculino";"Parda";NA;"Urbana";120.756549123601
+12;"AC";1200138;"Bujari";"Masculino";"Preta";"Não";"Urbana";31.1976302105501
+12;"AC";1200138;"Bujari";"Masculino";"Preta";"Sim";"Urbana";128.936619428508
+12;"AC";1200138;"Bujari";"Masculino";"Preta";NA;"Urbana";6.3509588474482
+12;"AC";1200179;"Capixaba";"Feminino";"Amarela";"Não";"Rural";23.7037373252889
+12;"AC";1200179;"Capixaba";"Feminino";"Amarela";"Sim";"Rural";44.0468992653201
+12;"AC";1200179;"Capixaba";"Feminino";"Amarela";NA;"Rural";5.1193778890965
+12;"AC";1200179;"Capixaba";"Feminino";"Branca";"Não";"Rural";62.8410943412809
+12;"AC";1200179;"Capixaba";"Feminino";"Branca";"Sim";"Rural";230.04037825893
+12;"AC";1200179;"Capixaba";"Feminino";"Branca";NA;"Rural";30.23151967756
+12;"AC";1200179;"Capixaba";"Feminino";"Parda";"Não";"Rural";438.992751779486
+12;"AC";1200179;"Capixaba";"Feminino";"Parda";"Sim";"Rural";1099.75075958867
+12;"AC";1200179;"Capixaba";"Feminino";"Parda";NA;"Rural";137.181506217592
+12;"AC";1200179;"Capixaba";"Feminino";"Preta";"Não";"Rural";40.0880159440719
+12;"AC";1200179;"Capixaba";"Feminino";"Preta";"Sim";"Rural";76.0039597127086
+12;"AC";1200179;"Capixaba";"Masculino";"Amarela";"Não";"Rural";7.5192371706807
+12;"AC";1200179;"Capixaba";"Masculino";"Amarela";"Sim";"Rural";37.3017326995169
+12;"AC";1200179;"Capixaba";"Masculino";"Amarela";NA;"Rural";3.9973671931941
+12;"AC";1200179;"Capixaba";"Masculino";"Branca";"Não";"Rural";110.758668816315
+12;"AC";1200179;"Capixaba";"Masculino";"Branca";"Sim";"Rural";236.549997401991
+12;"AC";1200179;"Capixaba";"Masculino";"Branca";NA;"Rural";52.0029170121484
+12;"AC";1200179;"Capixaba";"Masculino";"Indígena";"Sim";"Rural";4.0854528744866
+12;"AC";1200179;"Capixaba";"Masculino";"Parda";"Não";"Rural";521.853319868766
+12;"AC";1200179;"Capixaba";"Masculino";"Parda";"Sim";"Rural";1265.1164403612
+12;"AC";1200179;"Capixaba";"Masculino";"Parda";NA;"Rural";164.191157559505
+12;"AC";1200179;"Capixaba";"Masculino";"Preta";"Não";"Rural";102.399826880413
+12;"AC";1200179;"Capixaba";"Masculino";"Preta";"Sim";"Rural";159.614392424062
+12;"AC";1200179;"Capixaba";"Masculino";"Preta";NA;"Rural";15.6094897377258
+12;"AC";1200179;"Capixaba";"Feminino";"Amarela";"Sim";"Urbana";4.3900327316646
+12;"AC";1200179;"Capixaba";"Feminino";"Branca";"Não";"Urbana";32.2940190753587
+12;"AC";1200179;"Capixaba";"Feminino";"Branca";"Sim";"Urbana";232.225466277592
+12;"AC";1200179;"Capixaba";"Feminino";"Branca";NA;"Urbana";37.5591292784589
+12;"AC";1200179;"Capixaba";"Feminino";"Parda";"Não";"Urbana";279.24238501396
+12;"AC";1200179;"Capixaba";"Feminino";"Parda";"Sim";"Urbana";1154.49066478652
+12;"AC";1200179;"Capixaba";"Feminino";"Parda";NA;"Urbana";176.054671441242
+12;"AC";1200179;"Capixaba";"Feminino";"Preta";"Sim";"Urbana";33.9912766263002
+12;"AC";1200179;"Capixaba";"Feminino";"Preta";NA;"Urbana";4.7523547689092
+12;"AC";1200179;"Capixaba";"Masculino";"Branca";"Não";"Urbana";40.683145023471
+12;"AC";1200179;"Capixaba";"Masculino";"Branca";"Sim";"Urbana";188.753546853188
+12;"AC";1200179;"Capixaba";"Masculino";"Branca";NA;"Urbana";43.3311968358748
+12;"AC";1200179;"Capixaba";"Masculino";"Parda";"Não";"Urbana";284.516226065241
+12;"AC";1200179;"Capixaba";"Masculino";"Parda";"Sim";"Urbana";1128.9261970214
+12;"AC";1200179;"Capixaba";"Masculino";"Parda";NA;"Urbana";220.615406995825
+12;"AC";1200179;"Capixaba";"Masculino";"Preta";"Não";"Urbana";12.3339942860371
+12;"AC";1200179;"Capixaba";"Masculino";"Preta";"Sim";"Urbana";54.8402869189657
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Amarela";"Não";"Rural";48.6166793658136
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Amarela";"Sim";"Rural";36.3865212801001
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Amarela";NA;"Rural";15.882225982265
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Branca";"Não";"Rural";378.314540266926
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Branca";"Sim";"Rural";1289.02729933065
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Branca";NA;"Rural";359.429133129902
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Indígena";"Não";"Rural";228.280388593267
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Indígena";"Sim";"Rural";82.344794936145
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Indígena";NA;"Rural";22.1462140367431
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Parda";"Não";"Rural";1877.84095254958
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Parda";"Sim";"Rural";4949.87361883216
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Parda";NA;"Rural";1128.00804038302
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Preta";"Não";"Rural";163.394098720762
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Preta";"Sim";"Rural";339.445090773945
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Preta";NA;"Rural";79.0104018187119
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Amarela";"Não";"Rural";32.9210378238407
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Amarela";"Sim";"Rural";38.2294242736147
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Amarela";NA;"Rural";23.0788093646568
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Branca";"Não";"Rural";385.293700952072
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Branca";"Sim";"Rural";1501.57436134582
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Branca";NA;"Rural";354.509587887427
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Indígena";"Não";"Rural";127.75471501555
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Indígena";"Sim";"Rural";154.166578571751
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Indígena";NA;"Rural";115.361566949127
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Parda";"Não";"Rural";2424.35582250396
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Parda";"Sim";"Rural";5012.10514781897
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Parda";NA;"Rural";1033.31912652475
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Preta";"Não";"Rural";318.385296000307
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Preta";"Sim";"Rural";519.395597779074
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Preta";NA;"Rural";142.549227189076
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Amarela";"Não";"Urbana";38.1017965339451
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Amarela";"Sim";"Urbana";349.180546297083
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Amarela";NA;"Urbana";11.9276156117463
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Branca";"Não";"Urbana";716.598235647924
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Branca";"Sim";"Urbana";6095.34065052316
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Branca";NA;"Urbana";1027.51883340289
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Indígena";"Não";"Urbana";31.0658587620675
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Indígena";"Sim";"Urbana";63.7309551215738
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Indígena";NA;"Urbana";20.711200339505
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Parda";"Não";"Urbana";2347.05216865054
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Parda";"Sim";"Urbana";14915.7439497206
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Parda";NA;"Urbana";1604.56972268513
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Preta";"Não";"Urbana";216.537945646103
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Preta";"Sim";"Urbana";775.206530665726
+12;"AC";1200203;"Cruzeiro do Sul";"Feminino";"Preta";NA;"Urbana";75.7139903920234
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Amarela";"Não";"Urbana";59.9109818603914
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Amarela";"Sim";"Urbana";143.96167773406
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Amarela";NA;"Urbana";14.9986990105804
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Branca";"Não";"Urbana";821.903082105583
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Branca";"Sim";"Urbana";4980.82056839318
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Branca";NA;"Urbana";1104.79460633918
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Indígena";"Não";"Urbana";10.1316465942186
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Indígena";"Sim";"Urbana";74.6734134385906
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Indígena";NA;"Urbana";10.047929612218
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Parda";"Não";"Urbana";2661.67879373543
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Parda";"Sim";"Urbana";13875.824610816
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Parda";NA;"Urbana";1613.95541924161
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Preta";"Não";"Urbana";333.111088909091
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Preta";"Sim";"Urbana";1242.6130744369
+12;"AC";1200203;"Cruzeiro do Sul";"Masculino";"Preta";NA;"Urbana";88.5744077730244
+12;"AC";1200252;"Epitaciolândia";"Feminino";"Amarela";"Sim";"Rural";18.7792331333691
+12;"AC";1200252;"Epitaciolândia";"Feminino";"Branca";"Não";"Rural";50.3374604828131
+12;"AC";1200252;"Epitaciolândia";"Feminino";"Branca";"Sim";"Rural";255.8412768225
+12;"AC";1200252;"Epitaciolândia";"Feminino";"Branca";NA;"Rural";39.3922550552237
+12;"AC";1200252;"Epitaciolândia";"Feminino";"Parda";"Não";"Rural";311.328265806293
+12;"AC";1200252;"Epitaciolândia";"Feminino";"Parda";"Sim";"Rural";1068.55812110303
+12;"AC";1200252;"Epitaciolândia";"Feminino";"Parda";NA;"Rural";136.264234754438
+12;"AC";1200252;"Epitaciolândia";"Feminino";"Preta";"Não";"Rural";24.4626776600212
+12;"AC";1200252;"Epitaciolândia";"Feminino";"Preta";"Sim";"Rural";107.036475182528
+12;"AC";1200252;"Epitaciolândia";"Masculino";"Amarela";"Não";"Rural";29.5950752523734
+12;"AC";1200252;"Epitaciolândia";"Masculino";"Amarela";"Sim";"Rural";39.4751014880589
+12;"AC";1200252;"Epitaciolândia";"Masculino";"Amarela";NA;"Rural";4.8021015769134
+12;"AC";1200252;"Epitaciolândia";"Masculino";"Branca";"Não";"Rural";65.214347647164
+12;"AC";1200252;"Epitaciolândia";"Masculino";"Branca";"Sim";"Rural";267.793851193901
+12;"AC";1200252;"Epitaciolândia";"Masculino";"Branca";NA;"Rural";56.1320403713461
+12;"AC";1200252;"Epitaciolândia";"Masculino";"Parda";"Não";"Rural";394.011576262071
+12;"AC";1200252;"Epitaciolândia";"Masculino";"Parda";"Sim";"Rural";1287.18342678291
+12;"AC";1200252;"Epitaciolândia";"Masculino";"Parda";NA;"Rural";183.654559209939
+12;"AC";1200252;"Epitaciolândia";"Masculino";"Preta";"Não";"Rural";50.7589511892257
+12;"AC";1200252;"Epitaciolândia";"Masculino";"Preta";"Sim";"Rural";80.8353416338933
+12;"AC";1200252;"Epitaciolândia";"Masculino";"Preta";NA;"Rural";10.5436273924285
+12;"AC";1200252;"Epitaciolândia";"Feminino";"Amarela";"Não";"Urbana";27.7745459715421
+12;"AC";1200252;"Epitaciolândia";"Feminino";"Amarela";"Sim";"Urbana";142.683607492637
+12;"AC";1200252;"Epitaciolândia";"Feminino";"Amarela";NA;"Urbana";10.448903869225
+12;"AC";1200252;"Epitaciolândia";"Feminino";"Branca";"Não";"Urbana";135.691994081028
+12;"AC";1200252;"Epitaciolândia";"Feminino";"Branca";"Sim";"Urbana";977.887817481625
+12;"AC";1200252;"Epitaciolândia";"Feminino";"Branca";NA;"Urbana";143.304305560883
+12;"AC";1200252;"Epitaciolândia";"Feminino";"Parda";"Não";"Urbana";518.22193459733
+12;"AC";1200252;"Epitaciolândia";"Feminino";"Parda";"Sim";"Urbana";2851.39720593171
+12;"AC";1200252;"Epitaciolândia";"Feminino";"Parda";NA;"Urbana";419.165216766085
+12;"AC";1200252;"Epitaciolândia";"Feminino";"Preta";"Não";"Urbana";51.6726425536625
+12;"AC";1200252;"Epitaciolândia";"Feminino";"Preta";"Sim";"Urbana";183.75182569471
+12;"AC";1200252;"Epitaciolândia";"Masculino";"Amarela";"Não";"Urbana";28.2512939362911
+12;"AC";1200252;"Epitaciolândia";"Masculino";"Amarela";"Sim";"Urbana";75.0200027612774
+12;"AC";1200252;"Epitaciolândia";"Masculino";"Amarela";NA;"Urbana";24.9910263186923
+12;"AC";1200252;"Epitaciolândia";"Masculino";"Branca";"Não";"Urbana";133.766205775801
+12;"AC";1200252;"Epitaciolândia";"Masculino";"Branca";"Sim";"Urbana";940.127425854814
+12;"AC";1200252;"Epitaciolândia";"Masculino";"Branca";NA;"Urbana";147.729135050478
+12;"AC";1200252;"Epitaciolândia";"Masculino";"Parda";"Não";"Urbana";452.639292837813
+12;"AC";1200252;"Epitaciolândia";"Masculino";"Parda";"Sim";"Urbana";2729.35069071261
+12;"AC";1200252;"Epitaciolândia";"Masculino";"Parda";NA;"Urbana";329.576648022623
+12;"AC";1200252;"Epitaciolândia";"Masculino";"Preta";"Não";"Urbana";18.564548811394
+12;"AC";1200252;"Epitaciolândia";"Masculino";"Preta";"Sim";"Urbana";261.458459435994
+12;"AC";1200252;"Epitaciolândia";"Masculino";"Preta";NA;"Urbana";14.5252704826224
+12;"AC";1200302;"Feijó";"Feminino";"Amarela";"Não";"Rural";35.5112686373987
+12;"AC";1200302;"Feijó";"Feminino";"Amarela";"Sim";"Rural";57.8754991223779
+12;"AC";1200302;"Feijó";"Feminino";"Amarela";NA;"Rural";12.0193048538435
+12;"AC";1200302;"Feijó";"Feminino";"Branca";"Não";"Rural";883.20109521521
+12;"AC";1200302;"Feijó";"Feminino";"Branca";"Sim";"Rural";589.373166813352
+12;"AC";1200302;"Feijó";"Feminino";"Branca";NA;"Rural";306.161298591743
+12;"AC";1200302;"Feijó";"Feminino";"Indígena";"Não";"Rural";487.645034567065
+12;"AC";1200302;"Feijó";"Feminino";"Indígena";"Sim";"Rural";530.241810458143
+12;"AC";1200302;"Feijó";"Feminino";"Indígena";NA;"Rural";192.394364735715
+12;"AC";1200302;"Feijó";"Feminino";"Parda";"Não";"Rural";1689.30987998155
+12;"AC";1200302;"Feijó";"Feminino";"Parda";"Sim";"Rural";1445.38020214424
+12;"AC";1200302;"Feijó";"Feminino";"Parda";NA;"Rural";748.137848729944
+12;"AC";1200302;"Feijó";"Feminino";"Preta";"Não";"Rural";155.648082463292
+12;"AC";1200302;"Feijó";"Feminino";"Preta";"Sim";"Rural";146.783763080428
+12;"AC";1200302;"Feijó";"Feminino";"Preta";NA;"Rural";16.3173806057134
+12;"AC";1200302;"Feijó";"Masculino";"Amarela";"Não";"Rural";12.0193048538435
+12;"AC";1200302;"Feijó";"Masculino";"Amarela";"Sim";"Rural";148.580782091895
+12;"AC";1200302;"Feijó";"Masculino";"Amarela";NA;"Rural";12.0193048538435
+12;"AC";1200302;"Feijó";"Masculino";"Branca";"Não";"Rural";1031.41359599679
+12;"AC";1200302;"Feijó";"Masculino";"Branca";"Sim";"Rural";829.149146320606
+12;"AC";1200302;"Feijó";"Masculino";"Branca";NA;"Rural";291.658036467328
+12;"AC";1200302;"Feijó";"Masculino";"Indígena";"Não";"Rural";562.815358927993
+12;"AC";1200302;"Feijó";"Masculino";"Indígena";"Sim";"Rural";500.315365170629
+12;"AC";1200302;"Feijó";"Masculino";"Indígena";NA;"Rural";321.318003355891
+12;"AC";1200302;"Feijó";"Masculino";"Parda";"Não";"Rural";2263.99303546883
+12;"AC";1200302;"Feijó";"Masculino";"Parda";"Sim";"Rural";1625.50060528705
+12;"AC";1200302;"Feijó";"Masculino";"Parda";NA;"Rural";548.287745473293
+12;"AC";1200302;"Feijó";"Masculino";"Preta";"Não";"Rural";240.354072087725
+12;"AC";1200302;"Feijó";"Masculino";"Preta";"Sim";"Rural";84.4169533414382
+12;"AC";1200302;"Feijó";"Masculino";"Preta";NA;"Rural";8.1586903028567
+12;"AC";1200302;"Feijó";"Feminino";"Amarela";"Não";"Urbana";89.8699573860908
+12;"AC";1200302;"Feijó";"Feminino";"Amarela";"Sim";"Urbana";195.101839863684
+12;"AC";1200302;"Feijó";"Feminino";"Amarela";NA;"Urbana";30.6346128586131
+12;"AC";1200302;"Feijó";"Feminino";"Branca";"Não";"Urbana";411.505563450766
+12;"AC";1200302;"Feijó";"Feminino";"Branca";"Sim";"Urbana";1864.93571341584
+12;"AC";1200302;"Feijó";"Feminino";"Branca";NA;"Urbana";361.60667411097
+12;"AC";1200302;"Feijó";"Feminino";"Indígena";"Sim";"Urbana";9.3145632664374
+12;"AC";1200302;"Feijó";"Feminino";"Parda";"Não";"Urbana";927.488857594027
+12;"AC";1200302;"Feijó";"Feminino";"Parda";"Sim";"Urbana";3449.53541589667
+12;"AC";1200302;"Feijó";"Feminino";"Parda";NA;"Urbana";532.952100764287
+12;"AC";1200302;"Feijó";"Feminino";"Preta";"Não";"Urbana";221.540810179696
+12;"AC";1200302;"Feijó";"Feminino";"Preta";"Sim";"Urbana";290.370476768738
+12;"AC";1200302;"Feijó";"Feminino";"Preta";NA;"Urbana";15.1434144441846
+12;"AC";1200302;"Feijó";"Masculino";"Amarela";"Não";"Urbana";19.9462038407945
+12;"AC";1200302;"Feijó";"Masculino";"Amarela";"Sim";"Urbana";147.246156244509
+12;"AC";1200302;"Feijó";"Masculino";"Amarela";NA;"Urbana";9.9917645853739
+12;"AC";1200302;"Feijó";"Masculino";"Branca";"Não";"Urbana";437.262854547635
+12;"AC";1200302;"Feijó";"Masculino";"Branca";"Sim";"Urbana";1589.24438348293
+12;"AC";1200302;"Feijó";"Masculino";"Branca";NA;"Urbana";391.258160542133
+12;"AC";1200302;"Feijó";"Masculino";"Indígena";"Sim";"Urbana";18.6291265328748
+12;"AC";1200302;"Feijó";"Masculino";"Parda";"Não";"Urbana";983.275980593081
+12;"AC";1200302;"Feijó";"Masculino";"Parda";"Sim";"Urbana";3420.0343008264
+12;"AC";1200302;"Feijó";"Masculino";"Parda";NA;"Urbana";552.172469674179
+12;"AC";1200302;"Feijó";"Masculino";"Preta";"Não";"Urbana";161.395379998678
+12;"AC";1200302;"Feijó";"Masculino";"Preta";"Sim";"Urbana";482.861004495264
+12;"AC";1200302;"Feijó";"Masculino";"Preta";NA;"Urbana";22.6822146361471
+12;"AC";1200328;"Jordão";"Feminino";"Amarela";"Não";"Rural";3.1142718205501
+12;"AC";1200328;"Jordão";"Feminino";"Branca";"Não";"Rural";75.527224533055
+12;"AC";1200328;"Jordão";"Feminino";"Branca";"Sim";"Rural";93.3400951340311
+12;"AC";1200328;"Jordão";"Feminino";"Branca";NA;"Rural";46.0012703635258
+12;"AC";1200328;"Jordão";"Feminino";"Indígena";"Não";"Rural";393.037142799981
+12;"AC";1200328;"Jordão";"Feminino";"Indígena";"Sim";"Rural";333.988421696373
+12;"AC";1200328;"Jordão";"Feminino";"Indígena";NA;"Rural";228.637986033778
+12;"AC";1200328;"Jordão";"Feminino";"Parda";"Não";"Rural";211.331595587185
+12;"AC";1200328;"Jordão";"Feminino";"Parda";"Sim";"Rural";419.409981432219
+12;"AC";1200328;"Jordão";"Feminino";"Parda";NA;"Rural";133.685050591776
+12;"AC";1200328;"Jordão";"Feminino";"Preta";"Não";"Rural";42.2059972299199
+12;"AC";1200328;"Jordão";"Feminino";"Preta";"Sim";"Rural";39.4318116727937
+12;"AC";1200328;"Jordão";"Feminino";"Preta";NA;"Rural";14.2891511048247
+12;"AC";1200328;"Jordão";"Masculino";"Branca";"Não";"Rural";80.6434031971173
+12;"AC";1200328;"Jordão";"Masculino";"Branca";"Sim";"Rural";117.866390552467
+12;"AC";1200328;"Jordão";"Masculino";"Branca";NA;"Rural";26.9042578214404
+12;"AC";1200328;"Jordão";"Masculino";"Indígena";"Não";"Rural";305.204005877517
+12;"AC";1200328;"Jordão";"Masculino";"Indígena";"Sim";"Rural";419.257901197068
+12;"AC";1200328;"Jordão";"Masculino";"Indígena";NA;"Rural";218.984163230775
+12;"AC";1200328;"Jordão";"Masculino";"Parda";"Não";"Rural";335.940974100278
+12;"AC";1200328;"Jordão";"Masculino";"Parda";"Sim";"Rural";483.306239622969
+12;"AC";1200328;"Jordão";"Masculino";"Parda";NA;"Rural";134.037050494989
+12;"AC";1200328;"Jordão";"Masculino";"Preta";"Não";"Rural";57.5589314533988
+12;"AC";1200328;"Jordão";"Masculino";"Preta";"Sim";"Rural";72.080381063299
+12;"AC";1200328;"Jordão";"Masculino";"Preta";NA;"Rural";19.2163013886947
+12;"AC";1200328;"Jordão";"Feminino";"Branca";"Não";"Urbana";39.8584049066656
+12;"AC";1200328;"Jordão";"Feminino";"Branca";"Sim";"Urbana";234.99073527086
+12;"AC";1200328;"Jordão";"Feminino";"Branca";NA;"Urbana";54.4543150675077
+12;"AC";1200328;"Jordão";"Feminino";"Indígena";"Não";"Urbana";24.3886932149396
+12;"AC";1200328;"Jordão";"Feminino";"Indígena";"Sim";"Urbana";30.340231159685
+12;"AC";1200328;"Jordão";"Feminino";"Indígena";NA;"Urbana";13.901945575027
+12;"AC";1200328;"Jordão";"Feminino";"Parda";"Não";"Urbana";100.256679755659
+12;"AC";1200328;"Jordão";"Feminino";"Parda";"Sim";"Urbana";439.847753639089
+12;"AC";1200328;"Jordão";"Feminino";"Parda";NA;"Urbana";73.9464040329838
+12;"AC";1200328;"Jordão";"Feminino";"Preta";"Não";"Urbana";37.3196388677655
+12;"AC";1200328;"Jordão";"Feminino";"Preta";"Sim";"Urbana";70.6681905704047
+12;"AC";1200328;"Jordão";"Feminino";"Preta";NA;"Urbana";11.0270079394206
+12;"AC";1200328;"Jordão";"Masculino";"Amarela";"Não";"Urbana";2.5591968435251
+12;"AC";1200328;"Jordão";"Masculino";"Branca";"Não";"Urbana";12.4715451436934
+12;"AC";1200328;"Jordão";"Masculino";"Branca";"Sim";"Urbana";150.336749146052
+12;"AC";1200328;"Jordão";"Masculino";"Branca";NA;"Urbana";54.5459371773893
+12;"AC";1200328;"Jordão";"Masculino";"Indígena";"Não";"Urbana";13.0737871094769
+12;"AC";1200328;"Jordão";"Masculino";"Indígena";"Sim";"Urbana";56.6265533491866
+12;"AC";1200328;"Jordão";"Masculino";"Indígena";NA;"Urbana";18.5366285004133
+12;"AC";1200328;"Jordão";"Masculino";"Parda";"Não";"Urbana";77.0216274273897
+12;"AC";1200328;"Jordão";"Masculino";"Parda";"Sim";"Urbana";506.083846878048
+12;"AC";1200328;"Jordão";"Masculino";"Parda";NA;"Urbana";83.9777063742986
+12;"AC";1200328;"Jordão";"Masculino";"Preta";"Não";"Urbana";30.1621329592007
+12;"AC";1200328;"Jordão";"Masculino";"Preta";"Sim";"Urbana";114.682749588335
+12;"AC";1200328;"Jordão";"Masculino";"Preta";NA;"Urbana";20.9215395029968
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Amarela";"Não";"Rural";11.3817896413366
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Amarela";"Sim";"Rural";33.8202604927297
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Branca";"Não";"Rural";66.5126975362135
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Branca";"Sim";"Rural";203.90268957519
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Branca";NA;"Rural";66.8292884120971
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Indígena";"Não";"Rural";98.3353168809682
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Indígena";"Sim";"Rural";379.879544908019
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Indígena";NA;"Rural";79.4343888943527
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Parda";"Não";"Rural";510.449789317577
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Parda";"Sim";"Rural";1123.31555103748
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Parda";NA;"Rural";246.799649905077
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Preta";"Não";"Rural";25.5698857136946
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Preta";"Sim";"Rural";66.1648662486293
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Preta";NA;"Rural";21.6042814366346
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Amarela";"Não";"Rural";8.4409181703234
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Amarela";"Sim";"Rural";25.4522128972398
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Branca";"Não";"Rural";106.473750119757
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Branca";"Sim";"Rural";214.821455722613
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Branca";NA;"Rural";72.9072310054817
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Indígena";"Não";"Rural";244.335142417695
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Indígena";"Sim";"Rural";339.82539437733
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Indígena";NA;"Rural";91.3802312394278
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Parda";"Não";"Rural";734.39977122398
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Parda";"Sim";"Rural";1171.21056614529
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Parda";NA;"Rural";344.042060795809
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Preta";"Não";"Rural";74.0705734177811
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Preta";"Sim";"Rural";67.4317645143194
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Preta";NA;"Rural";27.2089279529533
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Amarela";"Não";"Urbana";14.3917804918738
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Amarela";"Sim";"Urbana";39.9326666374231
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Amarela";NA;"Urbana";10.1333742447166
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Branca";"Não";"Urbana";85.940247248714
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Branca";"Sim";"Urbana";661.442587871181
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Branca";NA;"Urbana";152.200307055752
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Indígena";"Não";"Urbana";7.7250886237056
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Indígena";"Sim";"Urbana";26.7291562752718
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Parda";"Não";"Urbana";507.865762055679
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Parda";"Sim";"Urbana";2486.83906958945
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Parda";NA;"Urbana";349.101890532224
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Preta";"Não";"Urbana";31.9007902166517
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Preta";"Sim";"Urbana";57.5375487611111
+12;"AC";1200336;"Mâncio Lima";"Feminino";"Preta";NA;"Urbana";4.259730396254
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Amarela";"Não";"Urbana";4.8222411088767
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Amarela";"Sim";"Urbana";26.3101428159712
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Amarela";NA;"Urbana";4.2584062471572
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Branca";"Não";"Urbana";125.590282811551
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Branca";"Sim";"Urbana";492.56930178477
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Branca";NA;"Urbana";99.5749309625122
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Indígena";"Não";"Urbana";3.7952654134288
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Indígena";"Sim";"Urbana";22.7574050769268
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Indígena";NA;"Urbana";4.4981310515355
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Parda";"Não";"Urbana";653.060216853048
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Parda";"Sim";"Urbana";2440.2044711309
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Parda";NA;"Urbana";308.44550106825
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Preta";"Não";"Urbana";48.8726917305632
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Preta";"Sim";"Urbana";73.2056600822822
+12;"AC";1200336;"Mâncio Lima";"Masculino";"Preta";NA;"Urbana";6.0353518622306
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Amarela";"Não";"Rural";18.9218602962202
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Amarela";"Sim";"Rural";17.0535783184034
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Amarela";NA;"Rural";3.1615578622428
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Branca";"Não";"Rural";52.8064819412713
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Branca";"Sim";"Rural";93.8058857493067
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Branca";NA;"Rural";32.4772075564356
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Indígena";"Não";"Rural";127.503355550938
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Indígena";"Sim";"Rural";16.7067353066704
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Indígena";NA;"Rural";36.610631697539
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Parda";"Não";"Rural";315.42657574914
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Parda";"Sim";"Rural";295.393972976637
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Parda";NA;"Rural";107.727458999988
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Preta";"Não";"Rural";15.4461537474764
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Preta";"Sim";"Rural";19.9585442477369
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Amarela";"Não";"Rural";7.0390515175172
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Amarela";"Sim";"Rural";3.937345191013
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Amarela";NA;"Rural";3.937345191013
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Branca";"Não";"Rural";76.5889455117395
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Branca";"Sim";"Rural";83.0176320176436
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Branca";NA;"Rural";32.1763471037871
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Indígena";"Não";"Rural";113.923204395866
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Indígena";"Sim";"Rural";36.4794553159264
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Indígena";NA;"Rural";56.3149222223978
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Parda";"Não";"Rural";515.434158583268
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Parda";"Sim";"Rural";413.334950482662
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Parda";NA;"Rural";137.965836713773
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Preta";"Não";"Rural";27.186754071439
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Preta";"Sim";"Rural";42.6640516819622
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Amarela";"Não";"Urbana";3.4345852752921
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Amarela";"Sim";"Urbana";6.8739065957776
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Branca";"Não";"Urbana";82.2261234285661
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Branca";"Sim";"Urbana";301.073774017052
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Branca";NA;"Urbana";77.1366184672494
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Indígena";"Não";"Urbana";7.2390755272324
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Indígena";"Sim";"Urbana";10.8586132908486
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Indígena";NA;"Urbana";7.2390755272324
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Parda";"Não";"Urbana";475.468774498
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Parda";"Sim";"Urbana";1310.79873500053
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Parda";NA;"Urbana";242.274096858243
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Preta";"Não";"Urbana";13.7681846382671
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Preta";"Sim";"Urbana";31.997842030123
+12;"AC";1200344;"Manoel Urbano";"Feminino";"Preta";NA;"Urbana";2.610594845592
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Amarela";"Não";"Urbana";2.650766001566
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Amarela";"Sim";"Urbana";23.1869593357623
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Branca";"Não";"Urbana";112.800020733256
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Branca";"Sim";"Urbana";289.136774378552
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Branca";NA;"Urbana";81.7981593662908
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Indígena";"Não";"Urbana";14.4781510544648
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Indígena";"Sim";"Urbana";7.2390755272324
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Indígena";NA;"Urbana";7.2390755272324
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Parda";"Não";"Urbana";500.457415201016
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Parda";"Sim";"Urbana";1379.15751579541
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Parda";NA;"Urbana";194.833011803929
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Preta";"Não";"Urbana";34.8135583072
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Preta";"Sim";"Urbana";48.4133726290908
+12;"AC";1200344;"Manoel Urbano";"Masculino";"Preta";NA;"Urbana";8.7961443390019
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Amarela";"Não";"Rural";18.7192317580266
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Amarela";"Sim";"Rural";5.065759179765
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Amarela";NA;"Rural";19.9632143121993
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Branca";"Não";"Rural";217.517384511462
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Branca";"Sim";"Rural";409.791161558815
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Branca";NA;"Rural";152.46820106207
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Indígena";"Não";"Rural";337.566776723864
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Indígena";"Sim";"Rural";191.544729617578
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Indígena";NA;"Rural";149.058970372136
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Parda";"Não";"Rural";1012.4525141528
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Parda";"Sim";"Rural";1465.4572158941
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Parda";NA;"Rural";439.202916784887
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Preta";"Não";"Rural";155.215903014116
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Preta";"Sim";"Rural";180.024633803547
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Preta";NA;"Rural";52.9513872546283
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Amarela";"Não";"Rural";16.7184222275051
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Amarela";NA;"Rural";4.4822065249879
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Branca";"Não";"Rural";346.265881902824
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Branca";"Sim";"Rural";373.713974263747
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Branca";NA;"Rural";158.556761546198
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Indígena";"Não";"Rural";338.775249267458
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Indígena";"Sim";"Rural";251.130050677859
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Indígena";NA;"Rural";160.206346771134
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Parda";"Não";"Rural";1358.27060834261
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Parda";"Sim";"Rural";1567.99845407064
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Parda";NA;"Rural";552.759587708224
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Preta";"Não";"Rural";170.099903172516
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Preta";"Sim";"Rural";125.438401520057
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Preta";NA;"Rural";26.5841520042265
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Amarela";"Não";"Urbana";8.6699774292742
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Amarela";"Sim";"Urbana";25.8885536162737
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Branca";"Não";"Urbana";27.6691570352138
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Branca";"Sim";"Urbana";276.478621851816
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Branca";NA;"Urbana";78.7915830230598
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Indígena";"Não";"Urbana";8.3285117813838
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Indígena";"Sim";"Urbana";36.6833480603559
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Indígena";NA;"Urbana";5.3369745274627
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Parda";"Não";"Urbana";162.48335565167
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Parda";"Sim";"Urbana";902.362785153909
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Parda";NA;"Urbana";172.986280660379
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Preta";"Não";"Urbana";52.2649982208018
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Preta";"Sim";"Urbana";137.478138570675
+12;"AC";1200351;"Marechal Thaumaturgo";"Feminino";"Preta";NA;"Urbana";61.5777144177203
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Amarela";"Não";"Urbana";8.7419060653246
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Amarela";"Sim";"Urbana";18.6322421877452
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Branca";"Não";"Urbana";27.7151452783934
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Branca";"Sim";"Urbana";245.162180153745
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Branca";NA;"Urbana";65.4981058423514
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Indígena";"Não";"Urbana";5.3369745274627
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Indígena";"Sim";"Urbana";46.1176466052267
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Indígena";NA;"Urbana";4.9861003488451
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Parda";"Não";"Urbana";219.692137082851
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Parda";"Sim";"Urbana";930.382215674884
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Parda";NA;"Urbana";161.309644951328
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Preta";"Não";"Urbana";87.9832517667457
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Preta";"Sim";"Urbana";173.302110389152
+12;"AC";1200351;"Marechal Thaumaturgo";"Masculino";"Preta";NA;"Urbana";17.1403391259315
+12;"AC";1200385;"Plácido de Castro";"Feminino";"Amarela";"Não";"Rural";34.8236304421535
+12;"AC";1200385;"Plácido de Castro";"Feminino";"Amarela";"Sim";"Rural";38.4689526132366
+12;"AC";1200385;"Plácido de Castro";"Feminino";"Amarela";NA;"Rural";3.9622025719389
+12;"AC";1200385;"Plácido de Castro";"Feminino";"Branca";"Não";"Rural";116.057073989837
+12;"AC";1200385;"Plácido de Castro";"Feminino";"Branca";"Sim";"Rural";588.211839877455
+12;"AC";1200385;"Plácido de Castro";"Feminino";"Branca";NA;"Rural";126.038103847912
+12;"AC";1200385;"Plácido de Castro";"Feminino";"Indígena";"Sim";"Rural";9.7187508997283
+12;"AC";1200385;"Plácido de Castro";"Feminino";"Parda";"Não";"Rural";352.310298644243
+12;"AC";1200385;"Plácido de Castro";"Feminino";"Parda";"Sim";"Rural";1412.98018072089
+12;"AC";1200385;"Plácido de Castro";"Feminino";"Parda";NA;"Rural";187.317811107809
+12;"AC";1200385;"Plácido de Castro";"Feminino";"Preta";"Não";"Rural";58.1048019956843
+12;"AC";1200385;"Plácido de Castro";"Feminino";"Preta";"Sim";"Rural";121.001072668183
+12;"AC";1200385;"Plácido de Castro";"Feminino";"Preta";NA;"Rural";4.0052806209289
+12;"AC";1200385;"Plácido de Castro";"Masculino";"Amarela";"Não";"Rural";22.9390255231
+12;"AC";1200385;"Plácido de Castro";"Masculino";"Amarela";"Sim";"Rural";84.4634791371846
+12;"AC";1200385;"Plácido de Castro";"Masculino";"Amarela";NA;"Rural";9.813260718002
+12;"AC";1200385;"Plácido de Castro";"Masculino";"Branca";"Não";"Rural";147.940313716724
+12;"AC";1200385;"Plácido de Castro";"Masculino";"Branca";"Sim";"Rural";631.213435134368
+12;"AC";1200385;"Plácido de Castro";"Masculino";"Branca";NA;"Rural";67.3043250847736
+12;"AC";1200385;"Plácido de Castro";"Masculino";"Indígena";"Não";"Rural";3.7987813255048
+12;"AC";1200385;"Plácido de Castro";"Masculino";"Indígena";"Sim";"Rural";6.2679568274854
+12;"AC";1200385;"Plácido de Castro";"Masculino";"Parda";"Não";"Rural";542.2553100475
+12;"AC";1200385;"Plácido de Castro";"Masculino";"Parda";"Sim";"Rural";1666.58092531563
+12;"AC";1200385;"Plácido de Castro";"Masculino";"Parda";NA;"Rural";278.502900492508
+12;"AC";1200385;"Plácido de Castro";"Masculino";"Preta";"Não";"Rural";92.8317944317971
+12;"AC";1200385;"Plácido de Castro";"Masculino";"Preta";"Sim";"Rural";220.088492245421
+12;"AC";1200385;"Plácido de Castro";"Feminino";"Amarela";"Não";"Urbana";31.7656867019787
+12;"AC";1200385;"Plácido de Castro";"Feminino";"Amarela";"Sim";"Urbana";177.193683343199
+12;"AC";1200385;"Plácido de Castro";"Feminino";"Amarela";NA;"Urbana";10.5017794588574
+12;"AC";1200385;"Plácido de Castro";"Feminino";"Branca";"Não";"Urbana";166.514405716485
+12;"AC";1200385;"Plácido de Castro";"Feminino";"Branca";"Sim";"Urbana";829.344187782774
+12;"AC";1200385;"Plácido de Castro";"Feminino";"Branca";NA;"Urbana";226.567620747976
+12;"AC";1200385;"Plácido de Castro";"Feminino";"Parda";"Não";"Urbana";534.886685937835
+12;"AC";1200385;"Plácido de Castro";"Feminino";"Parda";"Sim";"Urbana";2483.94093398073
+12;"AC";1200385;"Plácido de Castro";"Feminino";"Parda";NA;"Urbana";304.947927292459
+12;"AC";1200385;"Plácido de Castro";"Feminino";"Preta";"Não";"Urbana";85.7956303637275
+12;"AC";1200385;"Plácido de Castro";"Feminino";"Preta";"Sim";"Urbana";291.371108318564
+12;"AC";1200385;"Plácido de Castro";"Feminino";"Preta";NA;"Urbana";14.1703503554197
+12;"AC";1200385;"Plácido de Castro";"Masculino";"Amarela";"Não";"Urbana";27.3928406683231
+12;"AC";1200385;"Plácido de Castro";"Masculino";"Amarela";"Sim";"Urbana";125.212756367303
+12;"AC";1200385;"Plácido de Castro";"Masculino";"Amarela";NA;"Urbana";33.4659031041731
+12;"AC";1200385;"Plácido de Castro";"Masculino";"Branca";"Não";"Urbana";194.153345423708
+12;"AC";1200385;"Plácido de Castro";"Masculino";"Branca";"Sim";"Urbana";811.429585774638
+12;"AC";1200385;"Plácido de Castro";"Masculino";"Branca";NA;"Urbana";180.125922126304
+12;"AC";1200385;"Plácido de Castro";"Masculino";"Parda";"Não";"Urbana";420.300883029128
+12;"AC";1200385;"Plácido de Castro";"Masculino";"Parda";"Sim";"Urbana";2655.61259177553
+12;"AC";1200385;"Plácido de Castro";"Masculino";"Parda";NA;"Urbana";346.693051891329
+12;"AC";1200385;"Plácido de Castro";"Masculino";"Preta";"Não";"Urbana";102.843763384865
+12;"AC";1200385;"Plácido de Castro";"Masculino";"Preta";"Sim";"Urbana";286.168911832083
+12;"AC";1200385;"Plácido de Castro";"Masculino";"Preta";NA;"Urbana";41.600444622617
+12;"AC";1200393;"Porto Walter";"Feminino";"Amarela";"Não";"Rural";10.1131700861646
+12;"AC";1200393;"Porto Walter";"Feminino";"Amarela";"Sim";"Rural";23.2401280979305
+12;"AC";1200393;"Porto Walter";"Feminino";"Amarela";NA;"Rural";5.0275275499951
+12;"AC";1200393;"Porto Walter";"Feminino";"Branca";"Não";"Rural";225.241583440904
+12;"AC";1200393;"Porto Walter";"Feminino";"Branca";"Sim";"Rural";271.301738278324
+12;"AC";1200393;"Porto Walter";"Feminino";"Branca";NA;"Rural";166.520438852789
+12;"AC";1200393;"Porto Walter";"Feminino";"Indígena";"Não";"Rural";86.7010266627318
+12;"AC";1200393;"Porto Walter";"Feminino";"Indígena";"Sim";"Rural";108.886224473276
+12;"AC";1200393;"Porto Walter";"Feminino";"Indígena";NA;"Rural";72.0237766829695
+12;"AC";1200393;"Porto Walter";"Feminino";"Parda";"Não";"Rural";604.06934187328
+12;"AC";1200393;"Porto Walter";"Feminino";"Parda";"Sim";"Rural";746.485861999682
+12;"AC";1200393;"Porto Walter";"Feminino";"Parda";NA;"Rural";262.526634674298
+12;"AC";1200393;"Porto Walter";"Feminino";"Preta";"Não";"Rural";65.9715513057816
+12;"AC";1200393;"Porto Walter";"Feminino";"Preta";"Sim";"Rural";69.1673230790646
+12;"AC";1200393;"Porto Walter";"Feminino";"Preta";NA;"Rural";19.7236729427957
+12;"AC";1200393;"Porto Walter";"Masculino";"Branca";"Não";"Rural";406.007635571427
+12;"AC";1200393;"Porto Walter";"Masculino";"Branca";"Sim";"Rural";218.723183926414
+12;"AC";1200393;"Porto Walter";"Masculino";"Branca";NA;"Rural";121.399331140858
+12;"AC";1200393;"Porto Walter";"Masculino";"Indígena";"Não";"Rural";60.5259818975317
+12;"AC";1200393;"Porto Walter";"Masculino";"Indígena";"Sim";"Rural";160.744021938655
+12;"AC";1200393;"Porto Walter";"Masculino";"Indígena";NA;"Rural";42.9975713209914
+12;"AC";1200393;"Porto Walter";"Masculino";"Parda";"Não";"Rural";844.746157403981
+12;"AC";1200393;"Porto Walter";"Masculino";"Parda";"Sim";"Rural";705.588314270058
+12;"AC";1200393;"Porto Walter";"Masculino";"Parda";NA;"Rural";292.562888584828
+12;"AC";1200393;"Porto Walter";"Masculino";"Preta";"Não";"Rural";113.733973055763
+12;"AC";1200393;"Porto Walter";"Masculino";"Preta";"Sim";"Rural";101.061926958624
+12;"AC";1200393;"Porto Walter";"Masculino";"Preta";NA;"Rural";47.9090139308543
+12;"AC";1200393;"Porto Walter";"Feminino";"Amarela";"Não";"Urbana";9.9378123801397
+12;"AC";1200393;"Porto Walter";"Feminino";"Amarela";"Sim";"Urbana";39.3893239859036
+12;"AC";1200393;"Porto Walter";"Feminino";"Amarela";NA;"Urbana";1.8979829744347
+12;"AC";1200393;"Porto Walter";"Feminino";"Branca";"Não";"Urbana";92.2793530660363
+12;"AC";1200393;"Porto Walter";"Feminino";"Branca";"Sim";"Urbana";286.389995164474
+12;"AC";1200393;"Porto Walter";"Feminino";"Branca";NA;"Urbana";91.2251191408622
+12;"AC";1200393;"Porto Walter";"Feminino";"Indígena";"Não";"Urbana";15.150292806819
+12;"AC";1200393;"Porto Walter";"Feminino";"Indígena";"Sim";"Urbana";14.5031920996436
+12;"AC";1200393;"Porto Walter";"Feminino";"Parda";"Não";"Urbana";209.225970618196
+12;"AC";1200393;"Porto Walter";"Feminino";"Parda";"Sim";"Urbana";762.507543150215
+12;"AC";1200393;"Porto Walter";"Feminino";"Parda";NA;"Urbana";100.721056016588
+12;"AC";1200393;"Porto Walter";"Feminino";"Preta";"Não";"Urbana";4.3160637020671
+12;"AC";1200393;"Porto Walter";"Feminino";"Preta";"Sim";"Urbana";17.4562948946131
+12;"AC";1200393;"Porto Walter";"Masculino";"Amarela";"Não";"Urbana";24.4507756787395
+12;"AC";1200393;"Porto Walter";"Masculino";"Amarela";"Sim";"Urbana";33.5638751119849
+12;"AC";1200393;"Porto Walter";"Masculino";"Branca";"Não";"Urbana";67.6327008097035
+12;"AC";1200393;"Porto Walter";"Masculino";"Branca";"Sim";"Urbana";256.833222331845
+12;"AC";1200393;"Porto Walter";"Masculino";"Branca";NA;"Urbana";94.2576102472509
+12;"AC";1200393;"Porto Walter";"Masculino";"Indígena";"Sim";"Urbana";3.3773310380555
+12;"AC";1200393;"Porto Walter";"Masculino";"Indígena";NA;"Urbana";7.7803279331531
+12;"AC";1200393;"Porto Walter";"Masculino";"Parda";"Não";"Urbana";259.636129143435
+12;"AC";1200393;"Porto Walter";"Masculino";"Parda";"Sim";"Urbana";726.303502668798
+12;"AC";1200393;"Porto Walter";"Masculino";"Parda";NA;"Urbana";157.059117982596
+12;"AC";1200393;"Porto Walter";"Masculino";"Preta";"Não";"Urbana";12.2849807306243
+12;"AC";1200393;"Porto Walter";"Masculino";"Preta";"Sim";"Urbana";30.5043626217407
+12;"AC";1200393;"Porto Walter";"Masculino";"Preta";NA;"Urbana";4.3160637020671
+12;"AC";1200401;"Rio Branco";"Feminino";"Amarela";"Não";"Rural";34.152232925747
+12;"AC";1200401;"Rio Branco";"Feminino";"Amarela";"Sim";"Rural";218.035004880343
+12;"AC";1200401;"Rio Branco";"Feminino";"Branca";"Não";"Rural";303.071479277531
+12;"AC";1200401;"Rio Branco";"Feminino";"Branca";"Sim";"Rural";1465.29429182346
+12;"AC";1200401;"Rio Branco";"Feminino";"Branca";NA;"Rural";243.282558364338
+12;"AC";1200401;"Rio Branco";"Feminino";"Parda";"Não";"Rural";1475.61249234944
+12;"AC";1200401;"Rio Branco";"Feminino";"Parda";"Sim";"Rural";6873.11185780602
+12;"AC";1200401;"Rio Branco";"Feminino";"Parda";NA;"Rural";1020.75433843216
+12;"AC";1200401;"Rio Branco";"Feminino";"Preta";"Não";"Rural";130.0523103077
+12;"AC";1200401;"Rio Branco";"Feminino";"Preta";"Sim";"Rural";531.591161108545
+12;"AC";1200401;"Rio Branco";"Feminino";"Preta";NA;"Rural";43.042272724716
+12;"AC";1200401;"Rio Branco";"Masculino";"Amarela";"Não";"Rural";42.8112575383054
+12;"AC";1200401;"Rio Branco";"Masculino";"Amarela";"Sim";"Rural";186.620422185921
+12;"AC";1200401;"Rio Branco";"Masculino";"Amarela";NA;"Rural";33.9906463395905
+12;"AC";1200401;"Rio Branco";"Masculino";"Branca";"Não";"Rural";501.521176078868
+12;"AC";1200401;"Rio Branco";"Masculino";"Branca";"Sim";"Rural";1706.26488439402
+12;"AC";1200401;"Rio Branco";"Masculino";"Branca";NA;"Rural";209.023474409643
+12;"AC";1200401;"Rio Branco";"Masculino";"Ignorado";"Não";"Rural";53.664795545349
+12;"AC";1200401;"Rio Branco";"Masculino";"Indígena";"Não";"Rural";9.918454649161
+12;"AC";1200401;"Rio Branco";"Masculino";"Indígena";"Sim";"Rural";13.7216364851334
+12;"AC";1200401;"Rio Branco";"Masculino";"Parda";"Não";"Rural";2289.04402752209
+12;"AC";1200401;"Rio Branco";"Masculino";"Parda";"Sim";"Rural";7844.38381270543
+12;"AC";1200401;"Rio Branco";"Masculino";"Parda";NA;"Rural";976.180395228039
+12;"AC";1200401;"Rio Branco";"Masculino";"Preta";"Não";"Rural";326.626508274006
+12;"AC";1200401;"Rio Branco";"Masculino";"Preta";"Sim";"Rural";882.462488238265
+12;"AC";1200401;"Rio Branco";"Masculino";"Preta";NA;"Rural";78.7660204061806
+12;"AC";1200401;"Rio Branco";"Feminino";"Amarela";"Não";"Urbana";288.711288572497
+12;"AC";1200401;"Rio Branco";"Feminino";"Amarela";"Sim";"Urbana";3366.2832895829
+12;"AC";1200401;"Rio Branco";"Feminino";"Amarela";NA;"Urbana";301.294628198257
+12;"AC";1200401;"Rio Branco";"Feminino";"Branca";"Não";"Urbana";2813.34662646175
+12;"AC";1200401;"Rio Branco";"Feminino";"Branca";"Sim";"Urbana";35704.1462113704
+12;"AC";1200401;"Rio Branco";"Feminino";"Branca";NA;"Urbana";4513.09783804793
+12;"AC";1200401;"Rio Branco";"Feminino";"Ignorado";"Não";"Urbana";43.8816037644873
+12;"AC";1200401;"Rio Branco";"Feminino";"Indígena";"Não";"Urbana";21.2089317705465
+12;"AC";1200401;"Rio Branco";"Feminino";"Indígena";"Sim";"Urbana";176.860975718033
+12;"AC";1200401;"Rio Branco";"Feminino";"Indígena";NA;"Urbana";39.1960551069675
+12;"AC";1200401;"Rio Branco";"Feminino";"Parda";"Não";"Urbana";9050.4402124623
+12;"AC";1200401;"Rio Branco";"Feminino";"Parda";"Sim";"Urbana";88428.6485377725
+12;"AC";1200401;"Rio Branco";"Feminino";"Parda";NA;"Urbana";8431.00470699334
+12;"AC";1200401;"Rio Branco";"Feminino";"Preta";"Não";"Urbana";846.474415519065
+12;"AC";1200401;"Rio Branco";"Feminino";"Preta";"Sim";"Urbana";5724.58356759707
+12;"AC";1200401;"Rio Branco";"Feminino";"Preta";NA;"Urbana";358.821111063083
+12;"AC";1200401;"Rio Branco";"Masculino";"Amarela";"Não";"Urbana";373.707656503843
+12;"AC";1200401;"Rio Branco";"Masculino";"Amarela";"Sim";"Urbana";2255.16531699709
+12;"AC";1200401;"Rio Branco";"Masculino";"Amarela";NA;"Urbana";404.686929905604
+12;"AC";1200401;"Rio Branco";"Masculino";"Branca";"Não";"Urbana";2490.7802970483
+12;"AC";1200401;"Rio Branco";"Masculino";"Branca";"Sim";"Urbana";31293.9368951928
+12;"AC";1200401;"Rio Branco";"Masculino";"Branca";NA;"Urbana";4491.16944806406
+12;"AC";1200401;"Rio Branco";"Masculino";"Ignorado";"Não";"Urbana";31.8259457411276
+12;"AC";1200401;"Rio Branco";"Masculino";"Ignorado";"Sim";"Urbana";9.7398610496982
+12;"AC";1200401;"Rio Branco";"Masculino";"Indígena";"Não";"Urbana";19.1974514806239
+12;"AC";1200401;"Rio Branco";"Masculino";"Indígena";"Sim";"Urbana";152.042275126918
+12;"AC";1200401;"Rio Branco";"Masculino";"Indígena";NA;"Urbana";21.3106486311479
+12;"AC";1200401;"Rio Branco";"Masculino";"Parda";"Não";"Urbana";9018.68350308016
+12;"AC";1200401;"Rio Branco";"Masculino";"Parda";"Sim";"Urbana";80132.6610410845
+12;"AC";1200401;"Rio Branco";"Masculino";"Parda";NA;"Urbana";8780.87183112258
+12;"AC";1200401;"Rio Branco";"Masculino";"Preta";"Não";"Urbana";1224.29111172831
+12;"AC";1200401;"Rio Branco";"Masculino";"Preta";"Sim";"Urbana";7354.25030132855
+12;"AC";1200401;"Rio Branco";"Masculino";"Preta";NA;"Urbana";382.67948591584
+12;"AC";1200427;"Rodrigues Alves";"Feminino";"Amarela";"Sim";"Rural";4.5329658371132
+12;"AC";1200427;"Rodrigues Alves";"Feminino";"Amarela";NA;"Rural";6.7993957471071
+12;"AC";1200427;"Rodrigues Alves";"Feminino";"Branca";"Não";"Rural";216.312035111237
+12;"AC";1200427;"Rodrigues Alves";"Feminino";"Branca";"Sim";"Rural";599.214660175239
+12;"AC";1200427;"Rodrigues Alves";"Feminino";"Branca";NA;"Rural";172.127308454362
+12;"AC";1200427;"Rodrigues Alves";"Feminino";"Parda";"Não";"Rural";1074.71173618287
+12;"AC";1200427;"Rodrigues Alves";"Feminino";"Parda";"Sim";"Rural";2022.87772369681
+12;"AC";1200427;"Rodrigues Alves";"Feminino";"Parda";NA;"Rural";484.488026272068
+12;"AC";1200427;"Rodrigues Alves";"Feminino";"Preta";"Não";"Rural";59.9391284653732
+12;"AC";1200427;"Rodrigues Alves";"Feminino";"Preta";"Sim";"Rural";62.7511116508378
+12;"AC";1200427;"Rodrigues Alves";"Feminino";"Preta";NA;"Rural";28.2459084069976
+12;"AC";1200427;"Rodrigues Alves";"Masculino";"Amarela";"Não";"Rural";19.1067037736447
+12;"AC";1200427;"Rodrigues Alves";"Masculino";"Amarela";"Sim";"Rural";23.0086788206681
+12;"AC";1200427;"Rodrigues Alves";"Masculino";"Branca";"Não";"Rural";290.697214535801
+12;"AC";1200427;"Rodrigues Alves";"Masculino";"Branca";"Sim";"Rural";519.099970147408
+12;"AC";1200427;"Rodrigues Alves";"Masculino";"Branca";NA;"Rural";158.213356611379
+12;"AC";1200427;"Rodrigues Alves";"Masculino";"Parda";"Não";"Rural";1540.01594393431
+12;"AC";1200427;"Rodrigues Alves";"Masculino";"Parda";"Sim";"Rural";1981.10650496012
+12;"AC";1200427;"Rodrigues Alves";"Masculino";"Parda";NA;"Rural";557.070508154898
+12;"AC";1200427;"Rodrigues Alves";"Masculino";"Preta";"Não";"Rural";95.0185604187198
+12;"AC";1200427;"Rodrigues Alves";"Masculino";"Preta";"Sim";"Rural";136.586954138685
+12;"AC";1200427;"Rodrigues Alves";"Masculino";"Preta";NA;"Rural";22.0756045043768
+12;"AC";1200427;"Rodrigues Alves";"Feminino";"Amarela";"Sim";"Urbana";20.2452388900204
+12;"AC";1200427;"Rodrigues Alves";"Feminino";"Branca";"Não";"Urbana";56.9125872553598
+12;"AC";1200427;"Rodrigues Alves";"Feminino";"Branca";"Sim";"Urbana";359.90339958048
+12;"AC";1200427;"Rodrigues Alves";"Feminino";"Branca";NA;"Urbana";63.0443596472826
+12;"AC";1200427;"Rodrigues Alves";"Feminino";"Parda";"Não";"Urbana";256.960233764457
+12;"AC";1200427;"Rodrigues Alves";"Feminino";"Parda";"Sim";"Urbana";1189.87323939329
+12;"AC";1200427;"Rodrigues Alves";"Feminino";"Parda";NA;"Urbana";200.424788344881
+12;"AC";1200427;"Rodrigues Alves";"Feminino";"Preta";"Não";"Urbana";5.3420194436823
+12;"AC";1200427;"Rodrigues Alves";"Feminino";"Preta";"Sim";"Urbana";25.2941336805547
+12;"AC";1200427;"Rodrigues Alves";"Masculino";"Branca";"Não";"Urbana";66.4839530439317
+12;"AC";1200427;"Rodrigues Alves";"Masculino";"Branca";"Sim";"Urbana";365.84014144499
+12;"AC";1200427;"Rodrigues Alves";"Masculino";"Branca";NA;"Urbana";85.7826997976471
+12;"AC";1200427;"Rodrigues Alves";"Masculino";"Parda";"Não";"Urbana";386.837019157099
+12;"AC";1200427;"Rodrigues Alves";"Masculino";"Parda";"Sim";"Urbana";1018.27847521702
+12;"AC";1200427;"Rodrigues Alves";"Masculino";"Parda";NA;"Urbana";163.046212568501
+12;"AC";1200427;"Rodrigues Alves";"Masculino";"Preta";"Não";"Urbana";26.2877933825157
+12;"AC";1200427;"Rodrigues Alves";"Masculino";"Preta";"Sim";"Urbana";24.443705388304
+12;"AC";1200435;"Santa Rosa do Purus";"Feminino";"Branca";"Não";"Rural";112.864423213419
+12;"AC";1200435;"Santa Rosa do Purus";"Feminino";"Branca";"Sim";"Rural";94.5185106997115
+12;"AC";1200435;"Santa Rosa do Purus";"Feminino";"Branca";NA;"Rural";59.1443898593536
+12;"AC";1200435;"Santa Rosa do Purus";"Feminino";"Indígena";"Não";"Rural";589.612047743534
+12;"AC";1200435;"Santa Rosa do Purus";"Feminino";"Indígena";"Sim";"Rural";294.598133850268
+12;"AC";1200435;"Santa Rosa do Purus";"Feminino";"Indígena";NA;"Rural";220.542289285079
+12;"AC";1200435;"Santa Rosa do Purus";"Feminino";"Parda";"Não";"Rural";19.1399576268989
+12;"AC";1200435;"Santa Rosa do Purus";"Feminino";"Parda";"Sim";"Rural";10.5078864627487
+12;"AC";1200435;"Santa Rosa do Purus";"Feminino";"Parda";NA;"Rural";2.0723612589942
+12;"AC";1200435;"Santa Rosa do Purus";"Feminino";"Preta";"Sim";"Rural";1.0000000000003
+12;"AC";1200435;"Santa Rosa do Purus";"Masculino";"Branca";"Não";"Rural";82.0747333042796
+12;"AC";1200435;"Santa Rosa do Purus";"Masculino";"Branca";"Sim";"Rural";174.425784336152
+12;"AC";1200435;"Santa Rosa do Purus";"Masculino";"Branca";NA;"Rural";28.4122360468315
+12;"AC";1200435;"Santa Rosa do Purus";"Masculino";"Indígena";"Não";"Rural";408.993226875248
+12;"AC";1200435;"Santa Rosa do Purus";"Masculino";"Indígena";"Sim";"Rural";416.15972994291
+12;"AC";1200435;"Santa Rosa do Purus";"Masculino";"Indígena";NA;"Rural";258.209319254852
+12;"AC";1200435;"Santa Rosa do Purus";"Masculino";"Parda";"Não";"Rural";8.8986657493626
+12;"AC";1200435;"Santa Rosa do Purus";"Masculino";"Parda";"Sim";"Rural";11.7539432313763
+12;"AC";1200435;"Santa Rosa do Purus";"Masculino";"Parda";NA;"Rural";5.0723612589951
+12;"AC";1200435;"Santa Rosa do Purus";"Masculino";"Preta";"Não";"Rural";1.0000000000003
+12;"AC";1200435;"Santa Rosa do Purus";"Feminino";"Amarela";"Sim";"Urbana";9.3728514910318
+12;"AC";1200435;"Santa Rosa do Purus";"Feminino";"Amarela";NA;"Urbana";3.4103717699744
+12;"AC";1200435;"Santa Rosa do Purus";"Feminino";"Branca";"Não";"Urbana";12.6090121223367
+12;"AC";1200435;"Santa Rosa do Purus";"Feminino";"Branca";"Sim";"Urbana";108.087853402506
+12;"AC";1200435;"Santa Rosa do Purus";"Feminino";"Branca";NA;"Urbana";19.1607331623015
+12;"AC";1200435;"Santa Rosa do Purus";"Feminino";"Indígena";"Não";"Urbana";48.5257291629359
+12;"AC";1200435;"Santa Rosa do Purus";"Feminino";"Indígena";"Sim";"Urbana";116.507981795344
+12;"AC";1200435;"Santa Rosa do Purus";"Feminino";"Indígena";NA;"Urbana";61.2474761592402
+12;"AC";1200435;"Santa Rosa do Purus";"Feminino";"Parda";"Não";"Urbana";77.3778470429815
+12;"AC";1200435;"Santa Rosa do Purus";"Feminino";"Parda";"Sim";"Urbana";353.764452251192
+12;"AC";1200435;"Santa Rosa do Purus";"Feminino";"Parda";NA;"Urbana";48.6084568792214
+12;"AC";1200435;"Santa Rosa do Purus";"Feminino";"Preta";"Não";"Urbana";1.0000000000003
+12;"AC";1200435;"Santa Rosa do Purus";"Feminino";"Preta";"Sim";"Urbana";20.3272347609368
+12;"AC";1200435;"Santa Rosa do Purus";"Feminino";"Preta";NA;"Urbana";1.0000000000003
+12;"AC";1200435;"Santa Rosa do Purus";"Masculino";"Amarela";"Não";"Urbana";1.0000000000003
+12;"AC";1200435;"Santa Rosa do Purus";"Masculino";"Amarela";"Sim";"Urbana";4.4103717699747
+12;"AC";1200435;"Santa Rosa do Purus";"Masculino";"Branca";"Não";"Urbana";72.9487197004479
+12;"AC";1200435;"Santa Rosa do Purus";"Masculino";"Branca";"Sim";"Urbana";90.0383182848058
+12;"AC";1200435;"Santa Rosa do Purus";"Masculino";"Branca";NA;"Urbana";20.3050972630026
+12;"AC";1200435;"Santa Rosa do Purus";"Masculino";"Indígena";"Não";"Urbana";33.698541089958
+12;"AC";1200435;"Santa Rosa do Purus";"Masculino";"Indígena";"Sim";"Urbana";101.793340402577
+12;"AC";1200435;"Santa Rosa do Purus";"Masculino";"Indígena";NA;"Urbana";24.8517680676384
+12;"AC";1200435;"Santa Rosa do Purus";"Masculino";"Parda";"Não";"Urbana";144.034661155253
+12;"AC";1200435;"Santa Rosa do Purus";"Masculino";"Parda";"Sim";"Urbana";419.007544984282
+12;"AC";1200435;"Santa Rosa do Purus";"Masculino";"Parda";NA;"Urbana";81.0188281023809
+12;"AC";1200435;"Santa Rosa do Purus";"Masculino";"Preta";"Não";"Urbana";4.8527833443358
+12;"AC";1200435;"Santa Rosa do Purus";"Masculino";"Preta";"Sim";"Urbana";13.0400258353477
+12;"AC";1200450;"Senador Guiomard";"Feminino";"Amarela";"Não";"Rural";23.0461694016291
+12;"AC";1200450;"Senador Guiomard";"Feminino";"Amarela";"Sim";"Rural";47.5623896536477
+12;"AC";1200450;"Senador Guiomard";"Feminino";"Amarela";NA;"Rural";23.3540836721254
+12;"AC";1200450;"Senador Guiomard";"Feminino";"Branca";"Não";"Rural";87.1450735388138
+12;"AC";1200450;"Senador Guiomard";"Feminino";"Branca";"Sim";"Rural";299.748885084299
+12;"AC";1200450;"Senador Guiomard";"Feminino";"Branca";NA;"Rural";42.3159279819485
+12;"AC";1200450;"Senador Guiomard";"Feminino";"Indígena";"Sim";"Rural";13.6136990485115
+12;"AC";1200450;"Senador Guiomard";"Feminino";"Parda";"Não";"Rural";525.307062318105
+12;"AC";1200450;"Senador Guiomard";"Feminino";"Parda";"Sim";"Rural";1884.39501378727
+12;"AC";1200450;"Senador Guiomard";"Feminino";"Parda";NA;"Rural";196.0846897845
+12;"AC";1200450;"Senador Guiomard";"Feminino";"Preta";"Não";"Rural";55.1063188608854
+12;"AC";1200450;"Senador Guiomard";"Feminino";"Preta";"Sim";"Rural";161.432656542216
+12;"AC";1200450;"Senador Guiomard";"Feminino";"Preta";NA;"Rural";13.8880303260599
+12;"AC";1200450;"Senador Guiomard";"Masculino";"Amarela";"Não";"Rural";22.7992314056418
+12;"AC";1200450;"Senador Guiomard";"Masculino";"Amarela";"Sim";"Rural";73.8226691359893
+12;"AC";1200450;"Senador Guiomard";"Masculino";"Amarela";NA;"Rural";16.0862524628493
+12;"AC";1200450;"Senador Guiomard";"Masculino";"Branca";"Não";"Rural";121.254153790118
+12;"AC";1200450;"Senador Guiomard";"Masculino";"Branca";"Sim";"Rural";459.715567186581
+12;"AC";1200450;"Senador Guiomard";"Masculino";"Branca";NA;"Rural";57.2043803736073
+12;"AC";1200450;"Senador Guiomard";"Masculino";"Parda";"Não";"Rural";732.349091268349
+12;"AC";1200450;"Senador Guiomard";"Masculino";"Parda";"Sim";"Rural";2008.6673482249
+12;"AC";1200450;"Senador Guiomard";"Masculino";"Parda";NA;"Rural";330.545609635139
+12;"AC";1200450;"Senador Guiomard";"Masculino";"Preta";"Não";"Rural";78.2155525927052
+12;"AC";1200450;"Senador Guiomard";"Masculino";"Preta";"Sim";"Rural";173.813212890255
+12;"AC";1200450;"Senador Guiomard";"Masculino";"Preta";NA;"Rural";28.5269310338734
+12;"AC";1200450;"Senador Guiomard";"Feminino";"Amarela";"Não";"Urbana";43.5110043997478
+12;"AC";1200450;"Senador Guiomard";"Feminino";"Amarela";"Sim";"Urbana";121.426963822359
+12;"AC";1200450;"Senador Guiomard";"Feminino";"Amarela";NA;"Urbana";5.0803856870362
+12;"AC";1200450;"Senador Guiomard";"Feminino";"Branca";"Não";"Urbana";145.824491559781
+12;"AC";1200450;"Senador Guiomard";"Feminino";"Branca";"Sim";"Urbana";935.994148233646
+12;"AC";1200450;"Senador Guiomard";"Feminino";"Branca";NA;"Urbana";150.843996073135
+12;"AC";1200450;"Senador Guiomard";"Feminino";"Indígena";"Sim";"Urbana";7.3360429983444
+12;"AC";1200450;"Senador Guiomard";"Feminino";"Parda";"Não";"Urbana";636.642717131583
+12;"AC";1200450;"Senador Guiomard";"Feminino";"Parda";"Sim";"Urbana";3617.11280912712
+12;"AC";1200450;"Senador Guiomard";"Feminino";"Parda";NA;"Urbana";497.165472257693
+12;"AC";1200450;"Senador Guiomard";"Feminino";"Preta";"Não";"Urbana";56.7310481416984
+12;"AC";1200450;"Senador Guiomard";"Feminino";"Preta";"Sim";"Urbana";237.307163341408
+12;"AC";1200450;"Senador Guiomard";"Feminino";"Preta";NA;"Urbana";23.0237572264599
+12;"AC";1200450;"Senador Guiomard";"Masculino";"Amarela";"Não";"Urbana";13.3165212005403
+12;"AC";1200450;"Senador Guiomard";"Masculino";"Amarela";"Sim";"Urbana";115.127511829034
+12;"AC";1200450;"Senador Guiomard";"Masculino";"Amarela";NA;"Urbana";5.199690159108
+12;"AC";1200450;"Senador Guiomard";"Masculino";"Branca";"Não";"Urbana";174.421088762846
+12;"AC";1200450;"Senador Guiomard";"Masculino";"Branca";"Sim";"Urbana";825.628576794465
+12;"AC";1200450;"Senador Guiomard";"Masculino";"Branca";NA;"Urbana";186.642594946633
+12;"AC";1200450;"Senador Guiomard";"Masculino";"Indígena";"Não";"Urbana";4.9916085314412
+12;"AC";1200450;"Senador Guiomard";"Masculino";"Indígena";"Sim";"Urbana";4.2621046093824
+12;"AC";1200450;"Senador Guiomard";"Masculino";"Parda";"Não";"Urbana";647.247350987173
+12;"AC";1200450;"Senador Guiomard";"Masculino";"Parda";"Sim";"Urbana";3419.27814606564
+12;"AC";1200450;"Senador Guiomard";"Masculino";"Parda";NA;"Urbana";376.788613919405
+12;"AC";1200450;"Senador Guiomard";"Masculino";"Preta";"Não";"Urbana";110.019780803053
+12;"AC";1200450;"Senador Guiomard";"Masculino";"Preta";"Sim";"Urbana";308.633406750167
+12;"AC";1200450;"Senador Guiomard";"Masculino";"Preta";NA;"Urbana";33.4430046411232
+12;"AC";1200500;"Sena Madureira";"Feminino";"Amarela";"Não";"Rural";4.944537674941
+12;"AC";1200500;"Sena Madureira";"Feminino";"Amarela";"Sim";"Rural";13.8795196273936
+12;"AC";1200500;"Sena Madureira";"Feminino";"Branca";"Não";"Rural";284.779089070823
+12;"AC";1200500;"Sena Madureira";"Feminino";"Branca";"Sim";"Rural";584.222663507438
+12;"AC";1200500;"Sena Madureira";"Feminino";"Branca";NA;"Rural";132.408678792502
+12;"AC";1200500;"Sena Madureira";"Feminino";"Indígena";"Não";"Rural";257.479087038922
+12;"AC";1200500;"Sena Madureira";"Feminino";"Indígena";"Sim";"Rural";154.093848841027
+12;"AC";1200500;"Sena Madureira";"Feminino";"Indígena";NA;"Rural";90.3261717730852
+12;"AC";1200500;"Sena Madureira";"Feminino";"Parda";"Não";"Rural";1192.90587374032
+12;"AC";1200500;"Sena Madureira";"Feminino";"Parda";"Sim";"Rural";2018.88034143625
+12;"AC";1200500;"Sena Madureira";"Feminino";"Parda";NA;"Rural";522.045656388601
+12;"AC";1200500;"Sena Madureira";"Feminino";"Preta";"Não";"Rural";234.353117154841
+12;"AC";1200500;"Sena Madureira";"Feminino";"Preta";"Sim";"Rural";286.12255355847
+12;"AC";1200500;"Sena Madureira";"Feminino";"Preta";NA;"Rural";35.5588613953773
+12;"AC";1200500;"Sena Madureira";"Masculino";"Amarela";"Não";"Rural";6.8613826346473
+12;"AC";1200500;"Sena Madureira";"Masculino";"Amarela";"Sim";"Rural";14.833613024823
+12;"AC";1200500;"Sena Madureira";"Masculino";"Branca";"Não";"Rural";322.791810816647
+12;"AC";1200500;"Sena Madureira";"Masculino";"Branca";"Sim";"Rural";432.195044242371
+12;"AC";1200500;"Sena Madureira";"Masculino";"Branca";NA;"Rural";76.1256590977024
+12;"AC";1200500;"Sena Madureira";"Masculino";"Indígena";"Não";"Rural";324.497757491515
+12;"AC";1200500;"Sena Madureira";"Masculino";"Indígena";"Sim";"Rural";225.361976743676
+12;"AC";1200500;"Sena Madureira";"Masculino";"Indígena";NA;"Rural";167.385694199618
+12;"AC";1200500;"Sena Madureira";"Masculino";"Parda";"Não";"Rural";1543.25945658129
+12;"AC";1200500;"Sena Madureira";"Masculino";"Parda";"Sim";"Rural";2586.94847667023
+12;"AC";1200500;"Sena Madureira";"Masculino";"Parda";NA;"Rural";586.291670335279
+12;"AC";1200500;"Sena Madureira";"Masculino";"Preta";"Não";"Rural";330.694662462551
+12;"AC";1200500;"Sena Madureira";"Masculino";"Preta";"Sim";"Rural";444.181659382546
+12;"AC";1200500;"Sena Madureira";"Masculino";"Preta";NA;"Rural";43.571136317102
+12;"AC";1200500;"Sena Madureira";"Feminino";"Amarela";"Não";"Urbana";30.5301355191696
+12;"AC";1200500;"Sena Madureira";"Feminino";"Amarela";"Sim";"Urbana";71.8040781063039
+12;"AC";1200500;"Sena Madureira";"Feminino";"Amarela";NA;"Urbana";12.4780528408801
+12;"AC";1200500;"Sena Madureira";"Feminino";"Branca";"Não";"Urbana";277.181827755656
+12;"AC";1200500;"Sena Madureira";"Feminino";"Branca";"Sim";"Urbana";1798.09281857547
+12;"AC";1200500;"Sena Madureira";"Feminino";"Branca";NA;"Urbana";329.630609753533
+12;"AC";1200500;"Sena Madureira";"Feminino";"Indígena";"Não";"Urbana";44.177884961986
+12;"AC";1200500;"Sena Madureira";"Feminino";"Indígena";"Sim";"Urbana";11.5880711683371
+12;"AC";1200500;"Sena Madureira";"Feminino";"Parda";"Não";"Urbana";1278.71038586206
+12;"AC";1200500;"Sena Madureira";"Feminino";"Parda";"Sim";"Urbana";7260.72646817521
+12;"AC";1200500;"Sena Madureira";"Feminino";"Parda";NA;"Urbana";759.686551568416
+12;"AC";1200500;"Sena Madureira";"Feminino";"Preta";"Não";"Urbana";158.317838157241
+12;"AC";1200500;"Sena Madureira";"Feminino";"Preta";"Sim";"Urbana";376.610423005966
+12;"AC";1200500;"Sena Madureira";"Feminino";"Preta";NA;"Urbana";68.4648545497944
+12;"AC";1200500;"Sena Madureira";"Masculino";"Amarela";"Não";"Urbana";9.7432983425595
+12;"AC";1200500;"Sena Madureira";"Masculino";"Amarela";"Sim";"Urbana";90.899293219048
+12;"AC";1200500;"Sena Madureira";"Masculino";"Amarela";NA;"Urbana";6.5486493065953
+12;"AC";1200500;"Sena Madureira";"Masculino";"Branca";"Não";"Urbana";391.58188898833
+12;"AC";1200500;"Sena Madureira";"Masculino";"Branca";"Sim";"Urbana";1857.53641116206
+12;"AC";1200500;"Sena Madureira";"Masculino";"Branca";NA;"Urbana";317.857427304084
+12;"AC";1200500;"Sena Madureira";"Masculino";"Indígena";"Não";"Urbana";44.177884961986
+12;"AC";1200500;"Sena Madureira";"Masculino";"Indígena";"Sim";"Urbana";15.4507615577828
+12;"AC";1200500;"Sena Madureira";"Masculino";"Indígena";NA;"Urbana";15.4507615577828
+12;"AC";1200500;"Sena Madureira";"Masculino";"Parda";"Não";"Urbana";1622.91626010299
+12;"AC";1200500;"Sena Madureira";"Masculino";"Parda";"Sim";"Urbana";6599.40800097502
+12;"AC";1200500;"Sena Madureira";"Masculino";"Parda";NA;"Urbana";909.252017073457
+12;"AC";1200500;"Sena Madureira";"Masculino";"Preta";"Não";"Urbana";144.151896550701
+12;"AC";1200500;"Sena Madureira";"Masculino";"Preta";"Sim";"Urbana";558.513176761693
+12;"AC";1200500;"Sena Madureira";"Masculino";"Preta";NA;"Urbana";50.5122721359231
+12;"AC";1200609;"Tarauacá";"Feminino";"Amarela";"Não";"Rural";160.585233708562
+12;"AC";1200609;"Tarauacá";"Feminino";"Amarela";"Sim";"Rural";195.155237672351
+12;"AC";1200609;"Tarauacá";"Feminino";"Amarela";NA;"Rural";61.9133505094593
+12;"AC";1200609;"Tarauacá";"Feminino";"Branca";"Não";"Rural";469.181909880116
+12;"AC";1200609;"Tarauacá";"Feminino";"Branca";"Sim";"Rural";472.304101595474
+12;"AC";1200609;"Tarauacá";"Feminino";"Branca";NA;"Rural";271.35827735867
+12;"AC";1200609;"Tarauacá";"Feminino";"Indígena";"Não";"Rural";121.291378508026
+12;"AC";1200609;"Tarauacá";"Feminino";"Indígena";"Sim";"Rural";268.059246147987
+12;"AC";1200609;"Tarauacá";"Feminino";"Indígena";NA;"Rural";103.129789536573
+12;"AC";1200609;"Tarauacá";"Feminino";"Parda";"Não";"Rural";2054.75916510206
+12;"AC";1200609;"Tarauacá";"Feminino";"Parda";"Sim";"Rural";1912.70273340944
+12;"AC";1200609;"Tarauacá";"Feminino";"Parda";NA;"Rural";966.184184253481
+12;"AC";1200609;"Tarauacá";"Feminino";"Preta";"Não";"Rural";221.385161194666
+12;"AC";1200609;"Tarauacá";"Feminino";"Preta";"Sim";"Rural";167.181934834602
+12;"AC";1200609;"Tarauacá";"Feminino";"Preta";NA;"Rural";54.8082962891802
+12;"AC";1200609;"Tarauacá";"Masculino";"Amarela";"Não";"Rural";108.367842547973
+12;"AC";1200609;"Tarauacá";"Masculino";"Amarela";"Sim";"Rural";214.754002203239
+12;"AC";1200609;"Tarauacá";"Masculino";"Amarela";NA;"Rural";62.1305427939005
+12;"AC";1200609;"Tarauacá";"Masculino";"Branca";"Não";"Rural";493.386677108224
+12;"AC";1200609;"Tarauacá";"Masculino";"Branca";"Sim";"Rural";585.504018679296
+12;"AC";1200609;"Tarauacá";"Masculino";"Branca";NA;"Rural";203.908769652986
+12;"AC";1200609;"Tarauacá";"Masculino";"Indígena";"Não";"Rural";150.493848677619
+12;"AC";1200609;"Tarauacá";"Masculino";"Indígena";"Sim";"Rural";270.107253148833
+12;"AC";1200609;"Tarauacá";"Masculino";"Indígena";NA;"Rural";75.1938097844203
+12;"AC";1200609;"Tarauacá";"Masculino";"Parda";"Não";"Rural";2735.43463715436
+12;"AC";1200609;"Tarauacá";"Masculino";"Parda";"Sim";"Rural";2249.24465165668
+12;"AC";1200609;"Tarauacá";"Masculino";"Parda";NA;"Rural";905.78542907189
+12;"AC";1200609;"Tarauacá";"Masculino";"Preta";"Não";"Rural";255.897577536489
+12;"AC";1200609;"Tarauacá";"Masculino";"Preta";"Sim";"Rural";362.550457821064
+12;"AC";1200609;"Tarauacá";"Masculino";"Preta";NA;"Rural";66.2404821638168
+12;"AC";1200609;"Tarauacá";"Feminino";"Amarela";"Não";"Urbana";50.5792088392381
+12;"AC";1200609;"Tarauacá";"Feminino";"Amarela";"Sim";"Urbana";178.401706031773
+12;"AC";1200609;"Tarauacá";"Feminino";"Amarela";NA;"Urbana";16.9141158740954
+12;"AC";1200609;"Tarauacá";"Feminino";"Branca";"Não";"Urbana";362.213076336271
+12;"AC";1200609;"Tarauacá";"Feminino";"Branca";"Sim";"Urbana";2021.98245357272
+12;"AC";1200609;"Tarauacá";"Feminino";"Branca";NA;"Urbana";339.704233322975
+12;"AC";1200609;"Tarauacá";"Feminino";"Indígena";"Não";"Urbana";13.7115555389942
+12;"AC";1200609;"Tarauacá";"Feminino";"Indígena";"Sim";"Urbana";73.2158038497215
+12;"AC";1200609;"Tarauacá";"Feminino";"Parda";"Não";"Urbana";1215.30284263909
+12;"AC";1200609;"Tarauacá";"Feminino";"Parda";"Sim";"Urbana";4307.24477350717
+12;"AC";1200609;"Tarauacá";"Feminino";"Parda";NA;"Urbana";586.020976290145
+12;"AC";1200609;"Tarauacá";"Feminino";"Preta";"Não";"Urbana";208.184819681752
+12;"AC";1200609;"Tarauacá";"Feminino";"Preta";"Sim";"Urbana";314.219665456015
+12;"AC";1200609;"Tarauacá";"Feminino";"Preta";NA;"Urbana";49.3047690607358
+12;"AC";1200609;"Tarauacá";"Masculino";"Amarela";"Não";"Urbana";47.6980762845445
+12;"AC";1200609;"Tarauacá";"Masculino";"Amarela";"Sim";"Urbana";83.6764243629197
+12;"AC";1200609;"Tarauacá";"Masculino";"Amarela";NA;"Urbana";12.561120000101
+12;"AC";1200609;"Tarauacá";"Masculino";"Branca";"Não";"Urbana";465.504698687149
+12;"AC";1200609;"Tarauacá";"Masculino";"Branca";"Sim";"Urbana";1717.28280733315
+12;"AC";1200609;"Tarauacá";"Masculino";"Branca";NA;"Urbana";435.672122130883
+12;"AC";1200609;"Tarauacá";"Masculino";"Indígena";"Sim";"Urbana";36.520995581273
+12;"AC";1200609;"Tarauacá";"Masculino";"Indígena";NA;"Urbana";26.0335216617947
+12;"AC";1200609;"Tarauacá";"Masculino";"Parda";"Não";"Urbana";1435.92041174807
+12;"AC";1200609;"Tarauacá";"Masculino";"Parda";"Sim";"Urbana";4111.12460011517
+12;"AC";1200609;"Tarauacá";"Masculino";"Parda";NA;"Urbana";659.582203083909
+12;"AC";1200609;"Tarauacá";"Masculino";"Preta";"Não";"Urbana";174.213384983313
+12;"AC";1200609;"Tarauacá";"Masculino";"Preta";"Sim";"Urbana";365.518621381347
+12;"AC";1200609;"Tarauacá";"Masculino";"Preta";NA;"Urbana";42.6910126470194
+12;"AC";1200708;"Xapuri";"Feminino";"Amarela";"Não";"Rural";26.2111604527898
+12;"AC";1200708;"Xapuri";"Feminino";"Amarela";"Sim";"Rural";26.6648502829748
+12;"AC";1200708;"Xapuri";"Feminino";"Amarela";NA;"Rural";3.7851534117864
+12;"AC";1200708;"Xapuri";"Feminino";"Branca";"Não";"Rural";117.882567258948
+12;"AC";1200708;"Xapuri";"Feminino";"Branca";"Sim";"Rural";215.986091609356
+12;"AC";1200708;"Xapuri";"Feminino";"Branca";NA;"Rural";50.4844197775891
+12;"AC";1200708;"Xapuri";"Feminino";"Parda";"Não";"Rural";546.855768005083
+12;"AC";1200708;"Xapuri";"Feminino";"Parda";"Sim";"Rural";1103.49739607112
+12;"AC";1200708;"Xapuri";"Feminino";"Parda";NA;"Rural";276.631075731332
+12;"AC";1200708;"Xapuri";"Feminino";"Preta";"Não";"Rural";71.4207507878177
+12;"AC";1200708;"Xapuri";"Feminino";"Preta";"Sim";"Rural";95.5713697601275
+12;"AC";1200708;"Xapuri";"Feminino";"Preta";NA;"Rural";15.0093968510433
+12;"AC";1200708;"Xapuri";"Masculino";"Amarela";"Não";"Rural";31.3246662271269
+12;"AC";1200708;"Xapuri";"Masculino";"Amarela";"Sim";"Rural";32.8073292716035
+12;"AC";1200708;"Xapuri";"Masculino";"Amarela";NA;"Rural";15.3437574020107
+12;"AC";1200708;"Xapuri";"Masculino";"Branca";"Não";"Rural";113.108084590286
+12;"AC";1200708;"Xapuri";"Masculino";"Branca";"Sim";"Rural";268.536938508012
+12;"AC";1200708;"Xapuri";"Masculino";"Branca";NA;"Rural";59.404115306112
+12;"AC";1200708;"Xapuri";"Masculino";"Parda";"Não";"Rural";676.13182948749
+12;"AC";1200708;"Xapuri";"Masculino";"Parda";"Sim";"Rural";1417.23121213566
+12;"AC";1200708;"Xapuri";"Masculino";"Parda";NA;"Rural";231.001679945161
+12;"AC";1200708;"Xapuri";"Masculino";"Preta";"Não";"Rural";110.051768573497
+12;"AC";1200708;"Xapuri";"Masculino";"Preta";"Sim";"Rural";244.451530352978
+12;"AC";1200708;"Xapuri";"Masculino";"Preta";NA;"Rural";11.6070882000256
+12;"AC";1200708;"Xapuri";"Feminino";"Amarela";"Não";"Urbana";27.6243409198233
+12;"AC";1200708;"Xapuri";"Feminino";"Amarela";"Sim";"Urbana";120.29204598647
+12;"AC";1200708;"Xapuri";"Feminino";"Amarela";NA;"Urbana";19.1231952001813
+12;"AC";1200708;"Xapuri";"Feminino";"Branca";"Não";"Urbana";162.462117448081
+12;"AC";1200708;"Xapuri";"Feminino";"Branca";"Sim";"Urbana";780.760488761226
+12;"AC";1200708;"Xapuri";"Feminino";"Branca";NA;"Urbana";100.932389158759
+12;"AC";1200708;"Xapuri";"Feminino";"Parda";"Não";"Urbana";500.500614777408
+12;"AC";1200708;"Xapuri";"Feminino";"Parda";"Sim";"Urbana";2809.8007450517
+12;"AC";1200708;"Xapuri";"Feminino";"Parda";NA;"Urbana";293.3854449679
+12;"AC";1200708;"Xapuri";"Feminino";"Preta";"Não";"Urbana";105.800118478259
+12;"AC";1200708;"Xapuri";"Feminino";"Preta";"Sim";"Urbana";275.43342816619
+12;"AC";1200708;"Xapuri";"Feminino";"Preta";NA;"Urbana";27.8850710839597
+12;"AC";1200708;"Xapuri";"Masculino";"Amarela";"Não";"Urbana";30.9395238328166
+12;"AC";1200708;"Xapuri";"Masculino";"Amarela";"Sim";"Urbana";102.778763802662
+12;"AC";1200708;"Xapuri";"Masculino";"Amarela";NA;"Urbana";11.7015290951248
+12;"AC";1200708;"Xapuri";"Masculino";"Branca";"Não";"Urbana";89.3698854208899
+12;"AC";1200708;"Xapuri";"Masculino";"Branca";"Sim";"Urbana";649.713229321586
+12;"AC";1200708;"Xapuri";"Masculino";"Branca";NA;"Urbana";125.877494545739
+12;"AC";1200708;"Xapuri";"Masculino";"Parda";"Não";"Urbana";617.743809333407
+12;"AC";1200708;"Xapuri";"Masculino";"Parda";"Sim";"Urbana";2632.86286011449
+12;"AC";1200708;"Xapuri";"Masculino";"Parda";NA;"Urbana";330.343122355736
+12;"AC";1200708;"Xapuri";"Masculino";"Preta";"Não";"Urbana";176.686601672937
+12;"AC";1200708;"Xapuri";"Masculino";"Preta";"Sim";"Urbana";327.559524000204
+12;"AC";1200708;"Xapuri";"Masculino";"Preta";NA;"Urbana";10.4236565043658
+12;"AC";1200807;"Porto Acre";"Feminino";"Amarela";"Não";"Rural";10.037084368035
+12;"AC";1200807;"Porto Acre";"Feminino";"Amarela";"Sim";"Rural";17.2866889329021
+12;"AC";1200807;"Porto Acre";"Feminino";"Branca";"Não";"Rural";174.913755358571
+12;"AC";1200807;"Porto Acre";"Feminino";"Branca";"Sim";"Rural";1026.51444526902
+12;"AC";1200807;"Porto Acre";"Feminino";"Branca";NA;"Rural";159.045853980907
+12;"AC";1200807;"Porto Acre";"Feminino";"Parda";"Não";"Rural";803.49120333264
+12;"AC";1200807;"Porto Acre";"Feminino";"Parda";"Sim";"Rural";3176.76507127909
+12;"AC";1200807;"Porto Acre";"Feminino";"Parda";NA;"Rural";447.64411208559
+12;"AC";1200807;"Porto Acre";"Feminino";"Preta";"Não";"Rural";53.7182040070607
+12;"AC";1200807;"Porto Acre";"Feminino";"Preta";"Sim";"Rural";196.432447571563
+12;"AC";1200807;"Porto Acre";"Feminino";"Preta";NA;"Rural";15.1511338152379
+12;"AC";1200807;"Porto Acre";"Masculino";"Amarela";"Não";"Rural";22.2558334188152
+12;"AC";1200807;"Porto Acre";"Masculino";"Amarela";"Sim";"Rural";75.4960719695547
+12;"AC";1200807;"Porto Acre";"Masculino";"Branca";"Não";"Rural";294.168916795383
+12;"AC";1200807;"Porto Acre";"Masculino";"Branca";"Sim";"Rural";1014.58737726298
+12;"AC";1200807;"Porto Acre";"Masculino";"Branca";NA;"Rural";154.6944784659
+12;"AC";1200807;"Porto Acre";"Masculino";"Parda";"Não";"Rural";1070.34189411443
+12;"AC";1200807;"Porto Acre";"Masculino";"Parda";"Sim";"Rural";3334.03464504584
+12;"AC";1200807;"Porto Acre";"Masculino";"Parda";NA;"Rural";512.805008527143
+12;"AC";1200807;"Porto Acre";"Masculino";"Preta";"Não";"Rural";94.8286225761482
+12;"AC";1200807;"Porto Acre";"Masculino";"Preta";"Sim";"Rural";228.806177796254
+12;"AC";1200807;"Porto Acre";"Masculino";"Preta";NA;"Rural";14.9809740282083
+12;"AC";1200807;"Porto Acre";"Feminino";"Amarela";"Sim";"Urbana";13.779157854067
+12;"AC";1200807;"Porto Acre";"Feminino";"Branca";"Não";"Urbana";22.3595957107927
+12;"AC";1200807;"Porto Acre";"Feminino";"Branca";"Sim";"Urbana";81.8339492920364
+12;"AC";1200807;"Porto Acre";"Feminino";"Branca";NA;"Urbana";23.7716566186564
+12;"AC";1200807;"Porto Acre";"Feminino";"Parda";"Não";"Urbana";234.587729155475
+12;"AC";1200807;"Porto Acre";"Feminino";"Parda";"Sim";"Urbana";502.314475015117
+12;"AC";1200807;"Porto Acre";"Feminino";"Parda";NA;"Urbana";57.380742020772
+12;"AC";1200807;"Porto Acre";"Feminino";"Preta";"Sim";"Urbana";17.9726943331833
+12;"AC";1200807;"Porto Acre";"Masculino";"Amarela";"Sim";"Urbana";13.5034290821383
+12;"AC";1200807;"Porto Acre";"Masculino";"Branca";"Não";"Urbana";44.6676563672638
+12;"AC";1200807;"Porto Acre";"Masculino";"Branca";"Sim";"Urbana";85.5833451410019
+12;"AC";1200807;"Porto Acre";"Masculino";"Branca";NA;"Urbana";31.7163474784904
+12;"AC";1200807;"Porto Acre";"Masculino";"Parda";"Não";"Urbana";272.896910148381
+12;"AC";1200807;"Porto Acre";"Masculino";"Parda";"Sim";"Urbana";487.59617353681
+12;"AC";1200807;"Porto Acre";"Masculino";"Parda";NA;"Urbana";79.9854282129421
+12;"AC";1200807;"Porto Acre";"Masculino";"Preta";"Não";"Urbana";6.4893526890194
+12;"AC";1200807;"Porto Acre";"Masculino";"Preta";"Sim";"Urbana";5.5613573440529
