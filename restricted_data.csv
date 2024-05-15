@@ -1,0 +1,1751 @@
+COD_UF,NO_UF,COD_MUN,NO_MUN,SEXO,ETNIA,LE_ESCREVE,SIT_DOM,POP
+27,AL,2704302,Maceió,Feminino,Branca,Não,Rural,42.9944133260667
+27,AL,2704302,Maceió,Feminino,Branca,Sim,Rural,63.0425398191457
+27,AL,2704302,Maceió,Feminino,Branca,NA,Rural,21.3618407625361
+27,AL,2704302,Maceió,Feminino,Parda,Não,Rural,21.6325725635306
+27,AL,2704302,Maceió,Feminino,Parda,Sim,Rural,82.2784709092412
+27,AL,2704302,Maceió,Feminino,Parda,NA,Rural,21.6325725635306
+27,AL,2704302,Maceió,Feminino,Preta,Sim,Rural,42.9944133260667
+27,AL,2704302,Maceió,Feminino,Preta,NA,Rural,21.6325725635306
+27,AL,2704302,Maceió,Masculino,Branca,Sim,Rural,103.118820437546
+27,AL,2704302,Maceió,Masculino,Parda,Não,Rural,61.7088531819309
+27,AL,2704302,Maceió,Masculino,Parda,Sim,Rural,60.9166301467051
+27,AL,2704302,Maceió,Masculino,Parda,NA,Rural,41.1392354546206
+27,AL,2704302,Maceió,Masculino,Preta,Não,Rural,21.6325725635306
+27,AL,2704302,Maceió,Masculino,Preta,Sim,Rural,64.3562540886028
+27,AL,2704302,Maceió,Feminino,Amarela,Não,Urbana,695.72701560159
+27,AL,2704302,Maceió,Feminino,Amarela,Sim,Urbana,5567.65607286647
+27,AL,2704302,Maceió,Feminino,Amarela,NA,Urbana,338.451637768124
+27,AL,2704302,Maceió,Feminino,Branca,Não,Urbana,15061.5563118032
+27,AL,2704302,Maceió,Feminino,Branca,Sim,Urbana,151043.273776285
+27,AL,2704302,Maceió,Feminino,Branca,NA,Urbana,15961.3767027568
+27,AL,2704302,Maceió,Feminino,Indígena,Não,Urbana,220.784468810069
+27,AL,2704302,Maceió,Feminino,Indígena,Sim,Urbana,1037.52453761283
+27,AL,2704302,Maceió,Feminino,Parda,Não,Urbana,37270.5728198399
+27,AL,2704302,Maceió,Feminino,Parda,Sim,Urbana,215916.189829596
+27,AL,2704302,Maceió,Feminino,Parda,NA,Urbana,18062.1225443489
+27,AL,2704302,Maceió,Feminino,Preta,Não,Urbana,5707.35021586215
+27,AL,2704302,Maceió,Feminino,Preta,Sim,Urbana,27831.992486682
+27,AL,2704302,Maceió,Feminino,Preta,NA,Urbana,1223.85218433119
+27,AL,2704302,Maceió,Masculino,Amarela,Não,Urbana,331.449331942721
+27,AL,2704302,Maceió,Masculino,Amarela,Sim,Urbana,3453.64391853201
+27,AL,2704302,Maceió,Masculino,Amarela,NA,Urbana,417.251526202036
+27,AL,2704302,Maceió,Masculino,Branca,Não,Urbana,13868.0992147828
+27,AL,2704302,Maceió,Masculino,Branca,Sim,Urbana,125606.600235734
+27,AL,2704302,Maceió,Masculino,Branca,NA,Urbana,14698.0605873967
+27,AL,2704302,Maceió,Masculino,Indígena,Não,Urbana,130.123145854064
+27,AL,2704302,Maceió,Masculino,Indígena,Sim,Urbana,577.629069207788
+27,AL,2704302,Maceió,Masculino,Indígena,NA,Urbana,15.9626172869897
+27,AL,2704302,Maceió,Masculino,Parda,Não,Urbana,32920.3811498741
+27,AL,2704302,Maceió,Masculino,Parda,Sim,Urbana,187452.585815417
+27,AL,2704302,Maceió,Masculino,Parda,NA,Urbana,19438.8121178199
+27,AL,2704302,Maceió,Masculino,Preta,Não,Urbana,5421.84274908158
+27,AL,2704302,Maceió,Masculino,Preta,Sim,Urbana,30168.2252656676
+27,AL,2704302,Maceió,Masculino,Preta,NA,Urbana,1638.46088932613
+13,AM,1302603,Manaus,Feminino,Amarela,Sim,Rural,105.276102712053
+13,AM,1302603,Manaus,Feminino,Branca,Não,Rural,22.0169911865813
+13,AM,1302603,Manaus,Feminino,Branca,Sim,Rural,347.236074664649
+13,AM,1302603,Manaus,Feminino,Branca,NA,Rural,81.1411700192582
+13,AM,1302603,Manaus,Feminino,Indígena,Sim,Rural,17.7230875767917
+13,AM,1302603,Manaus,Feminino,Parda,Não,Rural,616.386554664661
+13,AM,1302603,Manaus,Feminino,Parda,Sim,Rural,2423.22973661041
+13,AM,1302603,Manaus,Feminino,Parda,NA,Rural,430.747998367335
+13,AM,1302603,Manaus,Feminino,Preta,Sim,Rural,96.2422841982759
+13,AM,1302603,Manaus,Masculino,Amarela,Sim,Rural,35.0920342373511
+13,AM,1302603,Manaus,Masculino,Branca,Não,Rural,88.7362117437732
+13,AM,1302603,Manaus,Masculino,Branca,Sim,Rural,483.451223389208
+13,AM,1302603,Manaus,Masculino,Branca,NA,Rural,35.7265293054542
+13,AM,1302603,Manaus,Masculino,Indígena,Não,Rural,54.182943592428
+13,AM,1302603,Manaus,Masculino,Indígena,Sim,Rural,17.7230875767917
+13,AM,1302603,Manaus,Masculino,Parda,Não,Rural,569.403195970237
+13,AM,1302603,Manaus,Masculino,Parda,Sim,Rural,3134.69557713632
+13,AM,1302603,Manaus,Masculino,Parda,NA,Rural,456.635541195813
+13,AM,1302603,Manaus,Masculino,Preta,Sim,Rural,117.353655852644
+13,AM,1302603,Manaus,Feminino,Amarela,Não,Urbana,627.172691311987
+13,AM,1302603,Manaus,Feminino,Amarela,Sim,Urbana,10825.4135289816
+13,AM,1302603,Manaus,Feminino,Amarela,NA,Urbana,797.024906165781
+13,AM,1302603,Manaus,Feminino,Branca,Não,Urbana,11429.4256767958
+13,AM,1302603,Manaus,Feminino,Branca,Sim,Urbana,215322.670363568
+13,AM,1302603,Manaus,Feminino,Branca,NA,Urbana,23830.3829919268
+13,AM,1302603,Manaus,Feminino,Ignorado,Não,Urbana,18.3310590756835
+13,AM,1302603,Manaus,Feminino,Indígena,Não,Urbana,273.369873897098
+13,AM,1302603,Manaus,Feminino,Indígena,Sim,Urbana,1914.43981329276
+13,AM,1302603,Manaus,Feminino,Indígena,NA,Urbana,174.372184220597
+13,AM,1302603,Manaus,Feminino,Parda,Não,Urbana,37821.5580563405
+13,AM,1302603,Manaus,Feminino,Parda,Sim,Urbana,528510.374376654
+13,AM,1302603,Manaus,Feminino,Parda,NA,Urbana,52716.2476518322
+13,AM,1302603,Manaus,Feminino,Preta,Não,Urbana,2649.49265380157
+13,AM,1302603,Manaus,Feminino,Preta,Sim,Urbana,29326.3326500775
+13,AM,1302603,Manaus,Feminino,Preta,NA,Urbana,1895.39152207322
+13,AM,1302603,Manaus,Masculino,Amarela,Não,Urbana,425.14146184838
+13,AM,1302603,Manaus,Masculino,Amarela,Sim,Urbana,7506.61535099254
+13,AM,1302603,Manaus,Masculino,Amarela,NA,Urbana,859.681779426061
+13,AM,1302603,Manaus,Masculino,Branca,Não,Urbana,11483.586044498301
+13,AM,1302603,Manaus,Masculino,Branca,Sim,Urbana,188114.299245864
+13,AM,1302603,Manaus,Masculino,Branca,NA,Urbana,24757.9870156028
+13,AM,1302603,Manaus,Masculino,Ignorado,Não,Urbana,36.662118151367
+13,AM,1302603,Manaus,Masculino,Indígena,Não,Urbana,289.111215895148
+13,AM,1302603,Manaus,Masculino,Indígena,Sim,Urbana,1490.05435420644
+13,AM,1302603,Manaus,Masculino,Indígena,NA,Urbana,174.533228400636
+13,AM,1302603,Manaus,Masculino,Parda,Não,Urbana,39687.7328463093
+13,AM,1302603,Manaus,Masculino,Parda,Sim,Urbana,504897.671078007
+13,AM,1302603,Manaus,Masculino,Parda,NA,Urbana,53802.1077188725
+13,AM,1302603,Manaus,Masculino,Preta,Não,Urbana,3072.92931680326
+13,AM,1302603,Manaus,Masculino,Preta,Sim,Urbana,36463.7838520726
+13,AM,1302603,Manaus,Masculino,Preta,NA,Urbana,1687.10337306421
+29,BA,2910800,Feira de Santana,Feminino,Amarela,Não,Rural,47.3846830457424
+29,BA,2910800,Feira de Santana,Feminino,Amarela,Sim,Rural,161.028777344033
+29,BA,2910800,Feira de Santana,Feminino,Amarela,NA,Rural,28.3515183668181
+29,BA,2910800,Feira de Santana,Feminino,Branca,Não,Rural,352.456412387672
+29,BA,2910800,Feira de Santana,Feminino,Branca,Sim,Rural,1428.97803271336
+29,BA,2910800,Feira de Santana,Feminino,Branca,NA,Rural,249.874366691078
+29,BA,2910800,Feira de Santana,Feminino,Parda,Não,Rural,2788.68092769021
+29,BA,2910800,Feira de Santana,Feminino,Parda,Sim,Rural,9670.79293443096
+29,BA,2910800,Feira de Santana,Feminino,Parda,NA,Rural,857.787000156531
+29,BA,2910800,Feira de Santana,Feminino,Preta,Não,Rural,1737.44453476887
+29,BA,2910800,Feira de Santana,Feminino,Preta,Sim,Rural,5481.82801930494
+29,BA,2910800,Feira de Santana,Feminino,Preta,NA,Rural,513.39279309957
+29,BA,2910800,Feira de Santana,Masculino,Amarela,Não,Rural,6.1823338754949
+29,BA,2910800,Feira de Santana,Masculino,Amarela,Sim,Rural,164.074302676728
+29,BA,2910800,Feira de Santana,Masculino,Amarela,NA,Rural,23.0114716603339
+29,BA,2910800,Feira de Santana,Masculino,Branca,Não,Rural,366.106402301979
+29,BA,2910800,Feira de Santana,Masculino,Branca,Sim,Rural,1473.0952603688
+29,BA,2910800,Feira de Santana,Masculino,Branca,NA,Rural,162.264094818764
+29,BA,2910800,Feira de Santana,Masculino,Parda,Não,Rural,2839.72000510227
+29,BA,2910800,Feira de Santana,Masculino,Parda,Sim,Rural,8908.03585598402
+29,BA,2910800,Feira de Santana,Masculino,Parda,NA,Rural,1036.53314523798
+29,BA,2910800,Feira de Santana,Masculino,Preta,Não,Rural,1997.75925399728
+29,BA,2910800,Feira de Santana,Masculino,Preta,Sim,Rural,5062.86766542927
+29,BA,2910800,Feira de Santana,Masculino,Preta,NA,Rural,649.350208546896
+29,BA,2910800,Feira de Santana,Feminino,Amarela,Não,Urbana,93.7568691815321
+29,BA,2910800,Feira de Santana,Feminino,Amarela,Sim,Urbana,2344.18430058642
+29,BA,2910800,Feira de Santana,Feminino,Amarela,NA,Urbana,183.581599143077
+29,BA,2910800,Feira de Santana,Feminino,Branca,Não,Urbana,2662.6263273943
+29,BA,2910800,Feira de Santana,Feminino,Branca,Sim,Urbana,49881.4101801775
+29,BA,2910800,Feira de Santana,Feminino,Branca,NA,Urbana,4597.26107975885
+29,BA,2910800,Feira de Santana,Feminino,Ignorado,Não,Urbana,22.8785408948704
+29,BA,2910800,Feira de Santana,Feminino,Ignorado,NA,Urbana,22.8785408948704
+29,BA,2910800,Feira de Santana,Feminino,Indígena,Não,Urbana,140.503115008332
+29,BA,2910800,Feira de Santana,Feminino,Indígena,Sim,Urbana,322.478395156525
+29,BA,2910800,Feira de Santana,Feminino,Indígena,NA,Urbana,30.4080021809403
+29,BA,2910800,Feira de Santana,Feminino,Parda,Não,Urbana,12646.7777050182
+29,BA,2910800,Feira de Santana,Feminino,Parda,Sim,Urbana,128895.237122923
+29,BA,2910800,Feira de Santana,Feminino,Parda,NA,Urbana,10751.4867866116
+29,BA,2910800,Feira de Santana,Feminino,Preta,Não,Urbana,6352.31161857255
+29,BA,2910800,Feira de Santana,Feminino,Preta,Sim,Urbana,47289.2852283952
+29,BA,2910800,Feira de Santana,Feminino,Preta,NA,Urbana,3087.93458810254
+29,BA,2910800,Feira de Santana,Masculino,Amarela,Não,Urbana,114.986012446079
+29,BA,2910800,Feira de Santana,Masculino,Amarela,Sim,Urbana,1399.1415819659
+29,BA,2910800,Feira de Santana,Masculino,Amarela,NA,Urbana,196.447281182717
+29,BA,2910800,Feira de Santana,Masculino,Branca,Não,Urbana,2966.24852802632
+29,BA,2910800,Feira de Santana,Masculino,Branca,Sim,Urbana,42316.4194125604
+29,BA,2910800,Feira de Santana,Masculino,Branca,NA,Urbana,5099.67601754897
+29,BA,2910800,Feira de Santana,Masculino,Ignorado,Não,Urbana,22.8785408948704
+29,BA,2910800,Feira de Santana,Masculino,Indígena,Não,Urbana,20.3866911567635
+29,BA,2910800,Feira de Santana,Masculino,Indígena,Sim,Urbana,528.985558242148
+29,BA,2910800,Feira de Santana,Masculino,Indígena,NA,Urbana,26.0855268770381
+29,BA,2910800,Feira de Santana,Masculino,Parda,Não,Urbana,11412.5332206152
+29,BA,2910800,Feira de Santana,Masculino,Parda,Sim,Urbana,110960.282945505
+29,BA,2910800,Feira de Santana,Masculino,Parda,NA,Urbana,10211.8628089357
+29,BA,2910800,Feira de Santana,Masculino,Preta,Não,Urbana,6030.08451018343
+29,BA,2910800,Feira de Santana,Masculino,Preta,Sim,Urbana,47058.5534291008
+29,BA,2910800,Feira de Santana,Masculino,Preta,NA,Urbana,2945.42793475889
+29,BA,2927408,Salvador,Feminino,Branca,Não,Rural,2.6956870387394
+29,BA,2927408,Salvador,Feminino,Branca,Sim,Rural,25.0976798040799
+29,BA,2927408,Salvador,Feminino,Parda,Não,Rural,49.4158610100657
+29,BA,2927408,Salvador,Feminino,Parda,Sim,Rural,248.304077312064
+29,BA,2927408,Salvador,Feminino,Parda,NA,Rural,15.5235052860392
+29,BA,2927408,Salvador,Feminino,Preta,Não,Rural,4.9245490174335
+29,BA,2927408,Salvador,Feminino,Preta,Sim,Rural,3.0386405315795
+29,BA,2927408,Salvador,Masculino,Branca,Não,Rural,6.5398440272332
+29,BA,2927408,Salvador,Masculino,Branca,Sim,Rural,35.2381429016986
+29,BA,2927408,Salvador,Masculino,Parda,Não,Rural,62.7115348796245
+29,BA,2927408,Salvador,Masculino,Parda,Sim,Rural,244.364938472107
+29,BA,2927408,Salvador,Masculino,Parda,NA,Rural,15.0060037274954
+29,BA,2927408,Salvador,Masculino,Preta,Não,Rural,8.6671410649981
+29,BA,2927408,Salvador,Masculino,Preta,Sim,Rural,11.4723949268454
+29,BA,2927408,Salvador,Feminino,Amarela,Não,Urbana,1180.1522042078
+29,BA,2927408,Salvador,Feminino,Amarela,Sim,Urbana,18772.6962068335
+29,BA,2927408,Salvador,Feminino,Amarela,NA,Urbana,1691.31190744997
+29,BA,2927408,Salvador,Feminino,Branca,Não,Urbana,8271.07798404357
+29,BA,2927408,Salvador,Feminino,Branca,Sim,Urbana,252458.160727402
+29,BA,2927408,Salvador,Feminino,Branca,NA,Urbana,17219.8680966183
+29,BA,2927408,Salvador,Feminino,Ignorado,Não,Urbana,1207.36868195933
+29,BA,2927408,Salvador,Feminino,Ignorado,Sim,Urbana,1236.95424616313
+29,BA,2927408,Salvador,Feminino,Ignorado,NA,Urbana,193.498666703234
+29,BA,2927408,Salvador,Feminino,Indígena,Não,Urbana,196.200452726155
+29,BA,2927408,Salvador,Feminino,Indígena,Sim,Urbana,3651.45532857867
+29,BA,2927408,Salvador,Feminino,Indígena,NA,Urbana,235.229099149745
+29,BA,2927408,Salvador,Feminino,Parda,Não,Urbana,34837.2117812843
+29,BA,2927408,Salvador,Feminino,Parda,Sim,Urbana,659437.532776596
+29,BA,2927408,Salvador,Feminino,Parda,NA,Urbana,45767.763958637
+29,BA,2927408,Salvador,Feminino,Preta,Não,Urbana,23977.7477769038
+29,BA,2927408,Salvador,Feminino,Preta,Sim,Urbana,339461.925911004
+29,BA,2927408,Salvador,Feminino,Preta,NA,Urbana,16613.8441937679
+29,BA,2927408,Salvador,Masculino,Amarela,Não,Urbana,780.085193743324
+29,BA,2927408,Salvador,Masculino,Amarela,Sim,Urbana,12880.1697790211
+29,BA,2927408,Salvador,Masculino,Amarela,NA,Urbana,1738.32850063097
+29,BA,2927408,Salvador,Masculino,Branca,Não,Urbana,6542.74072822045
+29,BA,2927408,Salvador,Masculino,Branca,Sim,Urbana,204675.106499696
+29,BA,2927408,Salvador,Masculino,Branca,NA,Urbana,16502.7018753792
+29,BA,2927408,Salvador,Masculino,Ignorado,Não,Urbana,1278.57082229817
+29,BA,2927408,Salvador,Masculino,Ignorado,Sim,Urbana,847.444826672962
+29,BA,2927408,Salvador,Masculino,Ignorado,NA,Urbana,82.8988963552922
+29,BA,2927408,Salvador,Masculino,Indígena,Não,Urbana,141.486212219483
+29,BA,2927408,Salvador,Masculino,Indígena,Sim,Urbana,3608.35492559583
+29,BA,2927408,Salvador,Masculino,Indígena,NA,Urbana,99.0498400690262
+29,BA,2927408,Salvador,Masculino,Parda,Não,Urbana,31330.7483257942
+29,BA,2927408,Salvador,Masculino,Parda,Sim,Urbana,567760.386904032
+29,BA,2927408,Salvador,Masculino,Parda,NA,Urbana,47073.4776488056
+29,BA,2927408,Salvador,Masculino,Preta,Não,Urbana,20807.9331640812
+29,BA,2927408,Salvador,Masculino,Preta,Sim,Urbana,313966.020816766
+29,BA,2927408,Salvador,Masculino,Preta,NA,Urbana,18397.495040645
+23,CE,2304400,Fortaleza,Feminino,Amarela,Não,Urbana,1295.31502299751
+23,CE,2304400,Fortaleza,Feminino,Amarela,Sim,Urbana,17591.8456996392
+23,CE,2304400,Fortaleza,Feminino,Amarela,NA,Urbana,778.470433034181
+23,CE,2304400,Fortaleza,Feminino,Branca,Não,Urbana,25946.6139848036
+23,CE,2304400,Fortaleza,Feminino,Branca,Sim,Urbana,426991.779942381
+23,CE,2304400,Fortaleza,Feminino,Branca,NA,Urbana,34261.2792761229
+23,CE,2304400,Fortaleza,Feminino,Ignorado,Não,Urbana,23.726986049224
+23,CE,2304400,Fortaleza,Feminino,Indígena,Não,Urbana,85.6681927898292
+23,CE,2304400,Fortaleza,Feminino,Indígena,Sim,Urbana,1743.95189075912
+23,CE,2304400,Fortaleza,Feminino,Indígena,NA,Urbana,63.9053189970948
+23,CE,2304400,Fortaleza,Feminino,Parda,Não,Urbana,60841.8704539542
+23,CE,2304400,Fortaleza,Feminino,Parda,Sim,Urbana,637842.009627742
+23,CE,2304400,Fortaleza,Feminino,Parda,NA,Urbana,45580.8591135968
+23,CE,2304400,Fortaleza,Feminino,Preta,Não,Urbana,6206.55342518352
+23,CE,2304400,Fortaleza,Feminino,Preta,Sim,Urbana,43251.8315541352
+23,CE,2304400,Fortaleza,Feminino,Preta,NA,Urbana,1761.31907782647
+23,CE,2304400,Fortaleza,Masculino,Amarela,Não,Urbana,1060.1526449383
+23,CE,2304400,Fortaleza,Masculino,Amarela,Sim,Urbana,11194.7540095228
+23,CE,2304400,Fortaleza,Masculino,Amarela,NA,Urbana,811.869115750415
+23,CE,2304400,Fortaleza,Masculino,Branca,Não,Urbana,20400.3571638923
+23,CE,2304400,Fortaleza,Masculino,Branca,Sim,Urbana,345801.763800638
+23,CE,2304400,Fortaleza,Masculino,Branca,NA,Urbana,35531.4947100925
+23,CE,2304400,Fortaleza,Masculino,Indígena,Não,Urbana,97.3211482062999
+23,CE,2304400,Fortaleza,Masculino,Indígena,Sim,Urbana,1305.83311843627
+23,CE,2304400,Fortaleza,Masculino,Indígena,NA,Urbana,18.4445164369343
+23,CE,2304400,Fortaleza,Masculino,Parda,Não,Urbana,59921.325674231
+23,CE,2304400,Fortaleza,Masculino,Parda,Sim,Urbana,566003.816248708
+23,CE,2304400,Fortaleza,Masculino,Parda,NA,Urbana,48641.9311896631
+23,CE,2304400,Fortaleza,Masculino,Preta,Não,Urbana,7914.82100752573
+23,CE,2304400,Fortaleza,Masculino,Preta,Sim,Urbana,47150.4232655372
+23,CE,2304400,Fortaleza,Masculino,Preta,NA,Urbana,2063.69238643129
+53,DF,5300108,Brasília,Feminino,Amarela,Não,Rural,20.2662180432749
+53,DF,5300108,Brasília,Feminino,Amarela,Sim,Rural,925.256394619388
+53,DF,5300108,Brasília,Feminino,Amarela,NA,Rural,81.3230167784586
+53,DF,5300108,Brasília,Feminino,Branca,Não,Rural,893.99457641281106
+53,DF,5300108,Brasília,Feminino,Branca,Sim,Rural,11176.7423360976
+53,DF,5300108,Brasília,Feminino,Branca,NA,Rural,1197.35754984274
+53,DF,5300108,Brasília,Feminino,Ignorado,Não,Rural,110.55436457697
+53,DF,5300108,Brasília,Feminino,Indígena,Sim,Rural,106.94013932059801
+53,DF,5300108,Brasília,Feminino,Parda,Não,Rural,2344.47349750339
+53,DF,5300108,Brasília,Feminino,Parda,Sim,Rural,18113.6901101568
+53,DF,5300108,Brasília,Feminino,Parda,NA,Rural,1915.22722646138
+53,DF,5300108,Brasília,Feminino,Preta,Não,Rural,551.206228456289
+53,DF,5300108,Brasília,Feminino,Preta,Sim,Rural,2346.54093101479
+53,DF,5300108,Brasília,Feminino,Preta,NA,Rural,284.441101544344
+53,DF,5300108,Brasília,Masculino,Amarela,Não,Rural,53.0518596370132
+53,DF,5300108,Brasília,Masculino,Amarela,Sim,Rural,938.624752832121
+53,DF,5300108,Brasília,Masculino,Amarela,NA,Rural,18.6373126679722
+53,DF,5300108,Brasília,Masculino,Branca,Não,Rural,1121.26885265472
+53,DF,5300108,Brasília,Masculino,Branca,Sim,Rural,12884.4719996631
+53,DF,5300108,Brasília,Masculino,Branca,NA,Rural,1323.67129864302
+53,DF,5300108,Brasília,Masculino,Ignorado,Não,Rural,84.4319837901448
+53,DF,5300108,Brasília,Masculino,Indígena,Sim,Rural,73.6254648322159
+53,DF,5300108,Brasília,Masculino,Indígena,NA,Rural,19.0672276704611
+53,DF,5300108,Brasília,Masculino,Parda,Não,Rural,3648.39607337342
+53,DF,5300108,Brasília,Masculino,Parda,Sim,Rural,22182.1487536491
+53,DF,5300108,Brasília,Masculino,Parda,NA,Rural,2027.95669203614
+53,DF,5300108,Brasília,Masculino,Preta,Não,Rural,704.09531272911
+53,DF,5300108,Brasília,Masculino,Preta,Sim,Rural,3506.77965842824
+53,DF,5300108,Brasília,Masculino,Preta,NA,Rural,233.580117293211
+53,DF,5300108,Brasília,Feminino,Amarela,Não,Urbana,929.794683256098
+53,DF,5300108,Brasília,Feminino,Amarela,Sim,Urbana,21836.9919129638
+53,DF,5300108,Brasília,Feminino,Amarela,NA,Urbana,932.986539094678
+53,DF,5300108,Brasília,Feminino,Branca,Não,Urbana,17505.5205910561
+53,DF,5300108,Brasília,Feminino,Branca,Sim,Urbana,501645.722294031
+53,DF,5300108,Brasília,Feminino,Branca,NA,Urbana,42784.3025302214
+53,DF,5300108,Brasília,Feminino,Ignorado,Não,Urbana,272.430885115489
+53,DF,5300108,Brasília,Feminino,Ignorado,Sim,Urbana,96.6160940123858
+53,DF,5300108,Brasília,Feminino,Ignorado,NA,Urbana,20.0366283250395
+53,DF,5300108,Brasília,Feminino,Indígena,Não,Urbana,258.530791045979
+53,DF,5300108,Brasília,Feminino,Indígena,Sim,Urbana,3211.34211630104
+53,DF,5300108,Brasília,Feminino,Indígena,NA,Urbana,178.179093152031
+53,DF,5300108,Brasília,Feminino,Parda,Não,Urbana,30545.434812475
+53,DF,5300108,Brasília,Feminino,Parda,Sim,Urbana,548974.635203191
+53,DF,5300108,Brasília,Feminino,Parda,NA,Urbana,41536.0733828924
+53,DF,5300108,Brasília,Feminino,Preta,Não,Urbana,5555.41694213372
+53,DF,5300108,Brasília,Feminino,Preta,Sim,Urbana,81399.8910335828
+53,DF,5300108,Brasília,Feminino,Preta,NA,Urbana,3528.08077631013
+53,DF,5300108,Brasília,Masculino,Amarela,Não,Urbana,684.126035924652
+53,DF,5300108,Brasília,Masculino,Amarela,Sim,Urbana,14870.4339121307
+53,DF,5300108,Brasília,Masculino,Amarela,NA,Urbana,1387.867694713
+53,DF,5300108,Brasília,Masculino,Branca,Não,Urbana,16281.5869190085
+53,DF,5300108,Brasília,Masculino,Branca,Sim,Urbana,424773.113484603
+53,DF,5300108,Brasília,Masculino,Branca,NA,Urbana,43491.4418118413
+53,DF,5300108,Brasília,Masculino,Ignorado,Não,Urbana,201.427752277645
+53,DF,5300108,Brasília,Masculino,Ignorado,Sim,Urbana,68.1063734197859
+53,DF,5300108,Brasília,Masculino,Indígena,Não,Urbana,95.1531040327188
+53,DF,5300108,Brasília,Masculino,Indígena,Sim,Urbana,2949.06751404634
+53,DF,5300108,Brasília,Masculino,Indígena,NA,Urbana,178.376133126133
+53,DF,5300108,Brasília,Masculino,Parda,Não,Urbana,29892.4757907839
+53,DF,5300108,Brasília,Masculino,Parda,Sim,Urbana,504828.56844733
+53,DF,5300108,Brasília,Masculino,Parda,NA,Urbana,44305.897186492
+53,DF,5300108,Brasília,Masculino,Preta,Não,Urbana,5420.51719547812
+53,DF,5300108,Brasília,Masculino,Preta,Sim,Urbana,86905.9434570419
+53,DF,5300108,Brasília,Masculino,Preta,NA,Urbana,3726.08982783918
+52,GO,5208707,Goiânia,Feminino,Amarela,Sim,Rural,31.8805119449846
+52,GO,5208707,Goiânia,Feminino,Amarela,NA,Rural,33.9338880695687
+52,GO,5208707,Goiânia,Feminino,Branca,Não,Rural,10.527470537236
+52,GO,5208707,Goiânia,Feminino,Branca,Sim,Rural,700.52850911914
+52,GO,5208707,Goiânia,Feminino,Branca,NA,Rural,91.5102536374121
+52,GO,5208707,Goiânia,Feminino,Parda,Não,Rural,48.4304743777329
+52,GO,5208707,Goiânia,Feminino,Parda,Sim,Rural,1080.04154170076
+52,GO,5208707,Goiânia,Feminino,Parda,NA,Rural,151.628401318976
+52,GO,5208707,Goiânia,Feminino,Preta,Não,Rural,11.5203411609599
+52,GO,5208707,Goiânia,Feminino,Preta,Sim,Rural,122.425719824961
+52,GO,5208707,Goiânia,Masculino,Amarela,Não,Rural,33.9338880695687
+52,GO,5208707,Goiânia,Masculino,Amarela,NA,Rural,33.9338880695687
+52,GO,5208707,Goiânia,Masculino,Branca,Não,Rural,20.6155310542213
+52,GO,5208707,Goiânia,Masculino,Branca,Sim,Rural,951.163100011048
+52,GO,5208707,Goiânia,Masculino,Branca,NA,Rural,37.6572019644195
+52,GO,5208707,Goiânia,Masculino,Parda,Não,Rural,207.18378243125
+52,GO,5208707,Goiânia,Masculino,Parda,Sim,Rural,935.408024898982
+52,GO,5208707,Goiânia,Masculino,Parda,NA,Rural,84.5960833553947
+52,GO,5208707,Goiânia,Masculino,Preta,Não,Rural,92.1239956298694
+52,GO,5208707,Goiânia,Masculino,Preta,Sim,Rural,168.007608663504
+52,GO,5208707,Goiânia,Feminino,Amarela,Não,Urbana,412.999700373373
+52,GO,5208707,Goiânia,Feminino,Amarela,Sim,Urbana,11374.9518380404
+52,GO,5208707,Goiânia,Feminino,Amarela,NA,Urbana,644.359763862866
+52,GO,5208707,Goiânia,Feminino,Branca,Não,Urbana,10448.7198413288
+52,GO,5208707,Goiânia,Feminino,Branca,Sim,Urbana,298712.036836938
+52,GO,5208707,Goiânia,Feminino,Branca,NA,Urbana,22466.2325087419
+52,GO,5208707,Goiânia,Feminino,Ignorado,Não,Urbana,44.2826157171244
+52,GO,5208707,Goiânia,Feminino,Ignorado,Sim,Urbana,21.011307566227
+52,GO,5208707,Goiânia,Feminino,Ignorado,NA,Urbana,22.1413078585622
+52,GO,5208707,Goiânia,Feminino,Indígena,Não,Urbana,72.3473381079718
+52,GO,5208707,Goiânia,Feminino,Indígena,Sim,Urbana,1024.30668320553
+52,GO,5208707,Goiânia,Feminino,Indígena,NA,Urbana,20.0333502763518
+52,GO,5208707,Goiânia,Feminino,Parda,Não,Urbana,14267.8594595276
+52,GO,5208707,Goiânia,Feminino,Parda,Sim,Urbana,266883.346426927
+52,GO,5208707,Goiânia,Feminino,Parda,NA,Urbana,17220.2180664396
+52,GO,5208707,Goiânia,Feminino,Preta,Não,Urbana,2468.88171403053
+52,GO,5208707,Goiânia,Feminino,Preta,Sim,Urbana,31660.6429245994
+52,GO,5208707,Goiânia,Feminino,Preta,NA,Urbana,1097.20120476951
+52,GO,5208707,Goiânia,Masculino,Amarela,Não,Urbana,419.954658009244
+52,GO,5208707,Goiânia,Masculino,Amarela,Sim,Urbana,8253.11504609045
+52,GO,5208707,Goiânia,Masculino,Amarela,NA,Urbana,571.103997043185
+52,GO,5208707,Goiânia,Masculino,Branca,Não,Urbana,8186.02209243789
+52,GO,5208707,Goiânia,Masculino,Branca,Sim,Urbana,256730.761794756
+52,GO,5208707,Goiânia,Masculino,Branca,NA,Urbana,23206.6857689682
+52,GO,5208707,Goiânia,Masculino,Ignorado,Não,Urbana,108.446538708141
+52,GO,5208707,Goiânia,Masculino,Ignorado,NA,Urbana,21.011307566227
+52,GO,5208707,Goiânia,Masculino,Indígena,Não,Urbana,35.2885026332491
+52,GO,5208707,Goiânia,Masculino,Indígena,Sim,Urbana,732.134222692407
+52,GO,5208707,Goiânia,Masculino,Indígena,NA,Urbana,43.6439887565845
+52,GO,5208707,Goiânia,Masculino,Parda,Não,Urbana,14049.4542134183
+52,GO,5208707,Goiânia,Masculino,Parda,Sim,Urbana,250175.280410972
+52,GO,5208707,Goiânia,Masculino,Parda,NA,Urbana,17559.1262863939
+52,GO,5208707,Goiânia,Masculino,Preta,Não,Urbana,2001.49281507373
+52,GO,5208707,Goiânia,Masculino,Preta,Sim,Urbana,34869.4456196014
+52,GO,5208707,Goiânia,Masculino,Preta,NA,Urbana,1329.40963273369
+21,MA,2111300,São Luís,Feminino,Amarela,Sim,Rural,154.125868982717
+21,MA,2111300,São Luís,Feminino,Branca,Não,Rural,537.226545576586
+21,MA,2111300,São Luís,Feminino,Branca,Sim,Rural,4525.41697854078
+21,MA,2111300,São Luís,Feminino,Branca,NA,Rural,613.829822930448
+21,MA,2111300,São Luís,Feminino,Indígena,Não,Rural,18.4360573801494
+21,MA,2111300,São Luís,Feminino,Indígena,Sim,Rural,29.8891540460716
+21,MA,2111300,São Luís,Feminino,Parda,Não,Rural,2163.70258120674
+21,MA,2111300,São Luís,Feminino,Parda,Sim,Rural,15931.3929660331
+21,MA,2111300,São Luís,Feminino,Parda,NA,Rural,1892.91304770058
+21,MA,2111300,São Luís,Feminino,Preta,Não,Rural,336.889249858257
+21,MA,2111300,São Luís,Feminino,Preta,Sim,Rural,1997.91957239703
+21,MA,2111300,São Luís,Feminino,Preta,NA,Rural,115.258155347566
+21,MA,2111300,São Luís,Masculino,Amarela,Não,Rural,37.652515550836704
+21,MA,2111300,São Luís,Masculino,Amarela,Sim,Rural,92.1169583212951
+21,MA,2111300,São Luís,Masculino,Amarela,NA,Rural,43.1989093752027
+21,MA,2111300,São Luís,Masculino,Branca,Não,Rural,295.955270738373
+21,MA,2111300,São Luís,Masculino,Branca,Sim,Rural,4524.87981994866
+21,MA,2111300,São Luís,Masculino,Branca,NA,Rural,519.449016046506
+21,MA,2111300,São Luís,Masculino,Indígena,Sim,Rural,38.7934398295517
+21,MA,2111300,São Luís,Masculino,Indígena,NA,Rural,47.0170460723005
+21,MA,2111300,São Luís,Masculino,Parda,Não,Rural,2590.89528839372
+21,MA,2111300,São Luís,Masculino,Parda,Sim,Rural,15446.223042484
+21,MA,2111300,São Luís,Masculino,Parda,NA,Rural,1859.75293587253
+21,MA,2111300,São Luís,Masculino,Preta,Não,Rural,300.435188100356
+21,MA,2111300,São Luís,Masculino,Preta,Sim,Rural,2023.83590142882
+21,MA,2111300,São Luís,Masculino,Preta,NA,Rural,154.794667837841
+21,MA,2111300,São Luís,Feminino,Amarela,Não,Urbana,236.716493280216
+21,MA,2111300,São Luís,Feminino,Amarela,Sim,Urbana,5868.04351568816
+21,MA,2111300,São Luís,Feminino,Amarela,NA,Urbana,137.922327863654
+21,MA,2111300,São Luís,Feminino,Branca,Não,Urbana,6184.27407960797
+21,MA,2111300,São Luís,Feminino,Branca,Sim,Urbana,138692.341772241
+21,MA,2111300,São Luís,Feminino,Branca,NA,Urbana,11665.2563733272
+21,MA,2111300,São Luís,Feminino,Ignorado,Sim,Urbana,14.1357947828177
+21,MA,2111300,São Luís,Feminino,Indígena,Não,Urbana,127.728966345894
+21,MA,2111300,São Luís,Feminino,Indígena,Sim,Urbana,685.18407055276
+21,MA,2111300,São Luís,Feminino,Indígena,NA,Urbana,57.6979424119827
+21,MA,2111300,São Luís,Feminino,Parda,Não,Urbana,15206.6160518688
+21,MA,2111300,São Luís,Feminino,Parda,Sim,Urbana,247780.804831645
+21,MA,2111300,São Luís,Feminino,Parda,NA,Urbana,20053.0554362989
+21,MA,2111300,São Luís,Feminino,Preta,Não,Urbana,4336.64004070293
+21,MA,2111300,São Luís,Feminino,Preta,Sim,Urbana,57584.3282270052
+21,MA,2111300,São Luís,Feminino,Preta,NA,Urbana,2894.25407637539
+21,MA,2111300,São Luís,Masculino,Amarela,Não,Urbana,254.808682434194
+21,MA,2111300,São Luís,Masculino,Amarela,Sim,Urbana,3923.0362838033
+21,MA,2111300,São Luís,Masculino,Amarela,NA,Urbana,326.306202983784
+21,MA,2111300,São Luís,Masculino,Branca,Não,Urbana,5082.01414106158
+21,MA,2111300,São Luís,Masculino,Branca,Sim,Urbana,111846.917066904
+21,MA,2111300,São Luís,Masculino,Branca,NA,Urbana,10999.2667681592
+21,MA,2111300,São Luís,Masculino,Indígena,Sim,Urbana,749.329160448234
+21,MA,2111300,São Luís,Masculino,Parda,Não,Urbana,16057.0115440486
+21,MA,2111300,São Luís,Masculino,Parda,Sim,Urbana,214719.316791251
+21,MA,2111300,São Luís,Masculino,Parda,NA,Urbana,21217.0842554893
+21,MA,2111300,São Luís,Masculino,Preta,Não,Urbana,4966.67642430174
+21,MA,2111300,São Luís,Masculino,Preta,Sim,Urbana,54072.9957622282
+21,MA,2111300,São Luís,Masculino,Preta,NA,Urbana,2805.23691688421
+31,MG,3106200,Belo Horizonte,Feminino,Amarela,Não,Urbana,626.315110439994
+31,MG,3106200,Belo Horizonte,Feminino,Amarela,Sim,Urbana,13580.1229779652
+31,MG,3106200,Belo Horizonte,Feminino,Amarela,NA,Urbana,610.320150490066
+31,MG,3106200,Belo Horizonte,Feminino,Branca,Não,Urbana,14328.2104025017
+31,MG,3106200,Belo Horizonte,Feminino,Branca,Sim,Urbana,552669.837774951
+31,MG,3106200,Belo Horizonte,Feminino,Branca,NA,Urbana,30505.5596703876
+31,MG,3106200,Belo Horizonte,Feminino,Ignorado,Não,Urbana,23.4701340312774
+31,MG,3106200,Belo Horizonte,Feminino,Ignorado,Sim,Urbana,68.0311308252714
+31,MG,3106200,Belo Horizonte,Feminino,Indígena,Não,Urbana,166.796369761317
+31,MG,3106200,Belo Horizonte,Feminino,Indígena,Sim,Urbana,1798.01040600164
+31,MG,3106200,Belo Horizonte,Feminino,Indígena,NA,Urbana,83.9211029488899
+31,MG,3106200,Belo Horizonte,Feminino,Parda,Não,Urbana,24868.4019687915
+31,MG,3106200,Belo Horizonte,Feminino,Parda,Sim,Urbana,469183.085404948
+31,MG,3106200,Belo Horizonte,Feminino,Parda,NA,Urbana,29377.7072226999
+31,MG,3106200,Belo Horizonte,Feminino,Preta,Não,Urbana,8212.59487085023
+31,MG,3106200,Belo Horizonte,Feminino,Preta,Sim,Urbana,110741.704423232
+31,MG,3106200,Belo Horizonte,Feminino,Preta,NA,Urbana,4793.91087918102
+31,MG,3106200,Belo Horizonte,Masculino,Amarela,Não,Urbana,388.150662769593
+31,MG,3106200,Belo Horizonte,Masculino,Amarela,Sim,Urbana,9699.40776573583
+31,MG,3106200,Belo Horizonte,Masculino,Amarela,NA,Urbana,701.500216869578
+31,MG,3106200,Belo Horizonte,Masculino,Branca,Não,Urbana,9619.86633538608
+31,MG,3106200,Belo Horizonte,Masculino,Branca,Sim,Urbana,462018.112217913
+31,MG,3106200,Belo Horizonte,Masculino,Branca,NA,Urbana,32255.4835460728
+31,MG,3106200,Belo Horizonte,Masculino,Ignorado,Não,Urbana,46.9402680625548
+31,MG,3106200,Belo Horizonte,Masculino,Ignorado,Sim,Urbana,45.7506324282744
+31,MG,3106200,Belo Horizonte,Masculino,Indígena,Não,Urbana,21.5349570515241
+31,MG,3106200,Belo Horizonte,Masculino,Indígena,Sim,Urbana,1862.89701806006
+31,MG,3106200,Belo Horizonte,Masculino,Indígena,NA,Urbana,25.1409845089595
+31,MG,3106200,Belo Horizonte,Masculino,Parda,Não,Urbana,17867.0316603181
+31,MG,3106200,Belo Horizonte,Masculino,Parda,Sim,Urbana,427981.240206258
+31,MG,3106200,Belo Horizonte,Masculino,Parda,NA,Urbana,30743.2733986954
+31,MG,3106200,Belo Horizonte,Masculino,Preta,Não,Urbana,5488.15247666094
+31,MG,3106200,Belo Horizonte,Masculino,Preta,Sim,Urbana,110239.039084549
+31,MG,3106200,Belo Horizonte,Masculino,Preta,NA,Urbana,4509.47856866745
+31,MG,3118601,Contagem,Feminino,Amarela,Sim,Rural,17.4223649956411
+31,MG,3118601,Contagem,Feminino,Branca,Não,Rural,19.3482111698637
+31,MG,3118601,Contagem,Feminino,Branca,Sim,Rural,168.075724372721
+31,MG,3118601,Contagem,Feminino,Branca,NA,Rural,38.6964223397274
+31,MG,3118601,Contagem,Feminino,Indígena,Sim,Rural,22.6106948914647
+31,MG,3118601,Contagem,Feminino,Parda,Não,Rural,18.6144104442714
+31,MG,3118601,Contagem,Feminino,Parda,Sim,Rural,513.798285562669
+31,MG,3118601,Contagem,Feminino,Parda,NA,Rural,48.6184206462077
+31,MG,3118601,Contagem,Feminino,Preta,Não,Rural,20.656571574973
+31,MG,3118601,Contagem,Feminino,Preta,Sim,Rural,85.158894002403
+31,MG,3118601,Contagem,Masculino,Amarela,Sim,Rural,30.2000010578591
+31,MG,3118601,Contagem,Masculino,Branca,Sim,Rural,239.94376258386
+31,MG,3118601,Contagem,Masculino,Indígena,Sim,Rural,22.6106948914647
+31,MG,3118601,Contagem,Masculino,Parda,Não,Rural,42.3123538760051
+31,MG,3118601,Contagem,Masculino,Parda,Sim,Rural,636.967135267422
+31,MG,3118601,Contagem,Masculino,Parda,NA,Rural,27.4461083704721
+31,MG,3118601,Contagem,Masculino,Preta,Não,Rural,18.4828196362779
+31,MG,3118601,Contagem,Masculino,Preta,Sim,Rural,71.0371243165351
+31,MG,3118601,Contagem,Feminino,Amarela,Não,Urbana,197.794822020918
+31,MG,3118601,Contagem,Feminino,Amarela,Sim,Urbana,4019.17630201898
+31,MG,3118601,Contagem,Feminino,Amarela,NA,Urbana,152.330606667041
+31,MG,3118601,Contagem,Feminino,Branca,Não,Urbana,3971.88182277058
+31,MG,3118601,Contagem,Feminino,Branca,Sim,Urbana,109433.731367135
+31,MG,3118601,Contagem,Feminino,Branca,NA,Urbana,8610.0067613147
+31,MG,3118601,Contagem,Feminino,Indígena,Não,Urbana,49.907139463569
+31,MG,3118601,Contagem,Feminino,Indígena,Sim,Urbana,462.379569944519
+31,MG,3118601,Contagem,Feminino,Indígena,NA,Urbana,38.0436640270353
+31,MG,3118601,Contagem,Feminino,Parda,Não,Urbana,7925.43520582846
+31,MG,3118601,Contagem,Feminino,Parda,Sim,Urbana,135827.529771941
+31,MG,3118601,Contagem,Feminino,Parda,NA,Urbana,9168.74238015947
+31,MG,3118601,Contagem,Feminino,Preta,Não,Urbana,1817.64505749229
+31,MG,3118601,Contagem,Feminino,Preta,Sim,Urbana,26751.133185099
+31,MG,3118601,Contagem,Feminino,Preta,NA,Urbana,1265.26234411321
+31,MG,3118601,Contagem,Masculino,Amarela,Não,Urbana,250.53377863629
+31,MG,3118601,Contagem,Masculino,Amarela,Sim,Urbana,3270.91125407606
+31,MG,3118601,Contagem,Masculino,Amarela,NA,Urbana,157.736796386537
+31,MG,3118601,Contagem,Masculino,Branca,Não,Urbana,2936.49930581187
+31,MG,3118601,Contagem,Masculino,Branca,Sim,Urbana,98452.3097954332
+31,MG,3118601,Contagem,Masculino,Branca,NA,Urbana,8472.28753755299
+31,MG,3118601,Contagem,Masculino,Ignorado,Não,Urbana,1307.39744352714
+31,MG,3118601,Contagem,Masculino,Ignorado,Sim,Urbana,497.151818007739
+31,MG,3118601,Contagem,Masculino,Indígena,Não,Urbana,25.3455148319448
+31,MG,3118601,Contagem,Masculino,Indígena,Sim,Urbana,402.340134078246
+31,MG,3118601,Contagem,Masculino,Parda,Não,Urbana,5354.96080549418
+31,MG,3118601,Contagem,Masculino,Parda,Sim,Urbana,128398.452256508
+31,MG,3118601,Contagem,Masculino,Parda,NA,Urbana,10395.9729948433
+31,MG,3118601,Contagem,Masculino,Preta,Não,Urbana,1664.95150544668
+31,MG,3118601,Contagem,Masculino,Preta,Sim,Urbana,29021.0164389971
+31,MG,3118601,Contagem,Masculino,Preta,NA,Urbana,1101.13262036542
+31,MG,3136702,Juiz de Fora,Feminino,Branca,Não,Rural,118.273360677364
+31,MG,3136702,Juiz de Fora,Feminino,Branca,Sim,Rural,1008.44956812691
+31,MG,3136702,Juiz de Fora,Feminino,Branca,NA,Rural,83.8369105043634
+31,MG,3136702,Juiz de Fora,Feminino,Indígena,Sim,Rural,5.9026778536973
+31,MG,3136702,Juiz de Fora,Feminino,Parda,Não,Rural,146.941744170894
+31,MG,3136702,Juiz de Fora,Feminino,Parda,Sim,Rural,893.57907636425
+31,MG,3136702,Juiz de Fora,Feminino,Parda,NA,Rural,125.016056935375
+31,MG,3136702,Juiz de Fora,Feminino,Preta,Não,Rural,34.9330515506583
+31,MG,3136702,Juiz de Fora,Feminino,Preta,Sim,Rural,301.06755381646
+31,MG,3136702,Juiz de Fora,Feminino,Preta,NA,Rural,4.000000000006
+31,MG,3136702,Juiz de Fora,Masculino,Amarela,Não,Rural,6.9954733076374
+31,MG,3136702,Juiz de Fora,Masculino,Amarela,Sim,Rural,4.7570145054217
+31,MG,3136702,Juiz de Fora,Masculino,Branca,Não,Rural,170.669996001712
+31,MG,3136702,Juiz de Fora,Masculino,Branca,Sim,Rural,1082.52918968207
+31,MG,3136702,Juiz de Fora,Masculino,Branca,NA,Rural,161.387680459173
+31,MG,3136702,Juiz de Fora,Masculino,Indígena,Sim,Rural,6.050839805857
+31,MG,3136702,Juiz de Fora,Masculino,Parda,Não,Rural,286.609760588518
+31,MG,3136702,Juiz de Fora,Masculino,Parda,Sim,Rural,952.805597632966
+31,MG,3136702,Juiz de Fora,Masculino,Parda,NA,Rural,150.479705692288
+31,MG,3136702,Juiz de Fora,Masculino,Preta,Não,Rural,30.4697635320436
+31,MG,3136702,Juiz de Fora,Masculino,Preta,Sim,Rural,294.244978792316
+31,MG,3136702,Juiz de Fora,Feminino,Amarela,Não,Urbana,99.2167336106984
+31,MG,3136702,Juiz de Fora,Feminino,Amarela,Sim,Urbana,1759.57720838799
+31,MG,3136702,Juiz de Fora,Feminino,Amarela,NA,Urbana,92.2751603145401
+31,MG,3136702,Juiz de Fora,Feminino,Branca,Não,Urbana,3848.13134987555
+31,MG,3136702,Juiz de Fora,Feminino,Branca,Sim,Urbana,145930.754116509
+31,MG,3136702,Juiz de Fora,Feminino,Branca,NA,Urbana,8054.24102142683
+31,MG,3136702,Juiz de Fora,Feminino,Indígena,Sim,Urbana,283.890593738798
+31,MG,3136702,Juiz de Fora,Feminino,Parda,Não,Urbana,4074.02321033185
+31,MG,3136702,Juiz de Fora,Feminino,Parda,Sim,Urbana,63744.4654646477
+31,MG,3136702,Juiz de Fora,Feminino,Parda,NA,Urbana,4214.59702835778
+31,MG,3136702,Juiz de Fora,Feminino,Preta,Não,Urbana,2851.53468565437
+31,MG,3136702,Juiz de Fora,Feminino,Preta,Sim,Urbana,32784.6044703698
+31,MG,3136702,Juiz de Fora,Feminino,Preta,NA,Urbana,1763.68895677514
+31,MG,3136702,Juiz de Fora,Masculino,Amarela,Não,Urbana,31.4808172061405
+31,MG,3136702,Juiz de Fora,Masculino,Amarela,Sim,Urbana,1433.71282512584
+31,MG,3136702,Juiz de Fora,Masculino,Amarela,NA,Urbana,106.854498037165
+31,MG,3136702,Juiz de Fora,Masculino,Branca,Não,Urbana,3613.32472320571
+31,MG,3136702,Juiz de Fora,Masculino,Branca,Sim,Urbana,122269.816794256
+31,MG,3136702,Juiz de Fora,Masculino,Branca,NA,Urbana,7738.12500565037
+31,MG,3136702,Juiz de Fora,Masculino,Indígena,Não,Urbana,17.5994831581034
+31,MG,3136702,Juiz de Fora,Masculino,Indígena,Sim,Urbana,203.477963113479
+31,MG,3136702,Juiz de Fora,Masculino,Indígena,NA,Urbana,21.0228537273776
+31,MG,3136702,Juiz de Fora,Masculino,Parda,Não,Urbana,3318.30158136021
+31,MG,3136702,Juiz de Fora,Masculino,Parda,Sim,Urbana,61782.7826467613
+31,MG,3136702,Juiz de Fora,Masculino,Parda,NA,Urbana,4463.38694421309
+31,MG,3136702,Juiz de Fora,Masculino,Preta,Não,Urbana,2092.06786493254
+31,MG,3136702,Juiz de Fora,Masculino,Preta,Sim,Urbana,31661.2868206276
+31,MG,3136702,Juiz de Fora,Masculino,Preta,NA,Urbana,2123.7591786251
+31,MG,3170206,Uberlândia,Feminino,Amarela,Sim,Rural,38.436109874115
+31,MG,3170206,Uberlândia,Feminino,Amarela,NA,Rural,6.4351319305567
+31,MG,3170206,Uberlândia,Feminino,Branca,Não,Rural,257.166776008002
+31,MG,3170206,Uberlândia,Feminino,Branca,Sim,Rural,3217.59243793536
+31,MG,3170206,Uberlândia,Feminino,Branca,NA,Rural,414.697593603308
+31,MG,3170206,Uberlândia,Feminino,Parda,Não,Rural,279.052066713721
+31,MG,3170206,Uberlândia,Feminino,Parda,Sim,Rural,2393.27820579469
+31,MG,3170206,Uberlândia,Feminino,Parda,NA,Rural,239.984273406258
+31,MG,3170206,Uberlândia,Feminino,Preta,Não,Rural,84.003717569605
+31,MG,3170206,Uberlândia,Feminino,Preta,Sim,Rural,496.094309944269
+31,MG,3170206,Uberlândia,Feminino,Preta,NA,Rural,17.2593772201162
+31,MG,3170206,Uberlândia,Masculino,Amarela,Não,Rural,16.3828903758926
+31,MG,3170206,Uberlândia,Masculino,Amarela,Sim,Rural,50.4754308753675
+31,MG,3170206,Uberlândia,Masculino,Branca,Não,Rural,360.264343317171
+31,MG,3170206,Uberlândia,Masculino,Branca,Sim,Rural,3844.64481941713
+31,MG,3170206,Uberlândia,Masculino,Branca,NA,Rural,362.715294917661
+31,MG,3170206,Uberlândia,Masculino,Indígena,Sim,Rural,8.2788542882626
+31,MG,3170206,Uberlândia,Masculino,Parda,Não,Rural,344.37839698589
+31,MG,3170206,Uberlândia,Masculino,Parda,Sim,Rural,3258.70057534762
+31,MG,3170206,Uberlândia,Masculino,Parda,NA,Rural,310.376601951939
+31,MG,3170206,Uberlândia,Masculino,Preta,Não,Rural,114.574343083402
+31,MG,3170206,Uberlândia,Masculino,Preta,Sim,Rural,616.604927188367
+31,MG,3170206,Uberlândia,Masculino,Preta,NA,Rural,15.603522251291
+31,MG,3170206,Uberlândia,Feminino,Amarela,Não,Urbana,165.758085968404
+31,MG,3170206,Uberlândia,Feminino,Amarela,Sim,Urbana,3474.05566374229
+31,MG,3170206,Uberlândia,Feminino,Amarela,NA,Urbana,193.258486594759
+31,MG,3170206,Uberlândia,Feminino,Branca,Não,Urbana,5643.75961494144
+31,MG,3170206,Uberlândia,Feminino,Branca,Sim,Urbana,154318.850260804
+31,MG,3170206,Uberlândia,Feminino,Branca,NA,Urbana,10768.6963444843
+31,MG,3170206,Uberlândia,Feminino,Indígena,Não,Urbana,98.691728873395
+31,MG,3170206,Uberlândia,Feminino,Indígena,Sim,Urbana,523.421448436088
+31,MG,3170206,Uberlândia,Feminino,Parda,Não,Urbana,5203.79654147551
+31,MG,3170206,Uberlândia,Feminino,Parda,Sim,Urbana,90693.0877907499
+31,MG,3170206,Uberlândia,Feminino,Parda,NA,Urbana,6404.06628143492
+31,MG,3170206,Uberlândia,Feminino,Preta,Não,Urbana,1772.09986125515
+31,MG,3170206,Uberlândia,Feminino,Preta,Sim,Urbana,21197.0938895511
+31,MG,3170206,Uberlândia,Feminino,Preta,NA,Urbana,1198.36400169066
+31,MG,3170206,Uberlândia,Masculino,Amarela,Não,Urbana,44.4024882393378
+31,MG,3170206,Uberlândia,Masculino,Amarela,Sim,Urbana,2712.2480508217
+31,MG,3170206,Uberlândia,Masculino,Amarela,NA,Urbana,216.366709828667
+31,MG,3170206,Uberlândia,Masculino,Branca,Não,Urbana,4513.67974516004
+31,MG,3170206,Uberlândia,Masculino,Branca,Sim,Urbana,137283.74052623
+31,MG,3170206,Uberlândia,Masculino,Branca,NA,Urbana,11071.200876028
+31,MG,3170206,Uberlândia,Masculino,Indígena,Não,Urbana,1.0000000000008
+31,MG,3170206,Uberlândia,Masculino,Indígena,Sim,Urbana,333.38263167566
+31,MG,3170206,Uberlândia,Masculino,Parda,Não,Urbana,5803.63249676791
+31,MG,3170206,Uberlândia,Masculino,Parda,Sim,Urbana,91563.7997125715
+31,MG,3170206,Uberlândia,Masculino,Parda,NA,Urbana,6425.07670698878
+31,MG,3170206,Uberlândia,Masculino,Preta,Não,Urbana,1435.7243884323
+31,MG,3170206,Uberlândia,Masculino,Preta,Sim,Urbana,22635.3144616816
+31,MG,3170206,Uberlândia,Masculino,Preta,NA,Urbana,1571.43120557732
+50,MS,5002704,Campo Grande,Feminino,Amarela,Sim,Rural,40.2533887158981
+50,MS,5002704,Campo Grande,Feminino,Amarela,NA,Rural,3.4478394765246
+50,MS,5002704,Campo Grande,Feminino,Branca,Não,Rural,120.318431866453
+50,MS,5002704,Campo Grande,Feminino,Branca,Sim,Rural,1668.50824272149
+50,MS,5002704,Campo Grande,Feminino,Branca,NA,Rural,143.456947126869
+50,MS,5002704,Campo Grande,Feminino,Indígena,Não,Rural,4.7485753823763
+50,MS,5002704,Campo Grande,Feminino,Indígena,Sim,Rural,81.671376925311
+50,MS,5002704,Campo Grande,Feminino,Indígena,NA,Rural,5.3010571200522
+50,MS,5002704,Campo Grande,Feminino,Parda,Não,Rural,172.167134898936
+50,MS,5002704,Campo Grande,Feminino,Parda,Sim,Rural,1891.72320176268
+50,MS,5002704,Campo Grande,Feminino,Parda,NA,Rural,186.05447920982
+50,MS,5002704,Campo Grande,Feminino,Preta,Não,Rural,21.0153908888783
+50,MS,5002704,Campo Grande,Feminino,Preta,Sim,Rural,131.333933904714
+50,MS,5002704,Campo Grande,Masculino,Amarela,Sim,Rural,25.2659946689061
+50,MS,5002704,Campo Grande,Masculino,Amarela,NA,Rural,7.7810470541306
+50,MS,5002704,Campo Grande,Masculino,Branca,Não,Rural,160.504630623155
+50,MS,5002704,Campo Grande,Masculino,Branca,Sim,Rural,1938.25181170338
+50,MS,5002704,Campo Grande,Masculino,Branca,NA,Rural,162.678539973096
+50,MS,5002704,Campo Grande,Masculino,Indígena,Sim,Rural,75.3796689839967
+50,MS,5002704,Campo Grande,Masculino,Indígena,NA,Rural,20.7762668193357
+50,MS,5002704,Campo Grande,Masculino,Parda,Não,Rural,279.185958448454
+50,MS,5002704,Campo Grande,Masculino,Parda,Sim,Rural,2925.18953422191
+50,MS,5002704,Campo Grande,Masculino,Parda,NA,Rural,195.921020197441
+50,MS,5002704,Campo Grande,Masculino,Preta,Não,Rural,44.003124634749
+50,MS,5002704,Campo Grande,Masculino,Preta,Sim,Rural,241.469784926802
+50,MS,5002704,Campo Grande,Masculino,Preta,NA,Rural,8.5926177446421
+50,MS,5002704,Campo Grande,Feminino,Amarela,Não,Urbana,325.07481286602
+50,MS,5002704,Campo Grande,Feminino,Amarela,Sim,Urbana,6134.85744680054
+50,MS,5002704,Campo Grande,Feminino,Amarela,NA,Urbana,259.413934031575
+50,MS,5002704,Campo Grande,Feminino,Branca,Não,Urbana,7380.46338827312
+50,MS,5002704,Campo Grande,Feminino,Branca,Sim,Urbana,184733.138394371
+50,MS,5002704,Campo Grande,Feminino,Branca,NA,Urbana,15131.014413996
+50,MS,5002704,Campo Grande,Feminino,Indígena,Não,Urbana,206.052565189937
+50,MS,5002704,Campo Grande,Feminino,Indígena,Sim,Urbana,2094.00261014099
+50,MS,5002704,Campo Grande,Feminino,Indígena,NA,Urbana,190.59565403238
+50,MS,5002704,Campo Grande,Feminino,Parda,Não,Urbana,8607.11906346677
+50,MS,5002704,Campo Grande,Feminino,Parda,Sim,Urbana,145039.798488209
+50,MS,5002704,Campo Grande,Feminino,Parda,NA,Urbana,11183.4949831633
+50,MS,5002704,Campo Grande,Feminino,Preta,Não,Urbana,1422.58589051714
+50,MS,5002704,Campo Grande,Feminino,Preta,Sim,Urbana,17485.9745405045
+50,MS,5002704,Campo Grande,Feminino,Preta,NA,Urbana,800.413814438814
+50,MS,5002704,Campo Grande,Masculino,Amarela,Não,Urbana,145.304114482214
+50,MS,5002704,Campo Grande,Masculino,Amarela,Sim,Urbana,5927.11595889686
+50,MS,5002704,Campo Grande,Masculino,Amarela,NA,Urbana,252.748543537969
+50,MS,5002704,Campo Grande,Masculino,Branca,Não,Urbana,5608.50707122536
+50,MS,5002704,Campo Grande,Masculino,Branca,Sim,Urbana,161290.443941199
+50,MS,5002704,Campo Grande,Masculino,Branca,NA,Urbana,15036.7640057105
+50,MS,5002704,Campo Grande,Masculino,Ignorado,Não,Urbana,82.7392551827673
+50,MS,5002704,Campo Grande,Masculino,Indígena,Não,Urbana,198.378927330657
+50,MS,5002704,Campo Grande,Masculino,Indígena,Sim,Urbana,2252.89241028789
+50,MS,5002704,Campo Grande,Masculino,Indígena,NA,Urbana,142.18037439748
+50,MS,5002704,Campo Grande,Masculino,Parda,Não,Urbana,7974.35413014047
+50,MS,5002704,Campo Grande,Masculino,Parda,Sim,Urbana,142896.184993611
+50,MS,5002704,Campo Grande,Masculino,Parda,NA,Urbana,12203.4467408864
+50,MS,5002704,Campo Grande,Masculino,Preta,Não,Urbana,1442.54680719096
+50,MS,5002704,Campo Grande,Masculino,Preta,Sim,Urbana,19032.2740810841
+50,MS,5002704,Campo Grande,Masculino,Preta,NA,Urbana,762.118644836341
+51,MT,5103403,Cuiabá,Feminino,Amarela,Não,Rural,8.3439809177355
+51,MT,5103403,Cuiabá,Feminino,Amarela,Sim,Rural,37.4177202417237
+51,MT,5103403,Cuiabá,Feminino,Branca,Não,Rural,50.6767410845476
+51,MT,5103403,Cuiabá,Feminino,Branca,Sim,Rural,688.092236837025
+51,MT,5103403,Cuiabá,Feminino,Branca,NA,Rural,45.216359545507
+51,MT,5103403,Cuiabá,Feminino,Parda,Não,Rural,341.26044252564
+51,MT,5103403,Cuiabá,Feminino,Parda,Sim,Rural,2647.70629758519
+51,MT,5103403,Cuiabá,Feminino,Parda,NA,Rural,304.883421296169
+51,MT,5103403,Cuiabá,Feminino,Preta,Não,Rural,123.959095679507
+51,MT,5103403,Cuiabá,Feminino,Preta,Sim,Rural,334.247638872357
+51,MT,5103403,Cuiabá,Feminino,Preta,NA,Rural,8.1960654145871
+51,MT,5103403,Cuiabá,Masculino,Amarela,Sim,Rural,79.9781549269202
+51,MT,5103403,Cuiabá,Masculino,Amarela,NA,Rural,11.7411769112306
+51,MT,5103403,Cuiabá,Masculino,Branca,Não,Rural,91.8743867094237
+51,MT,5103403,Cuiabá,Masculino,Branca,Sim,Rural,733.636804018535
+51,MT,5103403,Cuiabá,Masculino,Branca,NA,Rural,94.4023220157897
+51,MT,5103403,Cuiabá,Masculino,Parda,Não,Rural,746.381562101135
+51,MT,5103403,Cuiabá,Masculino,Parda,Sim,Rural,3067.79150533274
+51,MT,5103403,Cuiabá,Masculino,Parda,NA,Rural,219.057939884756
+51,MT,5103403,Cuiabá,Masculino,Preta,Não,Rural,189.416757440379
+51,MT,5103403,Cuiabá,Masculino,Preta,Sim,Rural,450.360167691086
+51,MT,5103403,Cuiabá,Masculino,Preta,NA,Rural,9.3592229679944
+51,MT,5103403,Cuiabá,Feminino,Amarela,Não,Urbana,112.920457024958
+51,MT,5103403,Cuiabá,Feminino,Amarela,Sim,Urbana,3971.68993063375
+51,MT,5103403,Cuiabá,Feminino,Amarela,NA,Urbana,244.570456627127
+51,MT,5103403,Cuiabá,Feminino,Branca,Não,Urbana,3477.4290062534
+51,MT,5103403,Cuiabá,Feminino,Branca,Sim,Urbana,84604.7172445226
+51,MT,5103403,Cuiabá,Feminino,Branca,NA,Urbana,7250.7959178274
+51,MT,5103403,Cuiabá,Feminino,Ignorado,Não,Urbana,19.6243191438143
+51,MT,5103403,Cuiabá,Feminino,Indígena,Não,Urbana,54.3336818461936
+51,MT,5103403,Cuiabá,Feminino,Indígena,Sim,Urbana,939.055105251674
+51,MT,5103403,Cuiabá,Feminino,Indígena,NA,Urbana,55.3547572923513
+51,MT,5103403,Cuiabá,Feminino,Parda,Não,Urbana,8207.78434230913
+51,MT,5103403,Cuiabá,Feminino,Parda,Sim,Urbana,130762.026262416
+51,MT,5103403,Cuiabá,Feminino,Parda,NA,Urbana,10690.0092303397
+51,MT,5103403,Cuiabá,Feminino,Preta,Não,Urbana,1987.90412442335
+51,MT,5103403,Cuiabá,Feminino,Preta,Sim,Urbana,23741.1119857543
+51,MT,5103403,Cuiabá,Feminino,Preta,NA,Urbana,1184.67317832663
+51,MT,5103403,Cuiabá,Masculino,Amarela,Não,Urbana,282.409575713909
+51,MT,5103403,Cuiabá,Masculino,Amarela,Sim,Urbana,3146.85674222187
+51,MT,5103403,Cuiabá,Masculino,Amarela,NA,Urbana,367.538429251191
+51,MT,5103403,Cuiabá,Masculino,Branca,Não,Urbana,2752.84731196068
+51,MT,5103403,Cuiabá,Masculino,Branca,Sim,Urbana,73362.2493133074
+51,MT,5103403,Cuiabá,Masculino,Branca,NA,Urbana,7797.89847372414
+51,MT,5103403,Cuiabá,Masculino,Indígena,Não,Urbana,52.5406912133496
+51,MT,5103403,Cuiabá,Masculino,Indígena,Sim,Urbana,937.97152260034
+51,MT,5103403,Cuiabá,Masculino,Indígena,NA,Urbana,55.3698584976963
+51,MT,5103403,Cuiabá,Masculino,Parda,Não,Urbana,9459.65097410358
+51,MT,5103403,Cuiabá,Masculino,Parda,Sim,Urbana,125386.508781143
+51,MT,5103403,Cuiabá,Masculino,Parda,NA,Urbana,11299.9513812204
+51,MT,5103403,Cuiabá,Masculino,Preta,Não,Urbana,2395.68522925274
+51,MT,5103403,Cuiabá,Masculino,Preta,Sim,Urbana,25232.3929722549
+51,MT,5103403,Cuiabá,Masculino,Preta,NA,Urbana,980.128743526166
+15,PA,1501402,Belém,Feminino,Amarela,Sim,Rural,26.6144248450007
+15,PA,1501402,Belém,Feminino,Amarela,NA,Rural,10.1850776403181
+15,PA,1501402,Belém,Feminino,Branca,Não,Rural,72.111715126118
+15,PA,1501402,Belém,Feminino,Branca,Sim,Rural,679.424021725369
+15,PA,1501402,Belém,Feminino,Branca,NA,Rural,151.817173421365
+15,PA,1501402,Belém,Feminino,Parda,Não,Rural,457.912002329299
+15,PA,1501402,Belém,Feminino,Parda,Sim,Rural,3584.32365947492
+15,PA,1501402,Belém,Feminino,Parda,NA,Rural,507.957908052145
+15,PA,1501402,Belém,Feminino,Preta,Não,Rural,51.8888644969888
+15,PA,1501402,Belém,Feminino,Preta,Sim,Rural,233.76515288851
+15,PA,1501402,Belém,Masculino,Amarela,Sim,Rural,31.2432055476337
+15,PA,1501402,Belém,Masculino,Branca,Não,Rural,127.444255435452
+15,PA,1501402,Belém,Masculino,Branca,Sim,Rural,647.531357611884
+15,PA,1501402,Belém,Masculino,Branca,NA,Rural,156.024145112432
+15,PA,1501402,Belém,Masculino,Parda,Não,Rural,659.892767878147
+15,PA,1501402,Belém,Masculino,Parda,Sim,Rural,3843.45187548943
+15,PA,1501402,Belém,Masculino,Parda,NA,Rural,427.408154807938
+15,PA,1501402,Belém,Masculino,Preta,Não,Rural,26.6915784620878
+15,PA,1501402,Belém,Masculino,Preta,Sim,Rural,228.312659655036
+15,PA,1501402,Belém,Feminino,Amarela,Não,Urbana,200.827814672202
+15,PA,1501402,Belém,Feminino,Amarela,Sim,Urbana,6182.00514039562
+15,PA,1501402,Belém,Feminino,Amarela,NA,Urbana,298.814885456353
+15,PA,1501402,Belém,Feminino,Branca,Não,Urbana,7550.26464513777
+15,PA,1501402,Belém,Feminino,Branca,Sim,Urbana,178671.494269056
+15,PA,1501402,Belém,Feminino,Branca,NA,Urbana,15159.3379706931
+15,PA,1501402,Belém,Feminino,Ignorado,Não,Urbana,529.2970946238
+15,PA,1501402,Belém,Feminino,Ignorado,Sim,Urbana,144.526586033099
+15,PA,1501402,Belém,Feminino,Ignorado,NA,Urbana,35.0761354951493
+15,PA,1501402,Belém,Feminino,Indígena,Não,Urbana,54.4484225035381
+15,PA,1501402,Belém,Feminino,Indígena,Sim,Urbana,1022.9199215189
+15,PA,1501402,Belém,Feminino,Indígena,NA,Urbana,42.5419425849659
+15,PA,1501402,Belém,Feminino,Parda,Não,Urbana,22369.960248877
+15,PA,1501402,Belém,Feminino,Parda,Sim,Urbana,417116.223098139
+15,PA,1501402,Belém,Feminino,Parda,NA,Urbana,30183.3776552969
+15,PA,1501402,Belém,Feminino,Preta,Não,Urbana,3298.29637399191
+15,PA,1501402,Belém,Feminino,Preta,Sim,Urbana,43895.4585935696
+15,PA,1501402,Belém,Feminino,Preta,NA,Urbana,1860.12920195269
+15,PA,1501402,Belém,Masculino,Amarela,Não,Urbana,117.948895945005
+15,PA,1501402,Belém,Masculino,Amarela,Sim,Urbana,4347.73652960374
+15,PA,1501402,Belém,Masculino,Amarela,NA,Urbana,292.649760518818
+15,PA,1501402,Belém,Masculino,Branca,Não,Urbana,7120.82520954202
+15,PA,1501402,Belém,Masculino,Branca,Sim,Urbana,147024.284682953
+15,PA,1501402,Belém,Masculino,Branca,NA,Urbana,15129.2711556631
+15,PA,1501402,Belém,Masculino,Ignorado,Não,Urbana,299.497342599249
+15,PA,1501402,Belém,Masculino,Ignorado,Sim,Urbana,37.4005459176978
+15,PA,1501402,Belém,Masculino,Indígena,Não,Urbana,19.122477068675
+15,PA,1501402,Belém,Masculino,Indígena,Sim,Urbana,726.004532597319
+15,PA,1501402,Belém,Masculino,Indígena,NA,Urbana,27.8550831791624
+15,PA,1501402,Belém,Masculino,Parda,Não,Urbana,22587.1628774044
+15,PA,1501402,Belém,Masculino,Parda,Sim,Urbana,369545.341926751
+15,PA,1501402,Belém,Masculino,Parda,NA,Urbana,33096.2089556451
+15,PA,1501402,Belém,Masculino,Preta,Não,Urbana,3612.24024454604
+15,PA,1501402,Belém,Masculino,Preta,Sim,Urbana,46604.1499892162
+15,PA,1501402,Belém,Masculino,Preta,NA,Urbana,2272.29979084728
+25,PB,2507507,João Pessoa,Feminino,Amarela,Não,Rural,32.1698919973724
+25,PB,2507507,João Pessoa,Feminino,Branca,Não,Rural,70.9934131415954
+25,PB,2507507,João Pessoa,Feminino,Branca,Sim,Rural,465.492502855517
+25,PB,2507507,João Pessoa,Feminino,Branca,NA,Rural,35.3588810354949
+25,PB,2507507,João Pessoa,Feminino,Parda,Não,Rural,157.367998632001
+25,PB,2507507,João Pessoa,Feminino,Parda,Sim,Rural,485.253422247421
+25,PB,2507507,João Pessoa,Feminino,Parda,NA,Rural,59.125500278315
+25,PB,2507507,João Pessoa,Feminino,Preta,Não,Rural,30.555880849334
+25,PB,2507507,João Pessoa,Feminino,Preta,Sim,Rural,57.3946662846795
+25,PB,2507507,João Pessoa,Masculino,Branca,Não,Rural,20.690962891716
+25,PB,2507507,João Pessoa,Masculino,Branca,Sim,Rural,430.648513753232
+25,PB,2507507,João Pessoa,Masculino,Branca,NA,Rural,41.8081557455852
+25,PB,2507507,João Pessoa,Masculino,Parda,Não,Rural,189.455400402353
+25,PB,2507507,João Pessoa,Masculino,Parda,Sim,Rural,347.031245228052
+25,PB,2507507,João Pessoa,Masculino,Parda,NA,Rural,25.3854961148281
+25,PB,2507507,João Pessoa,Masculino,Preta,Não,Rural,22.3869971563089
+25,PB,2507507,João Pessoa,Masculino,Preta,Sim,Rural,89.5075856456868
+25,PB,2507507,João Pessoa,Feminino,Amarela,Não,Urbana,385.832758794373
+25,PB,2507507,João Pessoa,Feminino,Amarela,Sim,Urbana,5150.36597129467
+25,PB,2507507,João Pessoa,Feminino,Amarela,NA,Urbana,241.178695005397
+25,PB,2507507,João Pessoa,Feminino,Branca,Não,Urbana,9349.07850683561
+25,PB,2507507,João Pessoa,Feminino,Branca,Sim,Urbana,153477.108170593
+25,PB,2507507,João Pessoa,Feminino,Branca,NA,Urbana,12932.6300959681
+25,PB,2507507,João Pessoa,Feminino,Indígena,Sim,Urbana,1033.31935400106
+25,PB,2507507,João Pessoa,Feminino,Indígena,NA,Urbana,109.913870432148
+25,PB,2507507,João Pessoa,Feminino,Parda,Não,Urbana,16290.7556917263
+25,PB,2507507,João Pessoa,Feminino,Parda,Sim,Urbana,151739.948777904
+25,PB,2507507,João Pessoa,Feminino,Parda,NA,Urbana,10708.7048071172
+25,PB,2507507,João Pessoa,Feminino,Preta,Não,Urbana,2760.50940840761
+25,PB,2507507,João Pessoa,Feminino,Preta,Sim,Urbana,19176.9401978042
+25,PB,2507507,João Pessoa,Feminino,Preta,NA,Urbana,982.00153679106
+25,PB,2507507,João Pessoa,Masculino,Amarela,Não,Urbana,310.083031886205
+25,PB,2507507,João Pessoa,Masculino,Amarela,Sim,Urbana,3376.00124416015
+25,PB,2507507,João Pessoa,Masculino,Amarela,NA,Urbana,291.808856313667
+25,PB,2507507,João Pessoa,Masculino,Branca,Não,Urbana,8354.43434750598
+25,PB,2507507,João Pessoa,Masculino,Branca,Sim,Urbana,125725.572800939
+25,PB,2507507,João Pessoa,Masculino,Branca,NA,Urbana,13279.1958473183
+25,PB,2507507,João Pessoa,Masculino,Indígena,Não,Urbana,64.6339237324312
+25,PB,2507507,João Pessoa,Masculino,Indígena,Sim,Urbana,1020.68381257522
+25,PB,2507507,João Pessoa,Masculino,Indígena,NA,Urbana,30.619456341578
+25,PB,2507507,João Pessoa,Masculino,Parda,Não,Urbana,15864.0701747055
+25,PB,2507507,João Pessoa,Masculino,Parda,Sim,Urbana,132552.531172568
+25,PB,2507507,João Pessoa,Masculino,Parda,NA,Urbana,11121.8125199845
+25,PB,2507507,João Pessoa,Masculino,Preta,Não,Urbana,3470.00808937999
+25,PB,2507507,João Pessoa,Masculino,Preta,Sim,Urbana,20282.2786271731
+25,PB,2507507,João Pessoa,Masculino,Preta,NA,Urbana,872.351738475695
+26,PE,2607901,Jaboatão dos Guararapes,Feminino,Amarela,Não,Rural,54.3293916378548
+26,PE,2607901,Jaboatão dos Guararapes,Feminino,Amarela,Sim,Rural,86.5316962978219
+26,PE,2607901,Jaboatão dos Guararapes,Feminino,Amarela,NA,Rural,31.7305944280344
+26,PE,2607901,Jaboatão dos Guararapes,Feminino,Branca,Não,Rural,469.20594401659
+26,PE,2607901,Jaboatão dos Guararapes,Feminino,Branca,Sim,Rural,1001.51644652301
+26,PE,2607901,Jaboatão dos Guararapes,Feminino,Branca,NA,Rural,219.653697053118
+26,PE,2607901,Jaboatão dos Guararapes,Feminino,Parda,Não,Rural,1003.55746538607
+26,PE,2607901,Jaboatão dos Guararapes,Feminino,Parda,Sim,Rural,3220.58316046592
+26,PE,2607901,Jaboatão dos Guararapes,Feminino,Parda,NA,Rural,348.392580798843
+26,PE,2607901,Jaboatão dos Guararapes,Feminino,Preta,Não,Rural,209.857060562007
+26,PE,2607901,Jaboatão dos Guararapes,Feminino,Preta,Sim,Rural,349.711857917305
+26,PE,2607901,Jaboatão dos Guararapes,Feminino,Preta,NA,Rural,82.9301049134185
+26,PE,2607901,Jaboatão dos Guararapes,Masculino,Amarela,Não,Rural,33.6452560422291
+26,PE,2607901,Jaboatão dos Guararapes,Masculino,Amarela,Sim,Rural,67.7382740482917
+26,PE,2607901,Jaboatão dos Guararapes,Masculino,Branca,Não,Rural,495.134790439262
+26,PE,2607901,Jaboatão dos Guararapes,Masculino,Branca,Sim,Rural,1081.15590301671
+26,PE,2607901,Jaboatão dos Guararapes,Masculino,Branca,NA,Rural,213.083876600101
+26,PE,2607901,Jaboatão dos Guararapes,Masculino,Indígena,Sim,Rural,15.4195734091234
+26,PE,2607901,Jaboatão dos Guararapes,Masculino,Parda,Não,Rural,1091.58228341618
+26,PE,2607901,Jaboatão dos Guararapes,Masculino,Parda,Sim,Rural,2904.87306797422
+26,PE,2607901,Jaboatão dos Guararapes,Masculino,Parda,NA,Rural,331.452371613188
+26,PE,2607901,Jaboatão dos Guararapes,Masculino,Preta,Não,Rural,137.183719568108
+26,PE,2607901,Jaboatão dos Guararapes,Masculino,Preta,Sim,Rural,534.968289669182
+26,PE,2607901,Jaboatão dos Guararapes,Masculino,Preta,NA,Rural,40.7625942033392
+26,PE,2607901,Jaboatão dos Guararapes,Feminino,Amarela,Não,Urbana,217.921231753014
+26,PE,2607901,Jaboatão dos Guararapes,Feminino,Amarela,Sim,Urbana,3608.04923302492
+26,PE,2607901,Jaboatão dos Guararapes,Feminino,Amarela,NA,Urbana,236.854275256515
+26,PE,2607901,Jaboatão dos Guararapes,Feminino,Branca,Não,Urbana,8227.85437391102
+26,PE,2607901,Jaboatão dos Guararapes,Feminino,Branca,Sim,Urbana,106523.856097227
+26,PE,2607901,Jaboatão dos Guararapes,Feminino,Branca,NA,Urbana,9619.88031794934
+26,PE,2607901,Jaboatão dos Guararapes,Feminino,Indígena,Não,Urbana,222.713241728556
+26,PE,2607901,Jaboatão dos Guararapes,Feminino,Indígena,Sim,Urbana,690.821443659638
+26,PE,2607901,Jaboatão dos Guararapes,Feminino,Parda,Não,Urbana,17462.2805241343
+26,PE,2607901,Jaboatão dos Guararapes,Feminino,Parda,Sim,Urbana,149207.921994063
+26,PE,2607901,Jaboatão dos Guararapes,Feminino,Parda,NA,Urbana,11864.6677136982
+26,PE,2607901,Jaboatão dos Guararapes,Feminino,Preta,Não,Urbana,3229.16849619687
+26,PE,2607901,Jaboatão dos Guararapes,Feminino,Preta,Sim,Urbana,20930.4860440607
+26,PE,2607901,Jaboatão dos Guararapes,Feminino,Preta,NA,Urbana,649.525013337213
+26,PE,2607901,Jaboatão dos Guararapes,Masculino,Amarela,Não,Urbana,192.755312812024
+26,PE,2607901,Jaboatão dos Guararapes,Masculino,Amarela,Sim,Urbana,2459.4846432304
+26,PE,2607901,Jaboatão dos Guararapes,Masculino,Amarela,NA,Urbana,180.699497323072
+26,PE,2607901,Jaboatão dos Guararapes,Masculino,Branca,Não,Urbana,6377.72383423158
+26,PE,2607901,Jaboatão dos Guararapes,Masculino,Branca,Sim,Urbana,92280.8585464025
+26,PE,2607901,Jaboatão dos Guararapes,Masculino,Branca,NA,Urbana,9401.15419644076
+26,PE,2607901,Jaboatão dos Guararapes,Masculino,Indígena,Não,Urbana,72.6685353869526
+26,PE,2607901,Jaboatão dos Guararapes,Masculino,Indígena,Sim,Urbana,684.563195693631
+26,PE,2607901,Jaboatão dos Guararapes,Masculino,Parda,Não,Urbana,14872.4363955923
+26,PE,2607901,Jaboatão dos Guararapes,Masculino,Parda,Sim,Urbana,134414.165590518
+26,PE,2607901,Jaboatão dos Guararapes,Masculino,Parda,NA,Urbana,12448.9603181109
+26,PE,2607901,Jaboatão dos Guararapes,Masculino,Preta,Não,Urbana,3381.79271022514
+26,PE,2607901,Jaboatão dos Guararapes,Masculino,Preta,Sim,Urbana,20333.6536670499
+26,PE,2607901,Jaboatão dos Guararapes,Masculino,Preta,NA,Urbana,802.08355698292
+26,PE,2611606,Recife,Feminino,Amarela,Não,Urbana,770.2100994779
+26,PE,2611606,Recife,Feminino,Amarela,Sim,Urbana,8074.43752389226
+26,PE,2611606,Recife,Feminino,Amarela,NA,Urbana,504.013922561864
+26,PE,2611606,Recife,Feminino,Branca,Não,Urbana,17693.6077759799
+26,PE,2611606,Recife,Feminino,Branca,Sim,Urbana,309435.330059163
+26,PE,2611606,Recife,Feminino,Branca,NA,Urbana,21292.1365467075
+26,PE,2611606,Recife,Feminino,Indígena,Não,Urbana,205.519109471102
+26,PE,2611606,Recife,Feminino,Indígena,Sim,Urbana,1502.23715447589
+26,PE,2611606,Recife,Feminino,Indígena,NA,Urbana,107.655561686565
+26,PE,2611606,Recife,Feminino,Parda,Não,Urbana,36109.0947382487
+26,PE,2611606,Recife,Feminino,Parda,Sim,Urbana,345033.36128742
+26,PE,2611606,Recife,Feminino,Parda,NA,Urbana,23326.2736108571
+26,PE,2611606,Recife,Feminino,Preta,Não,Urbana,8489.30968099933
+26,PE,2611606,Recife,Feminino,Preta,Sim,Urbana,52939.9647713174
+26,PE,2611606,Recife,Feminino,Preta,NA,Urbana,2401.84815773995
+26,PE,2611606,Recife,Masculino,Amarela,Não,Urbana,414.145505469292
+26,PE,2611606,Recife,Masculino,Amarela,Sim,Urbana,5037.4356416953
+26,PE,2611606,Recife,Masculino,Amarela,NA,Urbana,499.262517825763
+26,PE,2611606,Recife,Masculino,Branca,Não,Urbana,12662.2100737
+26,PE,2611606,Recife,Masculino,Branca,Sim,Urbana,246821.561593418
+26,PE,2611606,Recife,Masculino,Branca,NA,Urbana,20830.2301080354
+26,PE,2611606,Recife,Masculino,Ignorado,Sim,Urbana,18.0852822952265
+26,PE,2611606,Recife,Masculino,Indígena,Não,Urbana,161.993745841609
+26,PE,2611606,Recife,Masculino,Indígena,Sim,Urbana,1183.99570329662
+26,PE,2611606,Recife,Masculino,Indígena,NA,Urbana,25.5384301993015
+26,PE,2611606,Recife,Masculino,Parda,Não,Urbana,29933.8584367294
+26,PE,2611606,Recife,Masculino,Parda,Sim,Urbana,304920.523435914
+26,PE,2611606,Recife,Masculino,Parda,NA,Urbana,25561.1495847787
+26,PE,2611606,Recife,Masculino,Preta,Não,Urbana,6682.53185649377
+26,PE,2611606,Recife,Masculino,Preta,Sim,Urbana,53085.3046045407
+26,PE,2611606,Recife,Masculino,Preta,NA,Urbana,1981.17347976447
+22,PI,2211001,Teresina,Feminino,Amarela,Não,Rural,77.0679960618425
+22,PI,2211001,Teresina,Feminino,Amarela,Sim,Rural,446.147855985936
+22,PI,2211001,Teresina,Feminino,Amarela,NA,Rural,97.9950826338983
+22,PI,2211001,Teresina,Feminino,Branca,Não,Rural,440.987377739325
+22,PI,2211001,Teresina,Feminino,Branca,Sim,Rural,2966.7258758441
+22,PI,2211001,Teresina,Feminino,Branca,NA,Rural,381.612048639836
+22,PI,2211001,Teresina,Feminino,Indígena,Sim,Rural,42.1117177749224
+22,PI,2211001,Teresina,Feminino,Parda,Não,Rural,3290.03072798057
+22,PI,2211001,Teresina,Feminino,Parda,Sim,Rural,11026.6139836788
+22,PI,2211001,Teresina,Feminino,Parda,NA,Rural,1455.56254384289
+22,PI,2211001,Teresina,Feminino,Preta,Não,Rural,777.882703818412
+22,PI,2211001,Teresina,Feminino,Preta,Sim,Rural,1623.71877613935
+22,PI,2211001,Teresina,Feminino,Preta,NA,Rural,40.5433098601444
+22,PI,2211001,Teresina,Masculino,Amarela,Não,Rural,176.45948183633
+22,PI,2211001,Teresina,Masculino,Amarela,Sim,Rural,477.968993670475
+22,PI,2211001,Teresina,Masculino,Amarela,NA,Rural,42.8088264697185
+22,PI,2211001,Teresina,Masculino,Branca,Não,Rural,513.355846948398
+22,PI,2211001,Teresina,Masculino,Branca,Sim,Rural,2696.30427676863
+22,PI,2211001,Teresina,Masculino,Branca,NA,Rural,334.005454485312
+22,PI,2211001,Teresina,Masculino,Indígena,Não,Rural,21.0558588874612
+22,PI,2211001,Teresina,Masculino,Indígena,Sim,Rural,42.9777864966238
+22,PI,2211001,Teresina,Masculino,Indígena,NA,Rural,21.9219276091626
+22,PI,2211001,Teresina,Masculino,Parda,Não,Rural,3597.24268236499
+22,PI,2211001,Teresina,Masculino,Parda,Sim,Rural,11385.9537756991
+22,PI,2211001,Teresina,Masculino,Parda,NA,Rural,1669.45867970657
+22,PI,2211001,Teresina,Masculino,Preta,Não,Rural,955.845151099227
+22,PI,2211001,Teresina,Masculino,Preta,Sim,Rural,2002.0732915169
+22,PI,2211001,Teresina,Masculino,Preta,NA,Rural,66.5679664410628
+22,PI,2211001,Teresina,Feminino,Amarela,Não,Urbana,686.32913899232
+22,PI,2211001,Teresina,Feminino,Amarela,Sim,Urbana,10447.3588292661
+22,PI,2211001,Teresina,Feminino,Amarela,NA,Urbana,757.45511715693
+22,PI,2211001,Teresina,Feminino,Branca,Não,Urbana,6307.4095098978
+22,PI,2211001,Teresina,Feminino,Branca,Sim,Urbana,96364.173062961
+22,PI,2211001,Teresina,Feminino,Branca,NA,Urbana,8999.20304802597
+22,PI,2211001,Teresina,Feminino,Indígena,Não,Urbana,79.083921946324
+22,PI,2211001,Teresina,Feminino,Indígena,Sim,Urbana,757.630243462011
+22,PI,2211001,Teresina,Feminino,Indígena,NA,Urbana,46.2184044502566
+22,PI,2211001,Teresina,Feminino,Parda,Não,Urbana,18872.1643334371
+22,PI,2211001,Teresina,Feminino,Parda,Sim,Urbana,209472.990137509
+22,PI,2211001,Teresina,Feminino,Parda,NA,Urbana,15896.5901929481
+22,PI,2211001,Teresina,Feminino,Preta,Não,Urbana,4871.50263233254
+22,PI,2211001,Teresina,Feminino,Preta,Sim,Urbana,35658.843990063
+22,PI,2211001,Teresina,Feminino,Preta,NA,Urbana,1734.04743755005
+22,PI,2211001,Teresina,Masculino,Amarela,Não,Urbana,490.799184720214
+22,PI,2211001,Teresina,Masculino,Amarela,Sim,Urbana,5984.31029077089
+22,PI,2211001,Teresina,Masculino,Amarela,NA,Urbana,610.995643305455
+22,PI,2211001,Teresina,Masculino,Branca,Não,Urbana,5267.67624660219
+22,PI,2211001,Teresina,Masculino,Branca,Sim,Urbana,80141.2252622964
+22,PI,2211001,Teresina,Masculino,Branca,NA,Urbana,8825.13208453948
+22,PI,2211001,Teresina,Masculino,Indígena,Não,Urbana,109.80228265441
+22,PI,2211001,Teresina,Masculino,Indígena,Sim,Urbana,580.983221353198
+22,PI,2211001,Teresina,Masculino,Indígena,NA,Urbana,51.9379160555224
+22,PI,2211001,Teresina,Masculino,Parda,Não,Urbana,18030.9898939636
+22,PI,2211001,Teresina,Masculino,Parda,Sim,Urbana,178316.870295933
+22,PI,2211001,Teresina,Masculino,Parda,NA,Urbana,16339.8146561503
+22,PI,2211001,Teresina,Masculino,Preta,Não,Urbana,4986.44612107882
+22,PI,2211001,Teresina,Masculino,Preta,Sim,Urbana,34905.7302307382
+22,PI,2211001,Teresina,Masculino,Preta,NA,Urbana,1965.28666983707
+41,PR,4106902,Curitiba,Feminino,Amarela,Não,Urbana,216.505536417111
+41,PR,4106902,Curitiba,Feminino,Amarela,Sim,Urbana,12083.3698488965
+41,PR,4106902,Curitiba,Feminino,Amarela,NA,Urbana,462.857139646275
+41,PR,4106902,Curitiba,Feminino,Branca,Não,Urbana,18651.3246578696
+41,PR,4106902,Curitiba,Feminino,Branca,Sim,Urbana,671067.997143202
+41,PR,4106902,Curitiba,Feminino,Branca,NA,Urbana,43768.0684857729
+41,PR,4106902,Curitiba,Feminino,Ignorado,Não,Urbana,60.280781611811
+41,PR,4106902,Curitiba,Feminino,Ignorado,Sim,Urbana,19.9899681788762
+41,PR,4106902,Curitiba,Feminino,Indígena,Não,Urbana,98.3751969099706
+41,PR,4106902,Curitiba,Feminino,Indígena,Sim,Urbana,1311.31797229048
+41,PR,4106902,Curitiba,Feminino,Parda,Não,Urbana,7663.27540040519
+41,PR,4106902,Curitiba,Feminino,Parda,Sim,Urbana,129620.062449639
+41,PR,4106902,Curitiba,Feminino,Parda,NA,Urbana,8084.42215331872
+41,PR,4106902,Curitiba,Feminino,Preta,Não,Urbana,1667.30527162795
+41,PR,4106902,Curitiba,Feminino,Preta,Sim,Urbana,21258.1186865161
+41,PR,4106902,Curitiba,Feminino,Preta,NA,Urbana,758.729307699565
+41,PR,4106902,Curitiba,Masculino,Amarela,Não,Urbana,205.080917647218
+41,PR,4106902,Curitiba,Masculino,Amarela,Sim,Urbana,10462.7136353204
+41,PR,4106902,Curitiba,Masculino,Amarela,NA,Urbana,457.499417830275
+41,PR,4106902,Curitiba,Masculino,Branca,Não,Urbana,13260.4097201781
+41,PR,4106902,Curitiba,Masculino,Branca,Sim,Urbana,588170.584432607
+41,PR,4106902,Curitiba,Masculino,Branca,NA,Urbana,45093.2148718363
+41,PR,4106902,Curitiba,Masculino,Ignorado,Sim,Urbana,46.1649193792494
+41,PR,4106902,Curitiba,Masculino,Indígena,Não,Urbana,14.4154847394644
+41,PR,4106902,Curitiba,Masculino,Indígena,Sim,Urbana,932.151803345055
+41,PR,4106902,Curitiba,Masculino,Indígena,NA,Urbana,64.6061198537784
+41,PR,4106902,Curitiba,Masculino,Parda,Não,Urbana,5924.10620041227
+41,PR,4106902,Curitiba,Masculino,Parda,Sim,Urbana,136044.838415384
+41,PR,4106902,Curitiba,Masculino,Parda,NA,Urbana,8802.90163729402
+41,PR,4106902,Curitiba,Masculino,Preta,Não,Urbana,1071.35999267672
+41,PR,4106902,Curitiba,Masculino,Preta,Sim,Urbana,23842.7424797866
+41,PR,4106902,Curitiba,Masculino,Preta,NA,Urbana,722.209951710222
+41,PR,4113700,Londrina,Feminino,Amarela,Sim,Rural,115.173210615325
+41,PR,4113700,Londrina,Feminino,Amarela,NA,Rural,11.1156084592344
+41,PR,4113700,Londrina,Feminino,Branca,Não,Rural,426.953569936199
+41,PR,4113700,Londrina,Feminino,Branca,Sim,Rural,3172.59904275465
+41,PR,4113700,Londrina,Feminino,Branca,NA,Rural,255.229846963415
+41,PR,4113700,Londrina,Feminino,Indígena,Não,Rural,31.7346580389136
+41,PR,4113700,Londrina,Feminino,Parda,Não,Rural,200.407807632379
+41,PR,4113700,Londrina,Feminino,Parda,Sim,Rural,1244.43566952313
+41,PR,4113700,Londrina,Feminino,Parda,NA,Rural,74.892973590819
+41,PR,4113700,Londrina,Feminino,Preta,Não,Rural,51.9689538493806
+41,PR,4113700,Londrina,Feminino,Preta,Sim,Rural,153.235858189648
+41,PR,4113700,Londrina,Feminino,Preta,NA,Rural,22.2528004469632
+41,PR,4113700,Londrina,Masculino,Amarela,Sim,Rural,152.051347879987
+41,PR,4113700,Londrina,Masculino,Branca,Não,Rural,452.951299560182
+41,PR,4113700,Londrina,Masculino,Branca,Sim,Rural,3818.05153508873
+41,PR,4113700,Londrina,Masculino,Branca,NA,Rural,304.241338448719
+41,PR,4113700,Londrina,Masculino,Indígena,Não,Rural,15.8673290194568
+41,PR,4113700,Londrina,Masculino,Indígena,Sim,Rural,15.8673290194568
+41,PR,4113700,Londrina,Masculino,Parda,Não,Rural,231.644386828278
+41,PR,4113700,Londrina,Masculino,Parda,Sim,Rural,1988.43097961098
+41,PR,4113700,Londrina,Masculino,Parda,NA,Rural,119.85396986526
+41,PR,4113700,Londrina,Masculino,Preta,Não,Rural,47.9003693994015
+41,PR,4113700,Londrina,Masculino,Preta,Sim,Rural,265.356199463569
+41,PR,4113700,Londrina,Masculino,Preta,NA,Rural,8.7839158159996
+41,PR,4113700,Londrina,Feminino,Amarela,Não,Urbana,163.641864062556
+41,PR,4113700,Londrina,Feminino,Amarela,Sim,Urbana,9274.3808901162
+41,PR,4113700,Londrina,Feminino,Amarela,NA,Urbana,254.692981396229
+41,PR,4113700,Londrina,Feminino,Branca,Não,Urbana,8939.93850941359
+41,PR,4113700,Londrina,Feminino,Branca,Sim,Urbana,163565.841433979
+41,PR,4113700,Londrina,Feminino,Branca,NA,Urbana,11701.2570352881
+41,PR,4113700,Londrina,Feminino,Ignorado,Não,Urbana,19.2727766687551
+41,PR,4113700,Londrina,Feminino,Indígena,Não,Urbana,19.7840253644533
+41,PR,4113700,Londrina,Feminino,Indígena,Sim,Urbana,280.103209280409
+41,PR,4113700,Londrina,Feminino,Parda,Não,Urbana,3901.6422705454
+41,PR,4113700,Londrina,Feminino,Parda,Sim,Urbana,46721.8203515764
+41,PR,4113700,Londrina,Feminino,Parda,NA,Urbana,2997.48186521011
+41,PR,4113700,Londrina,Feminino,Preta,Não,Urbana,1039.46256336617
+41,PR,4113700,Londrina,Feminino,Preta,Sim,Urbana,8797.41470163592
+41,PR,4113700,Londrina,Feminino,Preta,NA,Urbana,205.265522096315
+41,PR,4113700,Londrina,Masculino,Amarela,Não,Urbana,113.149136006705
+41,PR,4113700,Londrina,Masculino,Amarela,Sim,Urbana,7970.5382378668
+41,PR,4113700,Londrina,Masculino,Amarela,NA,Urbana,257.665578952044
+41,PR,4113700,Londrina,Masculino,Branca,Não,Urbana,5551.87900877096
+41,PR,4113700,Londrina,Masculino,Branca,Sim,Urbana,146577.021229689
+41,PR,4113700,Londrina,Masculino,Branca,NA,Urbana,12224.4639490928
+41,PR,4113700,Londrina,Masculino,Ignorado,Não,Urbana,57.8183300062653
+41,PR,4113700,Londrina,Masculino,Indígena,Não,Urbana,61.0787310819725
+41,PR,4113700,Londrina,Masculino,Indígena,Sim,Urbana,224.747794300466
+41,PR,4113700,Londrina,Masculino,Indígena,NA,Urbana,18.6716490542219
+41,PR,4113700,Londrina,Masculino,Parda,Não,Urbana,2927.40211232653
+41,PR,4113700,Londrina,Masculino,Parda,Sim,Urbana,46491.1871929776
+41,PR,4113700,Londrina,Masculino,Parda,NA,Urbana,3524.0821645173
+41,PR,4113700,Londrina,Masculino,Preta,Não,Urbana,643.759841626254
+41,PR,4113700,Londrina,Masculino,Preta,Sim,Urbana,8748.9762747486
+41,PR,4113700,Londrina,Masculino,Preta,NA,Urbana,245.558768981997
+33,RJ,3301702,Duque de Caxias,Feminino,Amarela,Sim,Rural,17.8732068356958
+33,RJ,3301702,Duque de Caxias,Feminino,Amarela,NA,Rural,15.8732068356916
+33,RJ,3301702,Duque de Caxias,Feminino,Branca,Não,Rural,60.1115775751011
+33,RJ,3301702,Duque de Caxias,Feminino,Branca,Sim,Rural,503.36619931701
+33,RJ,3301702,Duque de Caxias,Feminino,Branca,NA,Rural,19.0217072518492
+33,RJ,3301702,Duque de Caxias,Feminino,Parda,Não,Rural,71.4719079068388
+33,RJ,3301702,Duque de Caxias,Feminino,Parda,Sim,Rural,495.081779560006
+33,RJ,3301702,Duque de Caxias,Feminino,Parda,NA,Rural,24.6546477334977
+33,RJ,3301702,Duque de Caxias,Feminino,Preta,Não,Rural,22.0496916690169
+33,RJ,3301702,Duque de Caxias,Feminino,Preta,Sim,Rural,143.496075315276
+33,RJ,3301702,Duque de Caxias,Masculino,Amarela,Sim,Rural,2.0000000000042
+33,RJ,3301702,Duque de Caxias,Masculino,Branca,Não,Rural,21.538305708145
+33,RJ,3301702,Duque de Caxias,Masculino,Branca,Sim,Rural,770.62536146378
+33,RJ,3301702,Duque de Caxias,Masculino,Parda,Não,Rural,115.262379025255
+33,RJ,3301702,Duque de Caxias,Masculino,Parda,Sim,Rural,391.347602488249
+33,RJ,3301702,Duque de Caxias,Masculino,Parda,NA,Rural,93.6428514009931
+33,RJ,3301702,Duque de Caxias,Masculino,Preta,Não,Rural,21.0496916690148
+33,RJ,3301702,Duque de Caxias,Masculino,Preta,Sim,Rural,121.533808244576
+33,RJ,3301702,Duque de Caxias,Feminino,Amarela,Não,Urbana,340.813123777512
+33,RJ,3301702,Duque de Caxias,Feminino,Amarela,Sim,Urbana,5205.81602884115
+33,RJ,3301702,Duque de Caxias,Feminino,Amarela,NA,Urbana,323.521822343145
+33,RJ,3301702,Duque de Caxias,Feminino,Branca,Não,Urbana,7194.49242640255
+33,RJ,3301702,Duque de Caxias,Feminino,Branca,Sim,Urbana,138770.44525441
+33,RJ,3301702,Duque de Caxias,Feminino,Branca,NA,Urbana,11478.0087786621
+33,RJ,3301702,Duque de Caxias,Feminino,Indígena,Não,Urbana,22.3053471518693
+33,RJ,3301702,Duque de Caxias,Feminino,Indígena,Sim,Urbana,433.375419009441
+33,RJ,3301702,Duque de Caxias,Feminino,Parda,Não,Urbana,13505.6545294682
+33,RJ,3301702,Duque de Caxias,Feminino,Parda,Sim,Urbana,187759.343350003
+33,RJ,3301702,Duque de Caxias,Feminino,Parda,NA,Urbana,14482.1207871179
+33,RJ,3301702,Duque de Caxias,Feminino,Preta,Não,Urbana,4984.60089532854
+33,RJ,3301702,Duque de Caxias,Feminino,Preta,Sim,Urbana,55090.8258808072
+33,RJ,3301702,Duque de Caxias,Feminino,Preta,NA,Urbana,3009.67635667658
+33,RJ,3301702,Duque de Caxias,Masculino,Amarela,Não,Urbana,284.095920477562
+33,RJ,3301702,Duque de Caxias,Masculino,Amarela,Sim,Urbana,3173.99057169828
+33,RJ,3301702,Duque de Caxias,Masculino,Amarela,NA,Urbana,458.919154545321
+33,RJ,3301702,Duque de Caxias,Masculino,Branca,Não,Urbana,6471.84892359009
+33,RJ,3301702,Duque de Caxias,Masculino,Branca,Sim,Urbana,124939.91363493
+33,RJ,3301702,Duque de Caxias,Masculino,Branca,NA,Urbana,11859.6513051852
+33,RJ,3301702,Duque de Caxias,Masculino,Indígena,Sim,Urbana,361.781365846569
+33,RJ,3301702,Duque de Caxias,Masculino,Indígena,NA,Urbana,18.6917400520718
+33,RJ,3301702,Duque de Caxias,Masculino,Parda,Não,Urbana,11254.1774838643
+33,RJ,3301702,Duque de Caxias,Masculino,Parda,Sim,Urbana,175805.587561443
+33,RJ,3301702,Duque de Caxias,Masculino,Parda,NA,Urbana,14372.1981399265
+33,RJ,3301702,Duque de Caxias,Masculino,Preta,Não,Urbana,3912.25420953303
+33,RJ,3301702,Duque de Caxias,Masculino,Preta,Sim,Urbana,53581.8376129571
+33,RJ,3301702,Duque de Caxias,Masculino,Preta,NA,Urbana,3042.05237595112
+33,RJ,3303500,Nova Iguaçu,Feminino,Amarela,Sim,Rural,78.1114720811073
+33,RJ,3303500,Nova Iguaçu,Feminino,Branca,Não,Rural,123.242670415931
+33,RJ,3303500,Nova Iguaçu,Feminino,Branca,Sim,Rural,1112.02771921496
+33,RJ,3303500,Nova Iguaçu,Feminino,Branca,NA,Rural,53.1778423210142
+33,RJ,3303500,Nova Iguaçu,Feminino,Indígena,Sim,Rural,5.6913154504119
+33,RJ,3303500,Nova Iguaçu,Feminino,Parda,Não,Rural,231.765677720686
+33,RJ,3303500,Nova Iguaçu,Feminino,Parda,Sim,Rural,2091.26484838596
+33,RJ,3303500,Nova Iguaçu,Feminino,Parda,NA,Rural,260.731505100707
+33,RJ,3303500,Nova Iguaçu,Feminino,Preta,Não,Rural,29.8265808386268
+33,RJ,3303500,Nova Iguaçu,Feminino,Preta,Sim,Rural,294.160368470588
+33,RJ,3303500,Nova Iguaçu,Masculino,Amarela,Sim,Rural,42.1857484150066
+33,RJ,3303500,Nova Iguaçu,Masculino,Branca,Não,Rural,105.154855604406
+33,RJ,3303500,Nova Iguaçu,Masculino,Branca,Sim,Rural,935.513697525441
+33,RJ,3303500,Nova Iguaçu,Masculino,Branca,NA,Rural,65.1067067701669
+33,RJ,3303500,Nova Iguaçu,Masculino,Parda,Não,Rural,314.403469134078
+33,RJ,3303500,Nova Iguaçu,Masculino,Parda,Sim,Rural,2018.24980536994
+33,RJ,3303500,Nova Iguaçu,Masculino,Parda,NA,Rural,326.475109668976
+33,RJ,3303500,Nova Iguaçu,Masculino,Preta,Não,Rural,64.9019122881795
+33,RJ,3303500,Nova Iguaçu,Masculino,Preta,Sim,Rural,504.276535222618
+33,RJ,3303500,Nova Iguaçu,Masculino,Preta,NA,Rural,37.7321600011606
+33,RJ,3303500,Nova Iguaçu,Feminino,Amarela,Não,Urbana,181.96322250661
+33,RJ,3303500,Nova Iguaçu,Feminino,Amarela,Sim,Urbana,3975.43572404029
+33,RJ,3303500,Nova Iguaçu,Feminino,Amarela,NA,Urbana,188.991189818828
+33,RJ,3303500,Nova Iguaçu,Feminino,Branca,Não,Urbana,6616.26105687413
+33,RJ,3303500,Nova Iguaçu,Feminino,Branca,Sim,Urbana,135753.006058603
+33,RJ,3303500,Nova Iguaçu,Feminino,Branca,NA,Urbana,10433.7506427726
+33,RJ,3303500,Nova Iguaçu,Feminino,Indígena,Não,Urbana,17.213155430974
+33,RJ,3303500,Nova Iguaçu,Feminino,Indígena,Sim,Urbana,359.661901374252
+33,RJ,3303500,Nova Iguaçu,Feminino,Parda,Não,Urbana,11986.1757713627
+33,RJ,3303500,Nova Iguaçu,Feminino,Parda,Sim,Urbana,173379.999498317
+33,RJ,3303500,Nova Iguaçu,Feminino,Parda,NA,Urbana,13446.2308761518
+33,RJ,3303500,Nova Iguaçu,Feminino,Preta,Não,Urbana,3846.31528581327
+33,RJ,3303500,Nova Iguaçu,Feminino,Preta,Sim,Urbana,47992.3443266949
+33,RJ,3303500,Nova Iguaçu,Feminino,Preta,NA,Urbana,2049.65129024507
+33,RJ,3303500,Nova Iguaçu,Masculino,Amarela,Não,Urbana,180.352598134714
+33,RJ,3303500,Nova Iguaçu,Masculino,Amarela,Sim,Urbana,2540.99021221912
+33,RJ,3303500,Nova Iguaçu,Masculino,Amarela,NA,Urbana,189.490866376593
+33,RJ,3303500,Nova Iguaçu,Masculino,Branca,Não,Urbana,6067.57636348951
+33,RJ,3303500,Nova Iguaçu,Masculino,Branca,Sim,Urbana,118498.808719877
+33,RJ,3303500,Nova Iguaçu,Masculino,Branca,NA,Urbana,9848.15741295319
+33,RJ,3303500,Nova Iguaçu,Masculino,Indígena,Não,Urbana,23.8300646623304
+33,RJ,3303500,Nova Iguaçu,Masculino,Indígena,Sim,Urbana,365.062326284649
+33,RJ,3303500,Nova Iguaçu,Masculino,Parda,Não,Urbana,10304.7130728066
+33,RJ,3303500,Nova Iguaçu,Masculino,Parda,Sim,Urbana,161886.437444355
+33,RJ,3303500,Nova Iguaçu,Masculino,Parda,NA,Urbana,14040.1466944713
+33,RJ,3303500,Nova Iguaçu,Masculino,Preta,Não,Urbana,3104.0973230219
+33,RJ,3303500,Nova Iguaçu,Masculino,Preta,Sim,Urbana,47805.3839543308
+33,RJ,3303500,Nova Iguaçu,Masculino,Preta,NA,Urbana,2480.95294702296
+33,RJ,3304557,Rio de Janeiro,Feminino,Amarela,Não,Urbana,897.394536454826
+33,RJ,3304557,Rio de Janeiro,Feminino,Amarela,Sim,Urbana,23569.9811044559
+33,RJ,3304557,Rio de Janeiro,Feminino,Amarela,NA,Urbana,1579.26924669252
+33,RJ,3304557,Rio de Janeiro,Feminino,Branca,Não,Urbana,44128.2558530905
+33,RJ,3304557,Rio de Janeiro,Feminino,Branca,Sim,Urbana,1621930.16447224
+33,RJ,3304557,Rio de Janeiro,Feminino,Branca,NA,Urbana,92954.8904951748
+33,RJ,3304557,Rio de Janeiro,Feminino,Ignorado,Não,Urbana,140.752299133714
+33,RJ,3304557,Rio de Janeiro,Feminino,Ignorado,Sim,Urbana,393.613629836458
+33,RJ,3304557,Rio de Janeiro,Feminino,Ignorado,NA,Urbana,41.3779571394985
+33,RJ,3304557,Rio de Janeiro,Feminino,Indígena,Não,Urbana,133.581757907676
+33,RJ,3304557,Rio de Janeiro,Feminino,Indígena,Sim,Urbana,3094.10103002925
+33,RJ,3304557,Rio de Janeiro,Feminino,Indígena,NA,Urbana,108.710198741518
+33,RJ,3304557,Rio de Janeiro,Feminino,Parda,Não,Urbana,56304.8310439238
+33,RJ,3304557,Rio de Janeiro,Feminino,Parda,Sim,Urbana,1076297.94790122
+33,RJ,3304557,Rio de Janeiro,Feminino,Parda,NA,Urbana,71553.922003811
+33,RJ,3304557,Rio de Janeiro,Feminino,Preta,Não,Urbana,20287.7881229031
+33,RJ,3304557,Rio de Janeiro,Feminino,Preta,Sim,Urbana,333136.499043205
+33,RJ,3304557,Rio de Janeiro,Feminino,Preta,NA,Urbana,14075.9193040294
+33,RJ,3304557,Rio de Janeiro,Masculino,Amarela,Não,Urbana,903.34757741925
+33,RJ,3304557,Rio de Janeiro,Masculino,Amarela,Sim,Urbana,17532.0160324478
+33,RJ,3304557,Rio de Janeiro,Masculino,Amarela,NA,Urbana,1430.71267958793
+33,RJ,3304557,Rio de Janeiro,Masculino,Branca,Não,Urbana,38391.338130417
+33,RJ,3304557,Rio de Janeiro,Masculino,Branca,Sim,Urbana,1351206.90636036
+33,RJ,3304557,Rio de Janeiro,Masculino,Branca,NA,Urbana,91276.4696057587
+33,RJ,3304557,Rio de Janeiro,Masculino,Ignorado,Não,Urbana,454.429959559397
+33,RJ,3304557,Rio de Janeiro,Masculino,Ignorado,Sim,Urbana,811.649271467106
+33,RJ,3304557,Rio de Janeiro,Masculino,Indígena,Não,Urbana,134.696765705341
+33,RJ,3304557,Rio de Janeiro,Masculino,Indígena,Sim,Urbana,2401.80814405983
+33,RJ,3304557,Rio de Janeiro,Masculino,Indígena,NA,Urbana,107.611166217395
+33,RJ,3304557,Rio de Janeiro,Masculino,Parda,Não,Urbana,55658.0272269254
+33,RJ,3304557,Rio de Janeiro,Masculino,Parda,Sim,Urbana,983305.199113564
+33,RJ,3304557,Rio de Janeiro,Masculino,Parda,NA,Urbana,75555.4730668324
+33,RJ,3304557,Rio de Janeiro,Masculino,Preta,Não,Urbana,16042.0070596232
+33,RJ,3304557,Rio de Janeiro,Masculino,Preta,Sim,Urbana,308304.278325066
+33,RJ,3304557,Rio de Janeiro,Masculino,Preta,NA,Urbana,16301.0295149738
+33,RJ,3304904,São Gonçalo,Feminino,Branca,Sim,Rural,123.373606543118
+33,RJ,3304904,São Gonçalo,Feminino,Parda,Não,Rural,12.3904229571414
+33,RJ,3304904,São Gonçalo,Feminino,Parda,Sim,Rural,186.064701628116
+33,RJ,3304904,São Gonçalo,Feminino,Parda,NA,Rural,12.3904229571414
+33,RJ,3304904,São Gonçalo,Feminino,Preta,Sim,Rural,24.7808459142828
+33,RJ,3304904,São Gonçalo,Masculino,Branca,Não,Rural,17.9920947396204
+33,RJ,3304904,São Gonçalo,Masculino,Branca,Sim,Rural,77.8698845594662
+33,RJ,3304904,São Gonçalo,Masculino,Parda,Não,Rural,73.5648836320743
+33,RJ,3304904,São Gonçalo,Masculino,Parda,Sim,Rural,175.79229115433
+33,RJ,3304904,São Gonçalo,Masculino,Preta,Sim,Rural,12.3904229571414
+33,RJ,3304904,São Gonçalo,Masculino,Preta,NA,Rural,12.3904229571414
+33,RJ,3304904,São Gonçalo,Feminino,Amarela,Não,Urbana,140.533507198832
+33,RJ,3304904,São Gonçalo,Feminino,Amarela,Sim,Urbana,2115.18046305779
+33,RJ,3304904,São Gonçalo,Feminino,Amarela,NA,Urbana,139.351349018216
+33,RJ,3304904,São Gonçalo,Feminino,Branca,Não,Urbana,7514.48575778251
+33,RJ,3304904,São Gonçalo,Feminino,Branca,Sim,Urbana,210302.098063661
+33,RJ,3304904,São Gonçalo,Feminino,Branca,NA,Urbana,13964.7574083447
+33,RJ,3304904,São Gonçalo,Feminino,Ignorado,Não,Urbana,172.19774767653
+33,RJ,3304904,São Gonçalo,Feminino,Ignorado,Sim,Urbana,63.1710831313346
+33,RJ,3304904,São Gonçalo,Feminino,Ignorado,NA,Urbana,19.4245624785439
+33,RJ,3304904,São Gonçalo,Feminino,Indígena,Não,Urbana,45.6134552112992
+33,RJ,3304904,São Gonçalo,Feminino,Indígena,Sim,Urbana,378.429037650112
+33,RJ,3304904,São Gonçalo,Feminino,Parda,Não,Urbana,11580.2921739579
+33,RJ,3304904,São Gonçalo,Feminino,Parda,Sim,Urbana,205032.428670202
+33,RJ,3304904,São Gonçalo,Feminino,Parda,NA,Urbana,12638.06009692
+33,RJ,3304904,São Gonçalo,Feminino,Preta,Não,Urbana,3807.22620467979
+33,RJ,3304904,São Gonçalo,Feminino,Preta,Sim,Urbana,53801.0782210816
+33,RJ,3304904,São Gonçalo,Feminino,Preta,NA,Urbana,2390.67219791403
+33,RJ,3304904,São Gonçalo,Masculino,Amarela,Não,Urbana,180.842433343122
+33,RJ,3304904,São Gonçalo,Masculino,Amarela,Sim,Urbana,1768.99871589387
+33,RJ,3304904,São Gonçalo,Masculino,Amarela,NA,Urbana,113.25887598504
+33,RJ,3304904,São Gonçalo,Masculino,Branca,Não,Urbana,6105.55340046915
+33,RJ,3304904,São Gonçalo,Masculino,Branca,Sim,Urbana,182568.872447644
+33,RJ,3304904,São Gonçalo,Masculino,Branca,NA,Urbana,14049.4762719191
+33,RJ,3304904,São Gonçalo,Masculino,Ignorado,Não,Urbana,125.650849393181
+33,RJ,3304904,São Gonçalo,Masculino,Ignorado,NA,Urbana,20.882014185564
+33,RJ,3304904,São Gonçalo,Masculino,Indígena,Sim,Urbana,250.990535169462
+33,RJ,3304904,São Gonçalo,Masculino,Parda,Não,Urbana,9361.33520329487
+33,RJ,3304904,São Gonçalo,Masculino,Parda,Sim,Urbana,188576.481320786
+33,RJ,3304904,São Gonçalo,Masculino,Parda,NA,Urbana,12646.7082866873
+33,RJ,3304904,São Gonçalo,Masculino,Preta,Não,Urbana,3167.71671020893
+33,RJ,3304904,São Gonçalo,Masculino,Preta,Sim,Urbana,53176.3373000024
+33,RJ,3304904,São Gonçalo,Masculino,Preta,NA,Urbana,2780.89563498377
+24,RN,2408102,Natal,Feminino,Amarela,Não,Urbana,477.745190157445
+24,RN,2408102,Natal,Feminino,Amarela,Sim,Urbana,4464.62710265998
+24,RN,2408102,Natal,Feminino,Amarela,NA,Urbana,76.6660009152811
+24,RN,2408102,Natal,Feminino,Branca,Não,Urbana,12133.430553276101
+24,RN,2408102,Natal,Feminino,Branca,Sim,Urbana,167858.064537466
+24,RN,2408102,Natal,Feminino,Branca,NA,Urbana,12342.5256669687
+24,RN,2408102,Natal,Feminino,Indígena,Não,Urbana,35.488907380462
+24,RN,2408102,Natal,Feminino,Indígena,Sim,Urbana,300.609515623339
+24,RN,2408102,Natal,Feminino,Parda,Não,Urbana,20637.6230073281
+24,RN,2408102,Natal,Feminino,Parda,Sim,Urbana,176805.131418275
+24,RN,2408102,Natal,Feminino,Parda,NA,Urbana,13101.5613597335
+24,RN,2408102,Natal,Feminino,Preta,Não,Urbana,2362.08858990943
+24,RN,2408102,Natal,Feminino,Preta,Sim,Urbana,14897.2737853272
+24,RN,2408102,Natal,Feminino,Preta,NA,Urbana,299.164364980187
+24,RN,2408102,Natal,Masculino,Amarela,Não,Urbana,380.859851001172
+24,RN,2408102,Natal,Masculino,Amarela,Sim,Urbana,2903.7539806785
+24,RN,2408102,Natal,Masculino,Amarela,NA,Urbana,113.805316574988
+24,RN,2408102,Natal,Masculino,Branca,Não,Urbana,10689.2616927797
+24,RN,2408102,Natal,Masculino,Branca,Sim,Urbana,140182.698557925
+24,RN,2408102,Natal,Masculino,Branca,NA,Urbana,12917.3024401004
+24,RN,2408102,Natal,Masculino,Indígena,Não,Urbana,53.2697303264912
+24,RN,2408102,Natal,Masculino,Indígena,Sim,Urbana,594.152965288004
+24,RN,2408102,Natal,Masculino,Indígena,NA,Urbana,19.7498082219702
+24,RN,2408102,Natal,Masculino,Parda,Não,Urbana,21888.2693568763
+24,RN,2408102,Natal,Masculino,Parda,Sim,Urbana,154840.933041275
+24,RN,2408102,Natal,Masculino,Parda,NA,Urbana,13294.410662676
+24,RN,2408102,Natal,Masculino,Preta,Não,Urbana,2517.38372958923
+24,RN,2408102,Natal,Masculino,Preta,Sim,Urbana,17146.3547952866
+24,RN,2408102,Natal,Masculino,Preta,NA,Urbana,404.794071401008
+43,RS,4314902,Porto Alegre,Feminino,Amarela,Não,Urbana,74.3041264750677
+43,RS,4314902,Porto Alegre,Feminino,Amarela,Sim,Urbana,2488.18025917136
+43,RS,4314902,Porto Alegre,Feminino,Amarela,NA,Urbana,78.0222523427746
+43,RS,4314902,Porto Alegre,Feminino,Branca,Não,Urbana,17367.9261972145
+43,RS,4314902,Porto Alegre,Feminino,Branca,Sim,Urbana,558854.755189881
+43,RS,4314902,Porto Alegre,Feminino,Branca,NA,Urbana,30068.1913600063
+43,RS,4314902,Porto Alegre,Feminino,Indígena,Não,Urbana,194.605737434927
+43,RS,4314902,Porto Alegre,Feminino,Indígena,Sim,Urbana,1701.27379153183
+43,RS,4314902,Porto Alegre,Feminino,Indígena,NA,Urbana,168.237176825286
+43,RS,4314902,Porto Alegre,Feminino,Parda,Não,Urbana,4981.50217863815
+43,RS,4314902,Porto Alegre,Feminino,Parda,Sim,Urbana,60054.2244089062
+43,RS,4314902,Porto Alegre,Feminino,Parda,NA,Urbana,5087.176977869
+43,RS,4314902,Porto Alegre,Feminino,Preta,Não,Urbana,4471.46526362755
+43,RS,4314902,Porto Alegre,Feminino,Preta,Sim,Urbana,66725.5217452181
+43,RS,4314902,Porto Alegre,Feminino,Preta,NA,Urbana,3248.61333485819
+43,RS,4314902,Porto Alegre,Masculino,Amarela,Sim,Urbana,1649.07992100349
+43,RS,4314902,Porto Alegre,Masculino,Amarela,NA,Urbana,142.778023272427
+43,RS,4314902,Porto Alegre,Masculino,Branca,Não,Urbana,15370.9167307495
+43,RS,4314902,Porto Alegre,Masculino,Branca,Sim,Urbana,467959.004770478
+43,RS,4314902,Porto Alegre,Masculino,Branca,NA,Urbana,29423.1285593346
+43,RS,4314902,Porto Alegre,Masculino,Indígena,Não,Urbana,149.001191714779
+43,RS,4314902,Porto Alegre,Masculino,Indígena,Sim,Urbana,1671.80908762876
+43,RS,4314902,Porto Alegre,Masculino,Indígena,NA,Urbana,232.430008575536
+43,RS,4314902,Porto Alegre,Masculino,Parda,Não,Urbana,4331.96409205035
+43,RS,4314902,Porto Alegre,Masculino,Parda,Sim,Urbana,60127.9908191884
+43,RS,4314902,Porto Alegre,Masculino,Parda,NA,Urbana,6029.1564857776
+43,RS,4314902,Porto Alegre,Masculino,Preta,Não,Urbana,3794.4209649211
+43,RS,4314902,Porto Alegre,Masculino,Preta,Sim,Urbana,59131.598528882
+43,RS,4314902,Porto Alegre,Masculino,Preta,NA,Urbana,3773.72081642437
+42,SC,4209102,Joinville,Feminino,Amarela,Sim,Rural,32.5974345548629
+42,SC,4209102,Joinville,Feminino,Branca,Não,Rural,352.744167228606
+42,SC,4209102,Joinville,Feminino,Branca,Sim,Rural,6201.96226011442
+42,SC,4209102,Joinville,Feminino,Branca,NA,Rural,384.382088473394
+42,SC,4209102,Joinville,Feminino,Indígena,Não,Rural,12.8070448981836
+42,SC,4209102,Joinville,Feminino,Indígena,Sim,Rural,8.2482300267106
+42,SC,4209102,Joinville,Feminino,Parda,Não,Rural,99.5969766394335
+42,SC,4209102,Joinville,Feminino,Parda,Sim,Rural,1004.66652162292
+42,SC,4209102,Joinville,Feminino,Parda,NA,Rural,124.627090758153
+42,SC,4209102,Joinville,Feminino,Preta,Não,Rural,7.8927467325704
+42,SC,4209102,Joinville,Feminino,Preta,Sim,Rural,142.184946906005
+42,SC,4209102,Joinville,Feminino,Preta,NA,Rural,17.2904920448866
+42,SC,4209102,Joinville,Masculino,Amarela,Não,Rural,8.7584922291396
+42,SC,4209102,Joinville,Masculino,Amarela,Sim,Rural,22.4201307735228
+42,SC,4209102,Joinville,Masculino,Branca,Não,Rural,279.0999418344
+42,SC,4209102,Joinville,Masculino,Branca,Sim,Rural,6427.96887386813
+42,SC,4209102,Joinville,Masculino,Branca,NA,Rural,714.600240135162
+42,SC,4209102,Joinville,Masculino,Indígena,Sim,Rural,23.851899073851
+42,SC,4209102,Joinville,Masculino,Parda,Não,Rural,105.910877591425
+42,SC,4209102,Joinville,Masculino,Parda,Sim,Rural,1231.73166221398
+42,SC,4209102,Joinville,Masculino,Parda,NA,Rural,89.7627975566215
+42,SC,4209102,Joinville,Masculino,Preta,Não,Rural,33.3248246032002
+42,SC,4209102,Joinville,Masculino,Preta,Sim,Rural,111.570260120718
+42,SC,4209102,Joinville,Feminino,Amarela,Não,Urbana,31.9696208039259
+42,SC,4209102,Joinville,Feminino,Amarela,Sim,Urbana,870.087940021685
+42,SC,4209102,Joinville,Feminino,Amarela,NA,Urbana,55.910668243412
+42,SC,4209102,Joinville,Feminino,Branca,Não,Urbana,7202.56534386915
+42,SC,4209102,Joinville,Feminino,Branca,Sim,Urbana,195694.017903726
+42,SC,4209102,Joinville,Feminino,Branca,NA,Urbana,13918.1487236218
+42,SC,4209102,Joinville,Feminino,Indígena,Não,Urbana,4.956897809415
+42,SC,4209102,Joinville,Feminino,Indígena,Sim,Urbana,224.517038147796
+42,SC,4209102,Joinville,Feminino,Parda,Não,Urbana,1765.80000813821
+42,SC,4209102,Joinville,Feminino,Parda,Sim,Urbana,23703.3505501409
+42,SC,4209102,Joinville,Feminino,Parda,NA,Urbana,1536.76596864721
+42,SC,4209102,Joinville,Feminino,Preta,Não,Urbana,387.077675838933
+42,SC,4209102,Joinville,Feminino,Preta,Sim,Urbana,5423.98925189144
+42,SC,4209102,Joinville,Feminino,Preta,NA,Urbana,323.842409101035
+42,SC,4209102,Joinville,Masculino,Amarela,Não,Urbana,26.6573157047003
+42,SC,4209102,Joinville,Masculino,Amarela,Sim,Urbana,918.92599472593
+42,SC,4209102,Joinville,Masculino,Amarela,NA,Urbana,67.6500652954002
+42,SC,4209102,Joinville,Masculino,Branca,Não,Urbana,5822.28218938941
+42,SC,4209102,Joinville,Masculino,Branca,Sim,Urbana,189044.412972942
+42,SC,4209102,Joinville,Masculino,Branca,NA,Urbana,14700.5199304101
+42,SC,4209102,Joinville,Masculino,Indígena,Não,Urbana,10.7106382716527
+42,SC,4209102,Joinville,Masculino,Indígena,Sim,Urbana,388.685409293214
+42,SC,4209102,Joinville,Masculino,Indígena,NA,Urbana,15.447427911804
+42,SC,4209102,Joinville,Masculino,Parda,Não,Urbana,1387.51256744206
+42,SC,4209102,Joinville,Masculino,Parda,Sim,Urbana,26118.5690874964
+42,SC,4209102,Joinville,Masculino,Parda,NA,Urbana,1815.9983027368
+42,SC,4209102,Joinville,Masculino,Preta,Não,Urbana,210.131190069654
+42,SC,4209102,Joinville,Masculino,Preta,Sim,Urbana,5890.20030577944
+42,SC,4209102,Joinville,Masculino,Preta,NA,Urbana,289.296602532445
+28,SE,2800308,Aracaju,Feminino,Amarela,Não,Urbana,209.801080819521
+28,SE,2800308,Aracaju,Feminino,Amarela,Sim,Urbana,4318.25401356851
+28,SE,2800308,Aracaju,Feminino,Amarela,NA,Urbana,346.355651938254
+28,SE,2800308,Aracaju,Feminino,Branca,Não,Urbana,5536.80221043558
+28,SE,2800308,Aracaju,Feminino,Branca,Sim,Urbana,87029.5037896628
+28,SE,2800308,Aracaju,Feminino,Branca,NA,Urbana,8043.09741718598
+28,SE,2800308,Aracaju,Feminino,Ignorado,Não,Urbana,147.776259785413
+28,SE,2800308,Aracaju,Feminino,Ignorado,Sim,Urbana,53.2438663409243
+28,SE,2800308,Aracaju,Feminino,Indígena,Não,Urbana,52.7919234657146
+28,SE,2800308,Aracaju,Feminino,Indígena,Sim,Urbana,1151.82661382732
+28,SE,2800308,Aracaju,Feminino,Indígena,NA,Urbana,27.2629262843189
+28,SE,2800308,Aracaju,Feminino,Parda,Não,Urbana,12554.8921722519
+28,SE,2800308,Aracaju,Feminino,Parda,Sim,Urbana,146706.652808079
+28,SE,2800308,Aracaju,Feminino,Parda,NA,Urbana,10029.8290375643
+28,SE,2800308,Aracaju,Feminino,Preta,Não,Urbana,3297.51294691966
+28,SE,2800308,Aracaju,Feminino,Preta,Sim,Urbana,24927.9910107102
+28,SE,2800308,Aracaju,Feminino,Preta,NA,Urbana,1231.40627116046
+28,SE,2800308,Aracaju,Masculino,Amarela,Não,Urbana,164.907750121572
+28,SE,2800308,Aracaju,Masculino,Amarela,Sim,Urbana,2461.01440459026
+28,SE,2800308,Aracaju,Masculino,Amarela,NA,Urbana,310.632003981225
+28,SE,2800308,Aracaju,Masculino,Branca,Não,Urbana,4191.03318676758
+28,SE,2800308,Aracaju,Masculino,Branca,Sim,Urbana,70516.8721272356
+28,SE,2800308,Aracaju,Masculino,Branca,NA,Urbana,8374.31301896859
+28,SE,2800308,Aracaju,Masculino,Ignorado,Não,Urbana,53.124899497095
+28,SE,2800308,Aracaju,Masculino,Ignorado,Sim,Urbana,50.2243939208904
+28,SE,2800308,Aracaju,Masculino,Indígena,Não,Urbana,22.8028606737829
+28,SE,2800308,Aracaju,Masculino,Indígena,Sim,Urbana,1041.29038171409
+28,SE,2800308,Aracaju,Masculino,Indígena,NA,Urbana,61.639018042135
+28,SE,2800308,Aracaju,Masculino,Parda,Não,Urbana,11718.9128517415
+28,SE,2800308,Aracaju,Masculino,Parda,Sim,Urbana,124934.903982863
+28,SE,2800308,Aracaju,Masculino,Parda,NA,Urbana,10613.9864577909
+28,SE,2800308,Aracaju,Masculino,Preta,Não,Urbana,2861.59530064233
+28,SE,2800308,Aracaju,Masculino,Preta,Sim,Urbana,26535.3461964128
+28,SE,2800308,Aracaju,Masculino,Preta,NA,Urbana,1571.40116503607
+35,SP,3509502,Campinas,Feminino,Amarela,Sim,Rural,169.582793843007
+35,SP,3509502,Campinas,Feminino,Branca,Não,Rural,181.8359211729
+35,SP,3509502,Campinas,Feminino,Branca,Sim,Rural,4527.65897939841
+35,SP,3509502,Campinas,Feminino,Branca,NA,Rural,290.471183417602
+35,SP,3509502,Campinas,Feminino,Parda,Não,Rural,414.457557993622
+35,SP,3509502,Campinas,Feminino,Parda,Sim,Rural,2511.71181693663
+35,SP,3509502,Campinas,Feminino,Parda,NA,Rural,209.342618614039
+35,SP,3509502,Campinas,Feminino,Preta,Não,Rural,59.3220560198464
+35,SP,3509502,Campinas,Feminino,Preta,Sim,Rural,802.643780994653
+35,SP,3509502,Campinas,Feminino,Preta,NA,Rural,23.9732916092566
+35,SP,3509502,Campinas,Masculino,Amarela,Sim,Rural,138.498383293843
+35,SP,3509502,Campinas,Masculino,Amarela,NA,Rural,40.4385869565812
+35,SP,3509502,Campinas,Masculino,Branca,Não,Rural,263.076485702997
+35,SP,3509502,Campinas,Masculino,Branca,Sim,Rural,4293.40276174516
+35,SP,3509502,Campinas,Masculino,Branca,NA,Rural,487.3153512325
+35,SP,3509502,Campinas,Masculino,Parda,Não,Rural,268.486416251359
+35,SP,3509502,Campinas,Masculino,Parda,Sim,Rural,2891.10584219274
+35,SP,3509502,Campinas,Masculino,Parda,NA,Rural,221.11481509128
+35,SP,3509502,Campinas,Masculino,Preta,Não,Rural,79.9944608458464
+35,SP,3509502,Campinas,Masculino,Preta,Sim,Rural,666.585118583104
+35,SP,3509502,Campinas,Masculino,Preta,NA,Rural,31.9817781045607
+35,SP,3509502,Campinas,Feminino,Amarela,Não,Urbana,216.579001387489
+35,SP,3509502,Campinas,Feminino,Amarela,Sim,Urbana,6063.81569386852
+35,SP,3509502,Campinas,Feminino,Amarela,NA,Urbana,168.945066360092
+35,SP,3509502,Campinas,Feminino,Branca,Não,Urbana,12624.2387424077
+35,SP,3509502,Campinas,Feminino,Branca,Sim,Urbana,340303.148167622
+35,SP,3509502,Campinas,Feminino,Branca,NA,Urbana,20562.7052392271
+35,SP,3509502,Campinas,Feminino,Ignorado,Não,Urbana,723.906420280896
+35,SP,3509502,Campinas,Feminino,Ignorado,Sim,Urbana,377.25330362052
+35,SP,3509502,Campinas,Feminino,Ignorado,NA,Urbana,97.4229140265684
+35,SP,3509502,Campinas,Feminino,Indígena,Não,Urbana,60.9351628624803
+35,SP,3509502,Campinas,Feminino,Indígena,Sim,Urbana,292.240232850007
+35,SP,3509502,Campinas,Feminino,Parda,Não,Urbana,8744.95623164548
+35,SP,3509502,Campinas,Feminino,Parda,Sim,Urbana,117151.928111931
+35,SP,3509502,Campinas,Feminino,Parda,NA,Urbana,9194.97371033825
+35,SP,3509502,Campinas,Feminino,Preta,Não,Urbana,2278.31085412778
+35,SP,3509502,Campinas,Feminino,Preta,Sim,Urbana,29998.8758660792
+35,SP,3509502,Campinas,Feminino,Preta,NA,Urbana,1196.76528137395
+35,SP,3509502,Campinas,Masculino,Amarela,Não,Urbana,29.8135871105646
+35,SP,3509502,Campinas,Masculino,Amarela,Sim,Urbana,6030.75466463006
+35,SP,3509502,Campinas,Masculino,Amarela,NA,Urbana,292.145831273894
+35,SP,3509502,Campinas,Masculino,Branca,Não,Urbana,9787.79871144055
+35,SP,3509502,Campinas,Masculino,Branca,Sim,Urbana,305400.984749554
+35,SP,3509502,Campinas,Masculino,Branca,NA,Urbana,21301.4989027183
+35,SP,3509502,Campinas,Masculino,Ignorado,Não,Urbana,409.897165163744
+35,SP,3509502,Campinas,Masculino,Ignorado,Sim,Urbana,429.421747543893
+35,SP,3509502,Campinas,Masculino,Ignorado,NA,Urbana,52.6752385664161
+35,SP,3509502,Campinas,Masculino,Indígena,Não,Urbana,15.4063785038921
+35,SP,3509502,Campinas,Masculino,Indígena,Sim,Urbana,380.971557641656
+35,SP,3509502,Campinas,Masculino,Parda,Não,Urbana,7639.49934464954
+35,SP,3509502,Campinas,Masculino,Parda,Sim,Urbana,115925.253796764
+35,SP,3509502,Campinas,Masculino,Parda,NA,Urbana,9001.41761324164
+35,SP,3509502,Campinas,Masculino,Preta,Não,Urbana,1806.42277860979
+35,SP,3509502,Campinas,Masculino,Preta,Sim,Urbana,31747.6212102419
+35,SP,3509502,Campinas,Masculino,Preta,NA,Urbana,1231.41672235523
+35,SP,3518800,Guarulhos,Feminino,Amarela,Não,Urbana,163.258360572689
+35,SP,3518800,Guarulhos,Feminino,Amarela,Sim,Urbana,7087.65911321183
+35,SP,3518800,Guarulhos,Feminino,Amarela,NA,Urbana,248.081907659952
+35,SP,3518800,Guarulhos,Feminino,Branca,Não,Urbana,14230.1420067555
+35,SP,3518800,Guarulhos,Feminino,Branca,Sim,Urbana,302202.746802567
+35,SP,3518800,Guarulhos,Feminino,Branca,NA,Urbana,27017.0412795994
+35,SP,3518800,Guarulhos,Feminino,Ignorado,Não,Urbana,75.8139723669796
+35,SP,3518800,Guarulhos,Feminino,Indígena,Não,Urbana,21.6296720363312
+35,SP,3518800,Guarulhos,Feminino,Indígena,Sim,Urbana,950.444531501349
+35,SP,3518800,Guarulhos,Feminino,Indígena,NA,Urbana,9.3674746348529
+35,SP,3518800,Guarulhos,Feminino,Parda,Não,Urbana,17640.9391812309
+35,SP,3518800,Guarulhos,Feminino,Parda,Sim,Urbana,208070.027116007
+35,SP,3518800,Guarulhos,Feminino,Parda,NA,Urbana,15940.2398404487
+35,SP,3518800,Guarulhos,Feminino,Preta,Não,Urbana,2462.02401285767
+35,SP,3518800,Guarulhos,Feminino,Preta,Sim,Urbana,29700.9426348482
+35,SP,3518800,Guarulhos,Feminino,Preta,NA,Urbana,1115.64209370365
+35,SP,3518800,Guarulhos,Masculino,Amarela,Não,Urbana,189.403520709214
+35,SP,3518800,Guarulhos,Masculino,Amarela,Sim,Urbana,6464.5635668234
+35,SP,3518800,Guarulhos,Masculino,Amarela,NA,Urbana,363.221921268811
+35,SP,3518800,Guarulhos,Masculino,Branca,Não,Urbana,11832.8531468231
+35,SP,3518800,Guarulhos,Masculino,Branca,Sim,Urbana,269485.56332838
+35,SP,3518800,Guarulhos,Masculino,Branca,NA,Urbana,26983.6929248615
+35,SP,3518800,Guarulhos,Masculino,Ignorado,Não,Urbana,364.384537388863
+35,SP,3518800,Guarulhos,Masculino,Ignorado,Sim,Urbana,136.765945363054
+35,SP,3518800,Guarulhos,Masculino,Indígena,Não,Urbana,52.8126513150653
+35,SP,3518800,Guarulhos,Masculino,Indígena,Sim,Urbana,958.877864837499
+35,SP,3518800,Guarulhos,Masculino,Parda,Não,Urbana,14474.6855637854
+35,SP,3518800,Guarulhos,Masculino,Parda,Sim,Urbana,207839.343568081
+35,SP,3518800,Guarulhos,Masculino,Parda,NA,Urbana,17559.2879807622
+35,SP,3518800,Guarulhos,Masculino,Preta,Não,Urbana,2480.02560106536
+35,SP,3518800,Guarulhos,Masculino,Preta,Sim,Urbana,34597.9335827574
+35,SP,3518800,Guarulhos,Masculino,Preta,NA,Urbana,1259.58429578117
+35,SP,3534401,Osasco,Feminino,Amarela,Não,Urbana,32.4915947651296
+35,SP,3534401,Osasco,Feminino,Amarela,Sim,Urbana,3673.76302513836
+35,SP,3534401,Osasco,Feminino,Amarela,NA,Urbana,55.879478908088
+35,SP,3534401,Osasco,Feminino,Branca,Não,Urbana,8462.24668407438
+35,SP,3534401,Osasco,Feminino,Branca,Sim,Urbana,183728.937401554
+35,SP,3534401,Osasco,Feminino,Branca,NA,Urbana,13507.557133734
+35,SP,3534401,Osasco,Feminino,Ignorado,Não,Urbana,21.4002624381569
+35,SP,3534401,Osasco,Feminino,Ignorado,Sim,Urbana,191.933835952732
+35,SP,3534401,Osasco,Feminino,Ignorado,NA,Urbana,46.6676487454184
+35,SP,3534401,Osasco,Feminino,Indígena,Sim,Urbana,320.23979619681
+35,SP,3534401,Osasco,Feminino,Parda,Não,Urbana,8220.424626133
+35,SP,3534401,Osasco,Feminino,Parda,Sim,Urbana,100366.075083247
+35,SP,3534401,Osasco,Feminino,Parda,NA,Urbana,7465.36733396931
+35,SP,3534401,Osasco,Feminino,Preta,Não,Urbana,1166.32473901193
+35,SP,3534401,Osasco,Feminino,Preta,Sim,Urbana,18072.2071759092
+35,SP,3534401,Osasco,Feminino,Preta,NA,Urbana,972.484180221259
+35,SP,3534401,Osasco,Masculino,Amarela,Não,Urbana,60.3416062806552
+35,SP,3534401,Osasco,Masculino,Amarela,Sim,Urbana,3346.04009106564
+35,SP,3534401,Osasco,Masculino,Amarela,NA,Urbana,85.5910421655226
+35,SP,3534401,Osasco,Masculino,Branca,Não,Urbana,7323.90921929695
+35,SP,3534401,Osasco,Masculino,Branca,Sim,Urbana,162278.815111564
+35,SP,3534401,Osasco,Masculino,Branca,NA,Urbana,14254.6611602657
+35,SP,3534401,Osasco,Masculino,Ignorado,Não,Urbana,46.7230400449308
+35,SP,3534401,Osasco,Masculino,Ignorado,Sim,Urbana,67.0336197122919
+35,SP,3534401,Osasco,Masculino,Indígena,Sim,Urbana,222.534110601406
+35,SP,3534401,Osasco,Masculino,Parda,Não,Urbana,6439.11816567881
+35,SP,3534401,Osasco,Masculino,Parda,Sim,Urbana,97172.7968437563
+35,SP,3534401,Osasco,Masculino,Parda,NA,Urbana,7729.81371962572
+35,SP,3534401,Osasco,Masculino,Preta,Não,Urbana,1336.64888105955
+35,SP,3534401,Osasco,Masculino,Preta,Sim,Urbana,19302.2920813056
+35,SP,3534401,Osasco,Masculino,Preta,NA,Urbana,769.681307575887
+35,SP,3543402,Ribeirão Preto,Feminino,Amarela,Sim,Rural,4.3713362434558
+35,SP,3543402,Ribeirão Preto,Feminino,Branca,Não,Rural,42.5414815218136
+35,SP,3543402,Ribeirão Preto,Feminino,Branca,Sim,Rural,398.268483177235
+35,SP,3543402,Ribeirão Preto,Feminino,Branca,NA,Rural,42.571117659521
+35,SP,3543402,Ribeirão Preto,Feminino,Parda,Não,Rural,53.0999008854127
+35,SP,3543402,Ribeirão Preto,Feminino,Parda,Sim,Rural,107.096805383507
+35,SP,3543402,Ribeirão Preto,Feminino,Parda,NA,Rural,53.1692660233929
+35,SP,3543402,Ribeirão Preto,Feminino,Preta,Não,Rural,4.9934831827351
+35,SP,3543402,Ribeirão Preto,Feminino,Preta,Sim,Rural,64.2007689814764
+35,SP,3543402,Ribeirão Preto,Masculino,Amarela,Sim,Rural,4.3713362434558
+35,SP,3543402,Ribeirão Preto,Masculino,Branca,Não,Rural,11.2126940526304
+35,SP,3543402,Ribeirão Preto,Masculino,Branca,Sim,Rural,412.516021785994
+35,SP,3543402,Ribeirão Preto,Masculino,Branca,NA,Rural,48.1097927888863
+35,SP,3543402,Ribeirão Preto,Masculino,Parda,Não,Rural,9.6978786210195
+35,SP,3543402,Ribeirão Preto,Masculino,Parda,Sim,Rural,188.41966966846
+35,SP,3543402,Ribeirão Preto,Masculino,Parda,NA,Rural,17.0710509625823
+35,SP,3543402,Ribeirão Preto,Masculino,Preta,Sim,Rural,33.8195762552468
+35,SP,3543402,Ribeirão Preto,Feminino,Amarela,Não,Urbana,117.228270256207
+35,SP,3543402,Ribeirão Preto,Feminino,Amarela,Sim,Urbana,2533.16727376611
+35,SP,3543402,Ribeirão Preto,Feminino,Amarela,NA,Urbana,57.6827091137985
+35,SP,3543402,Ribeirão Preto,Feminino,Branca,Não,Urbana,6700.5042203742
+35,SP,3543402,Ribeirão Preto,Feminino,Branca,Sim,Urbana,202224.060876383
+35,SP,3543402,Ribeirão Preto,Feminino,Branca,NA,Urbana,12190.6890571216
+35,SP,3543402,Ribeirão Preto,Feminino,Ignorado,Não,Urbana,768.561253490217
+35,SP,3543402,Ribeirão Preto,Feminino,Ignorado,Sim,Urbana,245.69010656787
+35,SP,3543402,Ribeirão Preto,Feminino,Ignorado,NA,Urbana,25.2045291776343
+35,SP,3543402,Ribeirão Preto,Feminino,Indígena,Não,Urbana,11.6169762452235
+35,SP,3543402,Ribeirão Preto,Feminino,Indígena,Sim,Urbana,277.416990486261
+35,SP,3543402,Ribeirão Preto,Feminino,Indígena,NA,Urbana,14.7024036446105
+35,SP,3543402,Ribeirão Preto,Feminino,Parda,Não,Urbana,4405.57804771196
+35,SP,3543402,Ribeirão Preto,Feminino,Parda,Sim,Urbana,60210.818432838
+35,SP,3543402,Ribeirão Preto,Feminino,Parda,NA,Urbana,4438.96998474656
+35,SP,3543402,Ribeirão Preto,Feminino,Preta,Não,Urbana,1060.54239955781
+35,SP,3543402,Ribeirão Preto,Feminino,Preta,Sim,Urbana,17548.9484654572
+35,SP,3543402,Ribeirão Preto,Feminino,Preta,NA,Urbana,909.305360005667
+35,SP,3543402,Ribeirão Preto,Masculino,Amarela,Não,Urbana,128.864470425617
+35,SP,3543402,Ribeirão Preto,Masculino,Amarela,Sim,Urbana,2636.16454003769
+35,SP,3543402,Ribeirão Preto,Masculino,Amarela,NA,Urbana,54.7435431085893
+35,SP,3543402,Ribeirão Preto,Masculino,Branca,Não,Urbana,5679.6807096401
+35,SP,3543402,Ribeirão Preto,Masculino,Branca,Sim,Urbana,180915.998952148
+35,SP,3543402,Ribeirão Preto,Masculino,Branca,NA,Urbana,12147.4273642485
+35,SP,3543402,Ribeirão Preto,Masculino,Ignorado,Não,Urbana,697.282340317603
+35,SP,3543402,Ribeirão Preto,Masculino,Ignorado,Sim,Urbana,228.765515130274
+35,SP,3543402,Ribeirão Preto,Masculino,Ignorado,NA,Urbana,88.9261756299808
+35,SP,3543402,Ribeirão Preto,Masculino,Indígena,Sim,Urbana,266.698174818723
+35,SP,3543402,Ribeirão Preto,Masculino,Parda,Não,Urbana,4249.16860439071
+35,SP,3543402,Ribeirão Preto,Masculino,Parda,Sim,Urbana,58781.1348605702
+35,SP,3543402,Ribeirão Preto,Masculino,Parda,NA,Urbana,4901.04301117208
+35,SP,3543402,Ribeirão Preto,Masculino,Preta,Não,Urbana,940.203209311009
+35,SP,3543402,Ribeirão Preto,Masculino,Preta,Sim,Urbana,16628.4872381093
+35,SP,3543402,Ribeirão Preto,Masculino,Preta,NA,Urbana,1101.19327056524
+35,SP,3547809,Santo André,Feminino,Amarela,Não,Urbana,165.838703536854
+35,SP,3547809,Santo André,Feminino,Amarela,Sim,Urbana,5381.30009767563
+35,SP,3547809,Santo André,Feminino,Amarela,NA,Urbana,150.692910278122
+35,SP,3547809,Santo André,Feminino,Branca,Não,Urbana,8513.42441127755
+35,SP,3547809,Santo André,Feminino,Branca,Sim,Urbana,229469.628161829
+35,SP,3547809,Santo André,Feminino,Branca,NA,Urbana,14129.3550703873
+35,SP,3547809,Santo André,Feminino,Indígena,Não,Urbana,13.4946677157957
+35,SP,3547809,Santo André,Feminino,Indígena,Sim,Urbana,342.574920835949
+35,SP,3547809,Santo André,Feminino,Parda,Não,Urbana,4759.78076341485
+35,SP,3547809,Santo André,Feminino,Parda,Sim,Urbana,70171.6276978891
+35,SP,3547809,Santo André,Feminino,Parda,NA,Urbana,4592.32878383253
+35,SP,3547809,Santo André,Feminino,Preta,Não,Urbana,885.927972794887
+35,SP,3547809,Santo André,Feminino,Preta,Sim,Urbana,12762.6943992944
+35,SP,3547809,Santo André,Feminino,Preta,NA,Urbana,610.331439238056
+35,SP,3547809,Santo André,Masculino,Amarela,Não,Urbana,108.110542033743
+35,SP,3547809,Santo André,Masculino,Amarela,Sim,Urbana,4119.9908845224
+35,SP,3547809,Santo André,Masculino,Amarela,NA,Urbana,51.8305796566607
+35,SP,3547809,Santo André,Masculino,Branca,Não,Urbana,5206.69219284753
+35,SP,3547809,Santo André,Masculino,Branca,Sim,Urbana,207278.076529946
+35,SP,3547809,Santo André,Masculino,Branca,NA,Urbana,15066.3397180781
+35,SP,3547809,Santo André,Masculino,Indígena,Não,Urbana,41.2249886907609
+35,SP,3547809,Santo André,Masculino,Indígena,Sim,Urbana,216.967680004849
+35,SP,3547809,Santo André,Masculino,Indígena,NA,Urbana,19.9990009082226
+35,SP,3547809,Santo André,Masculino,Parda,Não,Urbana,4550.17926110738
+35,SP,3547809,Santo André,Masculino,Parda,Sim,Urbana,68044.3885305006
+35,SP,3547809,Santo André,Masculino,Parda,NA,Urbana,4718.75154247392
+35,SP,3547809,Santo André,Masculino,Preta,Não,Urbana,797.421885258589
+35,SP,3547809,Santo André,Masculino,Preta,Sim,Urbana,13751.6109486382
+35,SP,3547809,Santo André,Masculino,Preta,NA,Urbana,486.415715333699
+35,SP,3548708,São Bernardo do Campo,Feminino,Amarela,Sim,Rural,18.1162603929713
+35,SP,3548708,São Bernardo do Campo,Feminino,Branca,Não,Rural,295.563724969281
+35,SP,3548708,São Bernardo do Campo,Feminino,Branca,Sim,Rural,2574.36237772209
+35,SP,3548708,São Bernardo do Campo,Feminino,Branca,NA,Rural,287.339406675071
+35,SP,3548708,São Bernardo do Campo,Feminino,Parda,Não,Rural,175.085719586384
+35,SP,3548708,São Bernardo do Campo,Feminino,Parda,Sim,Rural,2451.95794320903
+35,SP,3548708,São Bernardo do Campo,Feminino,Parda,NA,Rural,146.524425490487
+35,SP,3548708,São Bernardo do Campo,Feminino,Preta,Não,Rural,28.8140876498545
+35,SP,3548708,São Bernardo do Campo,Feminino,Preta,Sim,Rural,333.512391108544
+35,SP,3548708,São Bernardo do Campo,Feminino,Preta,NA,Rural,15.7236631962886
+35,SP,3548708,São Bernardo do Campo,Masculino,Amarela,Sim,Rural,93.5664823181705
+35,SP,3548708,São Bernardo do Campo,Masculino,Amarela,NA,Rural,18.1162603929713
+35,SP,3548708,São Bernardo do Campo,Masculino,Branca,Não,Rural,171.328558852167
+35,SP,3548708,São Bernardo do Campo,Masculino,Branca,Sim,Rural,2850.31996144054
+35,SP,3548708,São Bernardo do Campo,Masculino,Branca,NA,Rural,255.380105418112
+35,SP,3548708,São Bernardo do Campo,Masculino,Parda,Não,Rural,235.226845168576
+35,SP,3548708,São Bernardo do Campo,Masculino,Parda,Sim,Rural,2260.46534005443
+35,SP,3548708,São Bernardo do Campo,Masculino,Parda,NA,Rural,183.84848625226
+35,SP,3548708,São Bernardo do Campo,Masculino,Preta,Não,Rural,67.6791406473425
+35,SP,3548708,São Bernardo do Campo,Masculino,Preta,Sim,Rural,310.621493062856
+35,SP,3548708,São Bernardo do Campo,Masculino,Preta,NA,Rural,31.4473263925772
+35,SP,3548708,São Bernardo do Campo,Feminino,Amarela,Não,Urbana,204.123883418223
+35,SP,3548708,São Bernardo do Campo,Feminino,Amarela,Sim,Urbana,7562.13437025484
+35,SP,3548708,São Bernardo do Campo,Feminino,Amarela,NA,Urbana,280.356256717865
+35,SP,3548708,São Bernardo do Campo,Feminino,Branca,Não,Urbana,7694.97382609892
+35,SP,3548708,São Bernardo do Campo,Feminino,Branca,Sim,Urbana,229798.896992144
+35,SP,3548708,São Bernardo do Campo,Feminino,Branca,NA,Urbana,16978.5631536253
+35,SP,3548708,São Bernardo do Campo,Feminino,Ignorado,Não,Urbana,34.0162960460163
+35,SP,3548708,São Bernardo do Campo,Feminino,Ignorado,Sim,Urbana,18.4194475441917
+35,SP,3548708,São Bernardo do Campo,Feminino,Indígena,Não,Urbana,36.5791376193827
+35,SP,3548708,São Bernardo do Campo,Feminino,Indígena,Sim,Urbana,607.935850787941
+35,SP,3548708,São Bernardo do Campo,Feminino,Indígena,NA,Urbana,22.1570972409451
+35,SP,3548708,São Bernardo do Campo,Feminino,Parda,Não,Urbana,6531.7858289981
+35,SP,3548708,São Bernardo do Campo,Feminino,Parda,Sim,Urbana,95513.5873188173
+35,SP,3548708,São Bernardo do Campo,Feminino,Parda,NA,Urbana,6214.60869170307
+35,SP,3548708,São Bernardo do Campo,Feminino,Preta,Não,Urbana,850.506648176419
+35,SP,3548708,São Bernardo do Campo,Feminino,Preta,Sim,Urbana,16398.0914635093
+35,SP,3548708,São Bernardo do Campo,Feminino,Preta,NA,Urbana,763.263737296506
+35,SP,3548708,São Bernardo do Campo,Masculino,Amarela,Não,Urbana,54.9915732853985
+35,SP,3548708,São Bernardo do Campo,Masculino,Amarela,Sim,Urbana,6566.23672148958
+35,SP,3548708,São Bernardo do Campo,Masculino,Amarela,NA,Urbana,158.96111657762
+35,SP,3548708,São Bernardo do Campo,Masculino,Branca,Não,Urbana,6424.52963050798
+35,SP,3548708,São Bernardo do Campo,Masculino,Branca,Sim,Urbana,206098.613891845
+35,SP,3548708,São Bernardo do Campo,Masculino,Branca,NA,Urbana,16745.575538215
+35,SP,3548708,São Bernardo do Campo,Masculino,Ignorado,Não,Urbana,54.6490137315323
+35,SP,3548708,São Bernardo do Campo,Masculino,Ignorado,Sim,Urbana,45.7836462876705
+35,SP,3548708,São Bernardo do Campo,Masculino,Indígena,Não,Urbana,17.7529313586905
+35,SP,3548708,São Bernardo do Campo,Masculino,Indígena,Sim,Urbana,364.97972778074
+35,SP,3548708,São Bernardo do Campo,Masculino,Parda,Não,Urbana,5301.2509108353
+35,SP,3548708,São Bernardo do Campo,Masculino,Parda,Sim,Urbana,94661.7298662855
+35,SP,3548708,São Bernardo do Campo,Masculino,Parda,NA,Urbana,6556.55650347891
+35,SP,3548708,São Bernardo do Campo,Masculino,Preta,Não,Urbana,998.760366695368
+35,SP,3548708,São Bernardo do Campo,Masculino,Preta,Sim,Urbana,18382.8628082543
+35,SP,3548708,São Bernardo do Campo,Masculino,Preta,NA,Urbana,714.76575337048
+35,SP,3549904,São José dos Campos,Feminino,Amarela,Não,Rural,13.05133662055
+35,SP,3549904,São José dos Campos,Feminino,Amarela,Sim,Rural,29.0612191189883
+35,SP,3549904,São José dos Campos,Feminino,Branca,Não,Rural,503.486172592803
+35,SP,3549904,São José dos Campos,Feminino,Branca,Sim,Rural,4008.86914582673
+35,SP,3549904,São José dos Campos,Feminino,Branca,NA,Rural,258.034169605687
+35,SP,3549904,São José dos Campos,Feminino,Parda,Não,Rural,235.703691289835
+35,SP,3549904,São José dos Campos,Feminino,Parda,Sim,Rural,793.385159601243
+35,SP,3549904,São José dos Campos,Feminino,Parda,NA,Rural,169.745567035296
+35,SP,3549904,São José dos Campos,Feminino,Preta,Não,Rural,2.0363304391072
+35,SP,3549904,São José dos Campos,Feminino,Preta,Sim,Rural,57.6272078696811
+35,SP,3549904,São José dos Campos,Masculino,Amarela,Sim,Rural,40.5094382892829
+35,SP,3549904,São José dos Campos,Masculino,Branca,Não,Rural,458.129364999065
+35,SP,3549904,São José dos Campos,Masculino,Branca,Sim,Rural,4399.06701633556
+35,SP,3549904,São José dos Campos,Masculino,Branca,NA,Rural,188.751554983952
+35,SP,3549904,São José dos Campos,Masculino,Parda,Não,Rural,286.443261628312
+35,SP,3549904,São José dos Campos,Masculino,Parda,Sim,Rural,965.507539160179
+35,SP,3549904,São José dos Campos,Masculino,Parda,NA,Rural,70.2861853338726
+35,SP,3549904,São José dos Campos,Masculino,Preta,Não,Rural,80.0260784338396
+35,SP,3549904,São José dos Campos,Masculino,Preta,Sim,Rural,232.198941755919
+35,SP,3549904,São José dos Campos,Masculino,Preta,NA,Rural,10.0806190799006
+35,SP,3549904,São José dos Campos,Feminino,Amarela,Não,Urbana,97.4996676849046
+35,SP,3549904,São José dos Campos,Feminino,Amarela,Sim,Urbana,4188.1781452245305
+35,SP,3549904,São José dos Campos,Feminino,Amarela,NA,Urbana,304.750824396796
+35,SP,3549904,São José dos Campos,Feminino,Branca,Não,Urbana,7392.14017946632
+35,SP,3549904,São José dos Campos,Feminino,Branca,Sim,Urbana,210127.324648828
+35,SP,3549904,São José dos Campos,Feminino,Branca,NA,Urbana,15418.5025521858
+35,SP,3549904,São José dos Campos,Feminino,Ignorado,Não,Urbana,22.3052273391478
+35,SP,3549904,São José dos Campos,Feminino,Indígena,Sim,Urbana,177.074774122635
+35,SP,3549904,São José dos Campos,Feminino,Indígena,NA,Urbana,22.8006472216997
+35,SP,3549904,São José dos Campos,Feminino,Parda,Não,Urbana,4220.94422471786
+35,SP,3549904,São José dos Campos,Feminino,Parda,Sim,Urbana,56027.8001926587
+35,SP,3549904,São José dos Campos,Feminino,Parda,NA,Urbana,4288.44314708967
+35,SP,3549904,São José dos Campos,Feminino,Preta,Não,Urbana,849.265266178944
+35,SP,3549904,São José dos Campos,Feminino,Preta,Sim,Urbana,11593.717122283
+35,SP,3549904,São José dos Campos,Feminino,Preta,NA,Urbana,495.253380580113
+35,SP,3549904,São José dos Campos,Masculino,Amarela,Não,Urbana,74.5348492923227
+35,SP,3549904,São José dos Campos,Masculino,Amarela,Sim,Urbana,4371.48751165419
+35,SP,3549904,São José dos Campos,Masculino,Amarela,NA,Urbana,166.595612034303
+35,SP,3549904,São José dos Campos,Masculino,Branca,Não,Urbana,5816.42932258927
+35,SP,3549904,São José dos Campos,Masculino,Branca,Sim,Urbana,192260.401163254
+35,SP,3549904,São José dos Campos,Masculino,Branca,NA,Urbana,16338.6562189221
+35,SP,3549904,São José dos Campos,Masculino,Ignorado,Não,Urbana,46.2712266487194
+35,SP,3549904,São José dos Campos,Masculino,Ignorado,Sim,Urbana,23.1356133243597
+35,SP,3549904,São José dos Campos,Masculino,Indígena,Sim,Urbana,151.36290630798
+35,SP,3549904,São José dos Campos,Masculino,Parda,Não,Urbana,3426.5692673065
+35,SP,3549904,São José dos Campos,Masculino,Parda,Sim,Urbana,61831.004526754
+35,SP,3549904,São José dos Campos,Masculino,Parda,NA,Urbana,3900.97900228656
+35,SP,3549904,São José dos Campos,Masculino,Preta,Não,Urbana,743.347080717909
+35,SP,3549904,São José dos Campos,Masculino,Preta,Sim,Urbana,12107.4910418909
+35,SP,3549904,São José dos Campos,Masculino,Preta,NA,Urbana,634.734656996107
+35,SP,3550308,São Paulo,Feminino,Amarela,Sim,Rural,124.669311817577
+35,SP,3550308,São Paulo,Feminino,Branca,Não,Rural,1461.15075189111
+35,SP,3550308,São Paulo,Feminino,Branca,Sim,Rural,20451.4889820494
+35,SP,3550308,São Paulo,Feminino,Branca,NA,Rural,2225.70336132272
+35,SP,3550308,São Paulo,Feminino,Indígena,Não,Rural,166.902646482214
+35,SP,3550308,São Paulo,Feminino,Indígena,Sim,Rural,290.788640024871
+35,SP,3550308,São Paulo,Feminino,Indígena,NA,Rural,83.383984938738
+35,SP,3550308,São Paulo,Feminino,Parda,Não,Rural,1890.35495282875
+35,SP,3550308,São Paulo,Feminino,Parda,Sim,Rural,18488.0580511453
+35,SP,3550308,São Paulo,Feminino,Parda,NA,Rural,1803.64325755474
+35,SP,3550308,São Paulo,Feminino,Preta,Não,Rural,308.70753312368703
+35,SP,3550308,São Paulo,Feminino,Preta,Sim,Rural,2966.28740830221
+35,SP,3550308,São Paulo,Feminino,Preta,NA,Rural,75.8362364313125
+35,SP,3550308,São Paulo,Masculino,Amarela,Não,Rural,18.71167888446
+35,SP,3550308,São Paulo,Masculino,Amarela,Sim,Rural,126.435753482781
+35,SP,3550308,São Paulo,Masculino,Branca,Não,Rural,1687.13419477905
+35,SP,3550308,São Paulo,Masculino,Branca,Sim,Rural,18512.3130282998
+35,SP,3550308,São Paulo,Masculino,Branca,NA,Rural,2033.96387991891
+35,SP,3550308,São Paulo,Masculino,Indígena,Não,Rural,71.5669457133332
+35,SP,3550308,São Paulo,Masculino,Indígena,Sim,Rural,413.699397015635
+35,SP,3550308,São Paulo,Masculino,Indígena,NA,Rural,99.5984194913275
+35,SP,3550308,São Paulo,Masculino,Parda,Não,Rural,2328.3068624575
+35,SP,3550308,São Paulo,Masculino,Parda,Sim,Rural,19116.8222548018
+35,SP,3550308,São Paulo,Masculino,Parda,NA,Rural,1847.58940663138
+35,SP,3550308,São Paulo,Masculino,Preta,Não,Rural,426.716636345495
+35,SP,3550308,São Paulo,Masculino,Preta,Sim,Rural,3368.6374567117
+35,SP,3550308,São Paulo,Masculino,Preta,NA,Rural,146.918055296913
+35,SP,3550308,São Paulo,Feminino,Amarela,Não,Urbana,3379.02449412754
+35,SP,3550308,São Paulo,Feminino,Amarela,Sim,Urbana,124235.987428682
+35,SP,3550308,São Paulo,Feminino,Amarela,NA,Urbana,4011.89182554764
+35,SP,3550308,São Paulo,Feminino,Branca,Não,Urbana,118926.576779961
+35,SP,3550308,São Paulo,Feminino,Branca,Sim,Urbana,3294153.53059139
+35,SP,3550308,São Paulo,Feminino,Branca,NA,Urbana,216270.021860145
+35,SP,3550308,São Paulo,Feminino,Ignorado,Não,Urbana,532.922414455446
+35,SP,3550308,São Paulo,Feminino,Ignorado,Sim,Urbana,666.890376828757
+35,SP,3550308,São Paulo,Feminino,Ignorado,NA,Urbana,117.571875337939
+35,SP,3550308,São Paulo,Feminino,Indígena,Não,Urbana,250.952743123691
+35,SP,3550308,São Paulo,Feminino,Indígena,Sim,Urbana,6125.17276724347
+35,SP,3550308,São Paulo,Feminino,Indígena,NA,Urbana,312.378805714542
+35,SP,3550308,São Paulo,Feminino,Parda,Não,Urbana,112335.632000452
+35,SP,3550308,São Paulo,Feminino,Parda,Sim,Urbana,1526067.87665173
+35,SP,3550308,São Paulo,Feminino,Parda,NA,Urbana,110290.103277068
+35,SP,3550308,São Paulo,Feminino,Preta,Não,Urbana,22498.5554637279
+35,SP,3550308,São Paulo,Feminino,Preta,Sim,Urbana,320166.643130058
+35,SP,3550308,São Paulo,Feminino,Preta,NA,Urbana,14192.2923964995
+35,SP,3550308,São Paulo,Masculino,Amarela,Não,Urbana,1853.46754527352
+35,SP,3550308,São Paulo,Masculino,Amarela,Sim,Urbana,112422.766633276
+35,SP,3550308,São Paulo,Masculino,Amarela,NA,Urbana,3972.71049842937
+35,SP,3550308,São Paulo,Masculino,Branca,Não,Urbana,95137.7823658716
+35,SP,3550308,São Paulo,Masculino,Branca,Sim,Urbana,2830017.54784868
+35,SP,3550308,São Paulo,Masculino,Branca,NA,Urbana,222126.564096756
+35,SP,3550308,São Paulo,Masculino,Ignorado,Não,Urbana,820.112027286637
+35,SP,3550308,São Paulo,Masculino,Ignorado,Sim,Urbana,671.814126663555
+35,SP,3550308,São Paulo,Masculino,Ignorado,NA,Urbana,81.4706183235458
+35,SP,3550308,São Paulo,Masculino,Indígena,Não,Urbana,254.54003779496
+35,SP,3550308,São Paulo,Masculino,Indígena,Sim,Urbana,4635.96645976606
+35,SP,3550308,São Paulo,Masculino,Indígena,NA,Urbana,253.644101661104
+35,SP,3550308,São Paulo,Masculino,Parda,Não,Urbana,97688.2037610333
+35,SP,3550308,São Paulo,Masculino,Parda,Sim,Urbana,1438110.21937545
+35,SP,3550308,São Paulo,Masculino,Parda,NA,Urbana,117322.742650111
+35,SP,3550308,São Paulo,Masculino,Preta,Não,Urbana,19107.8218400702
+35,SP,3550308,São Paulo,Masculino,Preta,Sim,Urbana,319689.556192449
+35,SP,3550308,São Paulo,Masculino,Preta,NA,Urbana,14266.6558512762
+35,SP,3552205,Sorocaba,Feminino,Branca,Não,Rural,87.3701871950355
+35,SP,3552205,Sorocaba,Feminino,Branca,Sim,Rural,1819.98300469458
+35,SP,3552205,Sorocaba,Feminino,Branca,NA,Rural,141.912930521474
+35,SP,3552205,Sorocaba,Feminino,Parda,Não,Rural,34.2317421385465
+35,SP,3552205,Sorocaba,Feminino,Parda,Sim,Rural,577.343164297969
+35,SP,3552205,Sorocaba,Feminino,Parda,NA,Rural,79.856788322823
+35,SP,3552205,Sorocaba,Feminino,Preta,Sim,Rural,103.711130297498
+35,SP,3552205,Sorocaba,Masculino,Branca,Não,Rural,99.160894006553
+35,SP,3552205,Sorocaba,Masculino,Branca,Sim,Rural,2139.01232219434
+35,SP,3552205,Sorocaba,Masculino,Branca,NA,Rural,181.299827728781
+35,SP,3552205,Sorocaba,Masculino,Parda,Não,Rural,77.0353219945306
+35,SP,3552205,Sorocaba,Masculino,Parda,Sim,Rural,482.688485840402
+35,SP,3552205,Sorocaba,Masculino,Parda,NA,Rural,63.9270653277826
+35,SP,3552205,Sorocaba,Masculino,Preta,Sim,Rural,116.696420337854
+35,SP,3552205,Sorocaba,Feminino,Amarela,Não,Urbana,113.217081135624
+35,SP,3552205,Sorocaba,Feminino,Amarela,Sim,Urbana,2798.25422804138
+35,SP,3552205,Sorocaba,Feminino,Amarela,NA,Urbana,92.7572264589188
+35,SP,3552205,Sorocaba,Feminino,Branca,Não,Urbana,7874.08936548111
+35,SP,3552205,Sorocaba,Feminino,Branca,Sim,Urbana,201178.8626141
+35,SP,3552205,Sorocaba,Feminino,Branca,NA,Urbana,13971.5695347301
+35,SP,3552205,Sorocaba,Feminino,Ignorado,Sim,Urbana,15.5958666854745
+35,SP,3552205,Sorocaba,Feminino,Indígena,Não,Urbana,25.1378377895597
+35,SP,3552205,Sorocaba,Feminino,Indígena,Sim,Urbana,504.668828643412
+35,SP,3552205,Sorocaba,Feminino,Parda,Não,Urbana,3943.79126378697
+35,SP,3552205,Sorocaba,Feminino,Parda,Sim,Urbana,52040.6846506098
+35,SP,3552205,Sorocaba,Feminino,Parda,NA,Urbana,3023.89434998546
+35,SP,3552205,Sorocaba,Feminino,Preta,Não,Urbana,576.849613709904
+35,SP,3552205,Sorocaba,Feminino,Preta,Sim,Urbana,10186.1782918774
+35,SP,3552205,Sorocaba,Feminino,Preta,NA,Urbana,421.040299499543
+35,SP,3552205,Sorocaba,Masculino,Amarela,Não,Urbana,77.5525325340453
+35,SP,3552205,Sorocaba,Masculino,Amarela,Sim,Urbana,2479.41042517042
+35,SP,3552205,Sorocaba,Masculino,Amarela,NA,Urbana,118.305414643093
+35,SP,3552205,Sorocaba,Masculino,Branca,Não,Urbana,6971.54182751131
+35,SP,3552205,Sorocaba,Masculino,Branca,Sim,Urbana,186406.094784821
+35,SP,3552205,Sorocaba,Masculino,Branca,NA,Urbana,13905.7358668981
+35,SP,3552205,Sorocaba,Masculino,Indígena,Sim,Urbana,356.669117560364
+35,SP,3552205,Sorocaba,Masculino,Parda,Não,Urbana,3788.54167332118
+35,SP,3552205,Sorocaba,Masculino,Parda,Sim,Urbana,53704.9536405663
+35,SP,3552205,Sorocaba,Masculino,Parda,NA,Urbana,3434.25333348827
+35,SP,3552205,Sorocaba,Masculino,Preta,Não,Urbana,692.715423186782
+35,SP,3552205,Sorocaba,Masculino,Preta,Sim,Urbana,11566.0142222838
+35,SP,3552205,Sorocaba,Masculino,Preta,NA,Urbana,352.391400587264

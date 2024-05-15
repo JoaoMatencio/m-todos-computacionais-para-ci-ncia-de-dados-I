@@ -1,0 +1,142 @@
+---
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+params:
+  estado: ''
+  cidade: ''
+  pop_sexo: ''
+  pop_etnia: ''
+  pop_analf: ''
+  pop_situacao: ''
+---
+
+<style>
+body {
+  padding-top:0px
+}
+.navbar{
+  visibility: hidden
+}
+.bg-primary {
+    background-color: #505050;
+}
+.value-box {
+    color: #fdfdfd;
+}
+</style>
+
+```{r pacotes, echo=FALSE, message=FALSE}
+require(flexdashboard)
+require(plotly)
+require(reshape2)
+
+paleta <- c("#729ECE", "#67BF5C", "#ED665D", "#AD8BC9", "#A8786E", "#ED97CA", "#A2A2A2", "#CDCC5D", "#6DCCDA")
+
+param_sexo <- params$pop_sexo %>% dcast(COD_MUN ~ SEXO, value.var = "POP", fun.aggregate = sum)
+param_etnia <- params$pop_etnia %>% dcast(COD_MUN ~ ETNIA, value.var = "POP", fun.aggregate = sum)
+param_analf <- params$pop_analf %>% dcast(COD_MUN ~ LE_ESCREVE, value.var = "POP", fun.aggregate = sum)
+param_situacao <- params$pop_situacao %>% dcast(COD_MUN ~ SIT_DOM, value.var = "POP", fun.aggregate = sum)
+pop <- sum(params$pop_sexo$POP)
+col_text <- grey(0.4)
+size_text <- 15
+```
+
+<br><br>
+
+<center><font face='verdana' size='7' color='#4682B4'>`r params$cidade` - `r params$estado`</font></center>
+
+<br><br>
+
+Column 
+-----------------------------------------------------------------------
+
+### População total de `r params$cidade`
+
+```{r pop, echo=FALSE}
+pop <- format(pop, big.mark = ".", decimal.mark = ",", scientific = F)
+valueBox(pop, icon = "fa-line-chart",
+         color = "primary")
+```
+
+### População feminina de `r params$cidade`
+
+```{r pop feminina, echo=FALSE}
+pop <- format(param_sexo$Feminino, big.mark = ".", decimal.mark = ",", scientific = F)
+valueBox(pop, icon = "fa-female",
+         color = "primary")
+```
+
+### População masculina de `r params$cidade`
+
+```{r pop masculina, echo=FALSE}
+pop <- format(param_sexo$Masculino, big.mark = ".", decimal.mark = ",", scientific = F)
+valueBox(pop, icon = "fa-male",
+         color = "primary")
+```
+
+<br>
+<br>
+
+Column 
+-----------------------------------------------------------------------
+
+```{r sexo, echo=F}
+params$pop_sexo %>%
+  plot_ly(labels = ~SEXO, values = ~POP, 
+          textinfo = 'none', 
+          marker = list(colors = paleta,
+                        line = list(color = '#FFFFFF', width = 2))
+  ) %>%
+  add_pie(hole = 0.6) %>%
+  layout(legend = list(orientation = 'h', position = 'bottom', xanchor = 'center', x = 0.5),
+         xaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
+         yaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE)) %>%
+  add_annotations(text = "Sexo", x = 0, y = 0, showarrow = F, 
+                  font = list(color = col_text, size = size_text), align = 'center')
+```
+
+```{r etnia, echo=F}
+data.frame(params$pop_etnia) %>%
+  plot_ly(labels = ~ETNIA, values = ~POP, 
+          textinfo = 'none', 
+          marker = list(colors = paleta,
+                        line = list(color = '#FFFFFF', width = 2))
+  ) %>%
+  add_pie(hole = 0.6) %>%
+  layout(legend = list(orientation = 'h', position = 'bottom', xanchor = 'center', x = 0.5),
+         xaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
+         yaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE)) %>%
+  add_annotations(text = "Etnia", x = 0, y = 0, showarrow = F, 
+                  font = list(color = col_text, size = size_text), align = 'center')
+```
+
+```{r analfabetismo, echo=F}
+data.frame(params$pop_analf) %>%
+  plot_ly(labels = ~LE_ESCREVE, values = ~POP, 
+          textinfo = 'none', 
+          marker = list(colors = paleta,
+                        line = list(color = '#FFFFFF', width = 2))
+  ) %>%
+  add_pie(hole = 0.6) %>%
+  layout(legend = list(orientation = 'h', position = 'bottom', xanchor = 'center', x = 0.5),
+         xaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
+         yaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE)) %>%
+  add_annotations(text = "Analfabetismo", x = 0, y = 0, showarrow = F, 
+                  font = list(color = col_text, size = size_text), align = 'center')
+```
+
+```{r situacao domiciliar, echo=F}
+data.frame(params$pop_situacao) %>%
+  plot_ly(labels = ~SIT_DOM, values = ~POP, 
+          textinfo = 'none', 
+          marker = list(colors = paleta,
+                        line = list(color = '#FFFFFF', width = 2))
+  ) %>%
+  add_pie(hole = 0.6) %>%
+  layout(legend = list(orientation = 'h', position = 'bottom', xanchor = 'center', x = 0.5),
+         xaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
+         yaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE)) %>%
+  add_annotations(text = "Situação <br> domiciliar", x = 0, y = 0, showarrow = F, 
+                  font = list(color = col_text, size = size_text), align = 'center')
+```
